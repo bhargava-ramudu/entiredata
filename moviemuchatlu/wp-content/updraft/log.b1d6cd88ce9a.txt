@@ -1,0 +1,471 @@
+0000.000 (0) Opened log file at time: Wed, 31 Jul 2024 11:15:36 +0000 on https://naradha.com
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.3 WP: 6.6.1 PHP: 8.3.6 (apache2handler, Linux wordpress-host 6.8.0-31-generic #31-Ubuntu SMP PREEMPT_DYNAMIC Sat Apr 20 00:40:06 UTC 2024 x86_64) MySQL: 10.11.8-MariaDB-0ubuntu0.24.04.1 (max packet size=16777216) WPLANG: en_US Server: Apache/2.4.58 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 5M | 6M) multisite: N openssl: OpenSSL 3.0.13 30 Jan 2024 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.002 (0) Free space on disk containing Updraft's temporary directory: 19246.2 MB
+0000.003 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB: 1 (schedule: daily)
+0000.004 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.006 (0) Set semaphore last lock (fd) time to 2024-07-31 11:15:36
+0000.007 (0) Semaphore lock (fd) complete
+0000.009 (0) Backup run: resumption=0, nonce=b1d6cd88ce9a, file_nonce=b1d6cd88ce9a begun at=1722424536 (0s ago), job type=backup
+0000.011 (0) Scheduling a resumption (1) after 300 seconds (1722424836) in case this run gets aborted
+0000.012 (0) Checking if we have a zip executable available
+0000.014 (0) Creation of backups of directories: beginning
+0000.016 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.921 (0) Total entities for the zip file: 2738 directories, 10512 files (0 skipped as non-modified), 141.7 MB
+0000.932 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.937 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.942 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.947 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.953 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.958 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.964 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0000.969 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0000.975 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0000.980 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0000.981 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.9 MB, 10512 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0001.630 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 1100 files added (on-disk size: 3554.8 KB)
+0001.634 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 1200 files added (on-disk size: 3554.8 KB)
+0001.639 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 1300 files added (on-disk size: 3554.8 KB)
+0001.644 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 1400 files added (on-disk size: 3554.8 KB)
+0001.649 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 1500 files added (on-disk size: 3554.8 KB)
+0001.654 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 1600 files added (on-disk size: 3554.8 KB)
+0001.657 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 1700 files added (on-disk size: 3554.8 KB)
+0001.661 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 1800 files added (on-disk size: 3554.8 KB)
+0001.666 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 1900 files added (on-disk size: 3554.8 KB)
+0001.669 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 2000 files added (on-disk size: 3554.8 KB)
+0001.670 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.8 MB, 10512 files batched, 1001 (2002) added so far); re-opening (prior size: 3554.8 KB)
+0002.456 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 2100 files added (on-disk size: 6335 KB)
+0002.461 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 2200 files added (on-disk size: 6335 KB)
+0002.465 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 2300 files added (on-disk size: 6335 KB)
+0002.470 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 2400 files added (on-disk size: 6335 KB)
+0002.474 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 2500 files added (on-disk size: 6335 KB)
+0002.479 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 2600 files added (on-disk size: 6335 KB)
+0002.484 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 2700 files added (on-disk size: 6335 KB)
+0002.489 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 2800 files added (on-disk size: 6335 KB)
+0002.495 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 2900 files added (on-disk size: 6335 KB)
+0002.501 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 3000 files added (on-disk size: 6335 KB)
+0002.503 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.2 MB, 10512 files batched, 1001 (3003) added so far); re-opening (prior size: 6335 KB)
+0003.563 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 3100 files added (on-disk size: 10394.8 KB)
+0003.567 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 3200 files added (on-disk size: 10394.8 KB)
+0003.571 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 3300 files added (on-disk size: 10394.8 KB)
+0003.574 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 3400 files added (on-disk size: 10394.8 KB)
+0003.578 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 3500 files added (on-disk size: 10394.8 KB)
+0003.582 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 3600 files added (on-disk size: 10394.8 KB)
+0003.586 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 3700 files added (on-disk size: 10394.8 KB)
+0003.591 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 3800 files added (on-disk size: 10394.8 KB)
+0003.594 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 10512 files batched, 843 (3846) added so far); re-opening (prior size: 10394.8 KB)
+0007.150 (0) A useful amount of data was added after this amount of zip processing: 3.7 s (normalised: 3.7 s, rate: 6946.8 KB/s)
+0007.152 (0) Performance is good - will increase the amount of data we attempt to batch (time=3.6858310699463, normalised_time=3.6851394315337, max_time=7.1507189273834, data points known=1, old_max_bytes=26214400, new_max_bytes=42681261)
+0007.180 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 3900 files added (on-disk size: 21072.4 KB)
+0007.184 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 4000 files added (on-disk size: 21072.4 KB)
+0007.190 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 4100 files added (on-disk size: 21072.4 KB)
+0007.197 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 4200 files added (on-disk size: 21072.4 KB)
+0007.201 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 4300 files added (on-disk size: 21072.4 KB)
+0007.205 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 4400 files added (on-disk size: 21072.4 KB)
+0007.209 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 4500 files added (on-disk size: 21072.4 KB)
+0007.213 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 4600 files added (on-disk size: 21072.4 KB)
+0007.216 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 4700 files added (on-disk size: 21072.4 KB)
+0007.221 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 4800 files added (on-disk size: 21072.4 KB)
+0007.225 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (14.2 MB, 10512 files batched, 1001 (4847) added so far); re-opening (prior size: 21072.4 KB)
+0008.480 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 4900 files added (on-disk size: 25470.9 KB)
+0008.487 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 5000 files added (on-disk size: 25470.9 KB)
+0008.493 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 5100 files added (on-disk size: 25470.9 KB)
+0008.499 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 5200 files added (on-disk size: 25470.9 KB)
+0008.505 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 5300 files added (on-disk size: 25470.9 KB)
+0008.510 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 5400 files added (on-disk size: 25470.9 KB)
+0008.515 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 5500 files added (on-disk size: 25470.9 KB)
+0008.521 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 5600 files added (on-disk size: 25470.9 KB)
+0008.526 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 5700 files added (on-disk size: 25470.9 KB)
+0008.533 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 5800 files added (on-disk size: 25470.9 KB)
+0008.537 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (19.6 MB, 10512 files batched, 1001 (5848) added so far); re-opening (prior size: 25470.9 KB)
+0010.853 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 5900 files added (on-disk size: 30975.2 KB)
+0010.859 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 6000 files added (on-disk size: 30975.2 KB)
+0010.863 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 6100 files added (on-disk size: 30975.2 KB)
+0010.868 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 6200 files added (on-disk size: 30975.2 KB)
+0010.873 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 6300 files added (on-disk size: 30975.2 KB)
+0010.882 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 6400 files added (on-disk size: 30975.2 KB)
+0010.892 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 6500 files added (on-disk size: 30975.2 KB)
+0010.900 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 6600 files added (on-disk size: 30975.2 KB)
+0010.909 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 6700 files added (on-disk size: 30975.2 KB)
+0010.916 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 6800 files added (on-disk size: 30975.2 KB)
+0010.919 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.6 MB, 10512 files batched, 1001 (6849) added so far); re-opening (prior size: 30975.2 KB)
+0011.625 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 6900 files added (on-disk size: 35052.2 KB)
+0011.641 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 7000 files added (on-disk size: 35052.2 KB)
+0011.650 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 7100 files added (on-disk size: 35052.2 KB)
+0011.660 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 7200 files added (on-disk size: 35052.2 KB)
+0011.682 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 7300 files added (on-disk size: 35052.2 KB)
+0011.701 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 7400 files added (on-disk size: 35052.2 KB)
+0011.718 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 7500 files added (on-disk size: 35052.2 KB)
+0011.737 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 7600 files added (on-disk size: 35052.2 KB)
+0011.757 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 7700 files added (on-disk size: 35052.2 KB)
+0011.773 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 7800 files added (on-disk size: 35052.2 KB)
+0011.782 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (21.3 MB, 10512 files batched, 1001 (7850) added so far); re-opening (prior size: 35052.2 KB)
+0013.866 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 7900 files added (on-disk size: 37594.1 KB)
+0013.886 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 8000 files added (on-disk size: 37594.1 KB)
+0013.906 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 8100 files added (on-disk size: 37594.1 KB)
+0013.930 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 8200 files added (on-disk size: 37594.1 KB)
+0013.945 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 8300 files added (on-disk size: 37594.1 KB)
+0013.970 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 8400 files added (on-disk size: 37594.1 KB)
+0013.991 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 8500 files added (on-disk size: 37594.1 KB)
+0014.010 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 8600 files added (on-disk size: 37594.1 KB)
+0014.024 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 8700 files added (on-disk size: 37594.1 KB)
+0014.030 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 8800 files added (on-disk size: 37594.1 KB)
+0014.035 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (3.6 MB, 10512 files batched, 1001 (8851) added so far); re-opening (prior size: 37594.1 KB)
+0014.571 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 8900 files added (on-disk size: 38643.2 KB)
+0014.577 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 9000 files added (on-disk size: 38643.2 KB)
+0014.583 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 9100 files added (on-disk size: 38643.2 KB)
+0014.593 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 9200 files added (on-disk size: 38643.2 KB)
+0014.604 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 9300 files added (on-disk size: 38643.2 KB)
+0014.610 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 9400 files added (on-disk size: 38643.2 KB)
+0014.619 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 9500 files added (on-disk size: 38643.2 KB)
+0014.630 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 9600 files added (on-disk size: 38643.2 KB)
+0014.638 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 9700 files added (on-disk size: 38643.2 KB)
+0014.648 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 9800 files added (on-disk size: 38643.2 KB)
+0014.653 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (10.4 MB, 10512 files batched, 1001 (9852) added so far); re-opening (prior size: 38643.2 KB)
+0015.864 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 9900 files added (on-disk size: 42266 KB)
+0015.874 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 10000 files added (on-disk size: 42266 KB)
+0015.882 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 10100 files added (on-disk size: 42266 KB)
+0015.890 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 10200 files added (on-disk size: 42266 KB)
+0015.899 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 10300 files added (on-disk size: 42266 KB)
+0015.907 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 10400 files added (on-disk size: 42266 KB)
+0015.914 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.tmp: 10500 files added (on-disk size: 42266 KB)
+0017.911 (0) Creating zip file manifest (backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.list-temp.tmp)
+0017.927 (0) Successfully created zip file manifest (size: 1026037)
+0018.351 (0) Created plugins zip (0) - 46561 KB in 18.3 s (2539.8 KB/s) (sha1: 38c6af3db95750ceece14124766a694af8660ecd, sha256: d65ae1714d2179522397337815fcfa55e3cb839d5d784d232c1d14fdc12f5ce8)
+0018.362 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0018.363 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-1ddcdf7909c3d1dc1d6218dd854f2856)
+0020.296 (0) Google Drive: quota usage: used=5849.6 MB, total=15360 MB, available=9510.4 MB
+0020.297 (0) Google Drive: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip: Attempting to upload to Google Drive (into folder id: 1eEku2g3DRnbXDNElk0sD_-8WsZq17MdB)
+0021.486 (0) Googledrive chunked upload: 2.2 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 7 / 10)
+0021.906 (0) Googledrive chunked upload: 6.6 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 7 / 10)
+0022.181 (0) Googledrive chunked upload: 15.4 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 7 / 10)
+0022.719 (0) Googledrive chunked upload: 33 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 7 / 10)
+0023.721 (0) Googledrive chunked upload: 68.2 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 7 / 10)
+0026.219 (0) Googledrive chunked upload: 100 % uploaded (32505856)
+0026.223 (0) Google Drive: OK: Archive backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip uploaded in 5.93 seconds
+0026.225 (0) Recording as successfully uploaded: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip
+0026.238 (0) Deleting local file: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip: OK
+0026.247 (0) Beginning creation of dump of themes (split every: 400 MB)
+0026.322 (0) Total entities for the zip file: 200 directories, 1010 files (0 skipped as non-modified), 30.2 MB
+0026.328 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0026.332 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0026.337 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0026.342 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0026.347 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0026.352 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0026.357 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0026.362 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0026.366 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0026.370 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0026.371 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (30.2 MB, 1010 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0028.769 (0) Creating zip file manifest (backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-themes.zip.list-temp.tmp)
+0028.773 (0) Successfully created zip file manifest (size: 72642)
+0029.038 (0) Created themes zip (0) - 18783.3 KB in 2.8 s (6743.4 KB/s) (sha1: 1778d19473c04cfe3809e02c445380bf08bf1c84, sha256: 663f8943d0c5f32ed1b59a920fe0d6280eb6f2027a0dfd571c67038fd965b3f1)
+0029.045 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0029.046 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-1ddcdf7909c3d1dc1d6218dd854f2856)
+0029.526 (0) Google Drive: quota usage: used=5895 MB, total=15360 MB, available=9465 MB
+0029.528 (0) Google Drive: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-themes.zip: Attempting to upload to Google Drive (into folder id: 1eEku2g3DRnbXDNElk0sD_-8WsZq17MdB)
+0030.785 (0) Googledrive chunked upload: 5.5 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 5.3 / 10)
+0031.093 (0) Googledrive chunked upload: 16.4 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 5.3 / 10)
+0031.506 (0) Googledrive chunked upload: 38.2 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 5.3 / 10)
+0032.187 (0) Googledrive chunked upload: 81.8 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 5.3 / 10)
+0034.156 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0034.160 (0) Google Drive: OK: Archive backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-themes.zip uploaded in 4.63 seconds
+0034.161 (0) Recording as successfully uploaded: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-themes.zip
+0034.167 (0) Deleting local file: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-themes.zip: OK
+0034.172 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0034.174 (0) Looking for candidates to backup in: /var/www/html/moviemuchatlu/wp-content/uploads
+0034.175 (0) finding files: sass: adding to list (1)
+0034.176 (0) finding files: .htaccess: adding to list (2)
+0034.177 (0) finding files: acoofm_uploads: adding to list (3)
+0034.177 (0) finding files: wpo-plugins-tables-list.json: adding to list (4)
+0034.178 (0) finding files: wpo: adding to list (5)
+0034.179 (0) finding files: 2024: adding to list (6)
+0034.179 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0034.189 (0) Total entities for the zip file: 8 directories, 295 files (0 skipped as non-modified), 25.8 MB
+0034.192 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0034.195 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0034.616 (0) Creating zip file manifest (backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-uploads.zip.list-temp.tmp)
+0034.618 (0) Successfully created zip file manifest (size: 17705)
+0034.854 (0) Created uploads zip (0) - 25676.7 KB in 0.7 s (38200.6 KB/s) (sha1: 7db7db487d5b75106d526e54b56b5cfa7b7cc502, sha256: 46229066f8b4ec1a47a03b02931044d03d75eae800f05f81e3c340d5ec0449fb)
+0034.861 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0034.862 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-1ddcdf7909c3d1dc1d6218dd854f2856)
+0035.298 (0) Google Drive: quota usage: used=5913.4 MB, total=15360 MB, available=9446.6 MB
+0035.300 (0) Google Drive: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-uploads.zip: Attempting to upload to Google Drive (into folder id: 1eEku2g3DRnbXDNElk0sD_-8WsZq17MdB)
+0036.850 (0) Googledrive chunked upload: 4 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 5.2 / 10)
+0037.157 (0) Googledrive chunked upload: 12 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 5.2 / 10)
+0037.590 (0) Googledrive chunked upload: 27.9 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 5.2 / 10)
+0038.098 (0) Googledrive chunked upload: 59.8 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 5.2 / 10)
+0041.018 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0041.023 (0) Google Drive: OK: Archive backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-uploads.zip uploaded in 5.72 seconds
+0041.026 (0) Recording as successfully uploaded: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-uploads.zip
+0041.033 (0) Deleting local file: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-uploads.zip: OK
+0041.039 (0) No backup of mu-plugins: excluded by user's options
+0041.042 (0) Beginning backup of other directories found in the content directory (index: 0)
+0041.043 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0041.045 (0) Looking for candidates to backup in: /var/www/html/moviemuchatlu/wp-content
+0041.046 (0) finding files: fonts: adding to list (1)
+0041.047 (0) finding files: updraft: skipping: this is the updraft directory
+0041.049 (0) finding files: index.php-old: adding to list (2)
+0041.050 (0) finding files: upgrade-temp-backup: adding to list (3)
+0041.051 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0041.052 (0) finding files: plugins-old: adding to list (4)
+0041.053 (0) finding files: cache: skipping: excluded by options
+0041.054 (0) finding files: languages: adding to list (5)
+0041.055 (0) finding files: fonts-old: adding to list (6)
+0041.056 (0) finding files: upgrade: skipping: excluded by options
+0041.057 (0) finding files: uploads: skipping: this is the uploads directory
+0041.058 (0) finding files: index.php: adding to list (7)
+0041.059 (0) finding files: uploads-old: adding to list (8)
+0041.060 (0) finding files: themes-old: adding to list (9)
+0041.061 (0) finding files: themes: skipping: this is the themes directory
+0041.061 (0) finding files: plugins: skipping: this is the plugins directory
+0041.080 (0) Total entities for the zip file: 13 directories, 666 files (0 skipped as non-modified), 36.2 MB
+0041.084 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0041.088 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0041.091 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+0041.095 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-others.zip.tmp: 400 files added (on-disk size: 0 KB)
+0041.099 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-others.zip.tmp: 500 files added (on-disk size: 0 KB)
+0041.103 (0) Zip: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-others.zip.tmp: 600 files added (on-disk size: 0 KB)
+0047.233 (0) Creating zip file manifest (backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-others.zip.list-temp.tmp)
+0047.236 (0) Successfully created zip file manifest (size: 40744)
+0047.326 (0) Created others zip (0) - 9521.7 KB in 6.3 s (1520.8 KB/s) (sha1: 1497b55b6bf8e45a4773096640b35902b835b5fd, sha256: 2849524ae3f9dc6de89995e3a74e0d4911371526478e26331782df5473ae293c)
+0047.331 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0047.331 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-1ddcdf7909c3d1dc1d6218dd854f2856)
+0047.753 (0) Google Drive: quota usage: used=5938.4 MB, total=15360 MB, available=9421.6 MB
+0047.756 (0) Google Drive: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-others.zip: Attempting to upload to Google Drive (into folder id: 1eEku2g3DRnbXDNElk0sD_-8WsZq17MdB)
+0049.028 (0) Googledrive chunked upload: 10.8 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 5.3 / 12)
+0049.415 (0) Googledrive chunked upload: 32.3 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 5.3 / 12)
+0049.826 (0) Googledrive chunked upload: 75.3 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 5.3 / 12)
+0051.862 (0) Googledrive chunked upload: 100 % uploaded (7340032)
+0051.866 (0) Google Drive: OK: Archive backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-others.zip uploaded in 4.11 seconds
+0051.867 (0) Recording as successfully uploaded: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-others.zip
+0051.871 (0) Deleting local file: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-others.zip: OK
+0051.879 (0) Saving backup status to database (elements: 8)
+0051.882 (0) Beginning creation of database dump (WordPress DB)
+0051.883 (0) SQL compatibility mode is: ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0051.886 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0051.929 (0) Output: /*!999999\- enable the sandbox mode */ \n/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `mm_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 (truncated - 1483 bytes total)
+0051.930 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0051.941 (0) Table mm_options: Total expected rows (via COUNT): 374
+0051.942 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0051.960 (0) Table mm_options: Rows added in this batch (next record: 6574): 370 (uncompressed bytes in this segment=569306) in 0.02 seconds
+0051.966 (0) Table mm_options: finishing file(s) (2, 79.7 KB)
+0051.970 (0) Table mm_users: Total expected rows (via COUNT): 15
+0051.971 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0051.974 (0) Table mm_users: Rows added in this batch (next record: 15): 15 (uncompressed bytes in this segment=3346) in 0.01 seconds
+0051.977 (0) Table mm_users: finishing file(s) (2, 1.5 KB)
+0051.983 (0) Table mm_usermeta: Total expected rows (via COUNT): 248
+0051.984 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0051.988 (0) Table mm_usermeta: Rows added in this batch (next record: 264): 248 (uncompressed bytes in this segment=16015) in 0.01 seconds
+0051.993 (0) Table mm_usermeta: finishing file(s) (2, 4.8 KB)
+0051.998 (0) Table mm_commentmeta: Total expected rows (via COUNT): 0
+0052.000 (0) Table mm_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=634) in 0.00 seconds
+0052.005 (0) Table mm_commentmeta: finishing file(s) (2, 0.4 KB)
+0052.008 (0) Table mm_comments: Total expected rows (via COUNT): 11
+0052.009 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0052.011 (0) Table mm_comments: Rows added in this batch (next record: 12): 11 (uncompressed bytes in this segment=4842) in 0.00 seconds
+0052.015 (0) Table mm_comments: finishing file(s) (2, 1.5 KB)
+0052.018 (0) Table mm_links: Total expected rows (via COUNT): 0
+0052.022 (0) Table mm_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.00 seconds
+0052.027 (0) Table mm_links: finishing file(s) (2, 0.5 KB)
+0052.034 (0) Table mm_postmeta: Total expected rows (via COUNT): 473
+0052.035 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0052.046 (0) Table mm_postmeta: Rows added in this batch (next record: 1590): 473 (uncompressed bytes in this segment=496891) in 0.02 seconds
+0052.052 (0) Table mm_postmeta: finishing file(s) (2, 21.3 KB)
+0052.057 (0) Table mm_posts: Total expected rows (via COUNT): 157
+0052.058 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0052.070 (0) Table mm_posts: Rows added in this batch (next record: 445): 157 (uncompressed bytes in this segment=314466) in 0.02 seconds
+0052.077 (0) Table mm_posts: finishing file(s) (2, 37.5 KB)
+0052.082 (0) Table mm_term_relationships: Total expected rows (approximate): 344
+0052.085 (0) Table mm_term_relationships: Rows added in this batch (next record: 100000): 344 (uncompressed bytes in this segment=5857) in 0.00 seconds
+0052.090 (0) Table mm_term_relationships: finishing file(s) (2, 1.4 KB)
+0052.096 (0) Table mm_term_taxonomy: Total expected rows (via COUNT): 183
+0052.097 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0052.100 (0) Table mm_term_taxonomy: Rows added in this batch (next record: 225): 183 (uncompressed bytes in this segment=9878) in 0.01 seconds
+0052.106 (0) Table mm_term_taxonomy: finishing file(s) (2, 1.8 KB)
+0052.111 (0) Table mm_termmeta: Total expected rows (via COUNT): 8
+0052.112 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0052.115 (0) Table mm_termmeta: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=1117) in 0.01 seconds
+0052.120 (0) Table mm_termmeta: finishing file(s) (2, 0.6 KB)
+0052.124 (0) Table mm_terms: Total expected rows (via COUNT): 183
+0052.125 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0052.128 (0) Table mm_terms: Rows added in this batch (next record: 225): 183 (uncompressed bytes in this segment=9847) in 0.01 seconds
+0052.133 (0) Table mm_terms: finishing file(s) (2, 3.2 KB)
+0052.139 (0) Table mm_acoofm_items: Total expected rows (via COUNT): 32
+0052.140 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0052.144 (0) Table mm_acoofm_items: Rows added in this batch (next record: 34): 32 (uncompressed bytes in this segment=54553) in 0.01 seconds
+0052.149 (0) Table mm_acoofm_items: finishing file(s) (2, 4.3 KB)
+0052.154 (0) Table mm_ppma_author_categories: Total expected rows (via COUNT): 4
+0052.155 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0052.159 (0) Table mm_ppma_author_categories: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1268) in 0.01 seconds
+0052.165 (0) Table mm_ppma_author_categories: finishing file(s) (2, 0.6 KB)
+0052.172 (0) Table mm_ppma_author_categories_meta: Total expected rows (via COUNT): 0
+0052.175 (0) Table mm_ppma_author_categories_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=742) in 0.01 seconds
+0052.182 (0) Table mm_ppma_author_categories_meta: finishing file(s) (2, 0.4 KB)
+0052.186 (0) Table mm_ppma_author_relationships: Total expected rows (via COUNT): 0
+0052.189 (0) Table mm_ppma_author_relationships: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=955) in 0.00 seconds
+0052.192 (0) Table mm_ppma_author_relationships: finishing file(s) (2, 0.4 KB)
+0052.196 (0) Table mm_pvc_daily: Total expected rows (via COUNT): 12
+0052.197 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0052.201 (0) Table mm_pvc_daily: Rows added in this batch (next record: 341): 12 (uncompressed bytes in this segment=965) in 0.01 seconds
+0052.205 (0) Table mm_pvc_daily: finishing file(s) (2, 0.5 KB)
+0052.209 (0) Table mm_pvc_total: Total expected rows (via COUNT): 94
+0052.211 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0052.214 (0) Table mm_pvc_total: Rows added in this batch (next record: 94): 94 (uncompressed bytes in this segment=2114) in 0.01 seconds
+0052.218 (0) Table mm_pvc_total: finishing file(s) (2, 0.9 KB)
+0052.224 (0) Table mm_tm_taskmeta: Total expected rows (via COUNT): 0
+0052.227 (0) Table mm_tm_taskmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.01 seconds
+0052.233 (0) Table mm_tm_taskmeta: finishing file(s) (2, 0.4 KB)
+0052.237 (0) Table mm_tm_tasks: Total expected rows (via COUNT): 0
+0052.240 (0) Table mm_tm_tasks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=768) in 0.00 seconds
+0052.244 (0) Table mm_tm_tasks: finishing file(s) (2, 0.4 KB)
+0052.247 (0) Table mm_wpbe_history: Total expected rows (via COUNT): 0
+0052.249 (0) Table mm_wpbe_history: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=819) in 0.00 seconds
+0052.253 (0) Table mm_wpbe_history: finishing file(s) (2, 0.4 KB)
+0052.256 (0) Table mm_wpbe_history_bulk: Total expected rows (via COUNT): 0
+0052.258 (0) Table mm_wpbe_history_bulk: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=831) in 0.00 seconds
+0052.261 (0) Table mm_wpbe_history_bulk: finishing file(s) (2, 0.4 KB)
+0052.262 (0) PHP event: code E_WARNING: filemtime(): stat failed for /var/www/html/moviemuchatlu/wp-content/updraft/backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db.gz (line 1925, wp-content/plugins/updraftplus/backup.php)
+0052.264 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_options.table.tmpr6575.gz (1/22/fopen): adding to final database dump
+0052.265 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_options.table.gz (2/22/fopen): adding to final database dump
+0052.266 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_users.table.tmpr16.gz (3/22/fopen): adding to final database dump
+0052.266 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_users.table.gz (4/22/fopen): adding to final database dump
+0052.267 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_usermeta.table.tmpr265.gz (5/22/fopen): adding to final database dump
+0052.268 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_usermeta.table.gz (6/22/fopen): adding to final database dump
+0052.269 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_commentmeta.table.tmpr0.gz (7/22/fopen): adding to final database dump
+0052.269 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_commentmeta.table.gz (8/22/fopen): adding to final database dump
+0052.270 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_comments.table.tmpr13.gz (9/22/fopen): adding to final database dump
+0052.270 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_comments.table.gz (10/22/fopen): adding to final database dump
+0052.271 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_links.table.tmpr0.gz (11/22/fopen): adding to final database dump
+0052.271 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_links.table.gz (12/22/fopen): adding to final database dump
+0052.272 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_postmeta.table.tmpr1591.gz (13/22/fopen): adding to final database dump
+0052.273 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_postmeta.table.gz (14/22/fopen): adding to final database dump
+0052.274 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_posts.table.tmpr446.gz (15/22/fopen): adding to final database dump
+0052.275 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_posts.table.gz (16/22/fopen): adding to final database dump
+0052.276 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_term_relationships.table.tmpr100001.gz (17/22/fopen): adding to final database dump
+0052.276 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_term_relationships.table.gz (18/22/fopen): adding to final database dump
+0052.277 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_term_taxonomy.table.tmpr226.gz (19/22/fopen): adding to final database dump
+0052.278 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_term_taxonomy.table.gz (20/22/fopen): adding to final database dump
+0052.278 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_termmeta.table.tmpr9.gz (21/22/fopen): adding to final database dump
+0052.279 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_termmeta.table.gz (22/22/fopen): adding to final database dump
+0052.279 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_terms.table.tmpr226.gz (23/22/fopen): adding to final database dump
+0052.280 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_terms.table.gz (24/22/fopen): adding to final database dump
+0052.281 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_acoofm_items.table.tmpr35.gz (25/22/fopen): adding to final database dump
+0052.281 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_acoofm_items.table.gz (26/22/fopen): adding to final database dump
+0052.282 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_ppma_author_categories.table.tmpr5.gz (27/22/fopen): adding to final database dump
+0052.283 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_ppma_author_categories.table.gz (28/22/fopen): adding to final database dump
+0052.283 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_ppma_author_categories_meta.table.tmpr0.gz (29/22/fopen): adding to final database dump
+0052.284 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_ppma_author_categories_meta.table.gz (30/22/fopen): adding to final database dump
+0052.284 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_ppma_author_relationships.table.tmpr0.gz (31/22/fopen): adding to final database dump
+0052.285 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_ppma_author_relationships.table.gz (32/22/fopen): adding to final database dump
+0052.286 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_pvc_daily.table.tmpr342.gz (33/22/fopen): adding to final database dump
+0052.286 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_pvc_daily.table.gz (34/22/fopen): adding to final database dump
+0052.287 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_pvc_total.table.tmpr95.gz (35/22/fopen): adding to final database dump
+0052.287 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_pvc_total.table.gz (36/22/fopen): adding to final database dump
+0052.288 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_tm_taskmeta.table.tmpr0.gz (37/22/fopen): adding to final database dump
+0052.289 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_tm_taskmeta.table.gz (38/22/fopen): adding to final database dump
+0052.289 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_tm_tasks.table.tmpr0.gz (39/22/fopen): adding to final database dump
+0052.290 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_tm_tasks.table.gz (40/22/fopen): adding to final database dump
+0052.290 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_wpbe_history.table.tmpr0.gz (41/22/fopen): adding to final database dump
+0052.291 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_wpbe_history.table.gz (42/22/fopen): adding to final database dump
+0052.291 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_wpbe_history_bulk.table.tmpr0.gz (43/22/fopen): adding to final database dump
+0052.292 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db-table-mm_wpbe_history_bulk.table.gz (44/22/fopen): adding to final database dump
+0052.297 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db.gz: finished writing out complete database file (162.9 KB)
+0052.305 (0) Total database tables backed up: 22 (backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db.gz, size: 166911, sha1: 686ef3a7bb2c0b18d0dd455563f9961c72fb9322, sha256: 147b95518aa17c51453ee9c0ec4347990f854f9a8b834fd10060f878d8030345)
+0052.314 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip: plugins: This file has already been successfully uploaded
+0052.315 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-themes.zip: themes: This file has already been successfully uploaded
+0052.316 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-uploads.zip: uploads: This file has already been successfully uploaded
+0052.316 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-others.zip: others: This file has already been successfully uploaded
+0052.317 (0) backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db.gz: db: This file has not yet been successfully uploaded: will queue
+0052.318 (0) Saving backup history. Total backup size: 98.3 MB
+0052.321 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0052.324 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0052.325 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-1ddcdf7909c3d1dc1d6218dd854f2856)
+0052.762 (0) Google Drive: quota usage: used=5947.7 MB, total=15360 MB, available=9412.3 MB
+0052.764 (0) Google Drive: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db.gz: Attempting to upload to Google Drive (into folder id: 1eEku2g3DRnbXDNElk0sD_-8WsZq17MdB)
+0055.433 (0) Googledrive chunked upload: 100 % uploaded
+0055.439 (0) Google Drive: OK: Archive backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db.gz uploaded in 2.67 seconds
+0055.440 (0) Recording as successfully uploaded: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db.gz
+0055.443 (0) Deleting local file: backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-db.gz: OK
+0055.446 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0055.448 (0) Number of backup sets in history: 8; groups (db): 1
+0055.449 (0) Examining (for databases) backup set with group_id=0, nonce=b1d6cd88ce9a, datestamp=1722424536 (Jul 31 2024 11:15:36)
+0055.450 (0) This backup set is the backup set just made, so will not be deleted.
+0055.450 (0) Examining (for databases) backup set with group_id=0, nonce=460d28add53f, datestamp=1722386579 (Jul 31 2024 00:42:59)
+0055.450 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0055.451 (0) Examining (for databases) backup set with group_id=0, nonce=4ac4d2533ea6, datestamp=1722300073 (Jul 30 2024 00:41:13)
+0055.451 (0) 1722300073: db: this set includes a database (backup_2024-07-30-0041_Naradha_4ac4d2533ea6-db.gz); db count is now 2
+0055.451 (0) 1722300073: db: over retain limit (2); will delete this database
+0060.149 (0) Google Drive: backup_2024-07-30-0041_Naradha_4ac4d2533ea6-db.gz: Deletion successful
+0060.154 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0060.155 (0) Examining (for databases) backup set with group_id=0, nonce=d9c0fef9bf7c, datestamp=1718691125 (Jun 18 2024 06:12:05)
+0060.155 (0) This backup set (1718691125) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0060.155 (0) Examining (for databases) backup set with group_id=0, nonce=2b5d216c06dd, datestamp=1717946526 (Jun 09 2024 15:22:06)
+0060.155 (0) This backup set (1717946526) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0060.155 (0) Examining (for databases) backup set with group_id=0, nonce=f651a4a3392b, datestamp=1717944629 (Jun 09 2024 14:50:29)
+0060.155 (0) This backup set (1717944629) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0060.155 (0) Examining (for databases) backup set with group_id=0, nonce=74bd0e86917b, datestamp=1717943624 (Jun 09 2024 14:33:44)
+0060.155 (0) This backup set (1717943624) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0060.156 (0) Examining (for databases) backup set with group_id=0, nonce=e90c2ee8ff21, datestamp=1717936639 (Jun 09 2024 12:37:19)
+0060.156 (0) This backup set (1717936639) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0060.156 (0) Number of backup sets in history: 8; groups (files): 1
+0060.156 (0) Examining (for files) backup set with nonce=b1d6cd88ce9a, datestamp=1722424536 (Jul 31 2024 11:15:36)
+0060.156 (0) This backup set is the backup set just made, so will not be deleted.
+0060.157 (0) This backup set is the backup set just made, so will not be deleted.
+0060.157 (0) This backup set is the backup set just made, so will not be deleted.
+0060.157 (0) This backup set is the backup set just made, so will not be deleted.
+0060.157 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0060.158 (0) Examining (for files) backup set with nonce=460d28add53f, datestamp=1722386579 (Jul 31 2024 00:42:59)
+0060.158 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0060.158 (0) Examining (for files) backup set with nonce=4ac4d2533ea6, datestamp=1722300073 (Jul 30 2024 00:41:13)
+0060.158 (0) plugins: over retain limit (2); will delete this file entity
+0060.158 (0) themes: over retain limit (2); will delete this file entity
+0060.158 (0) uploads: over retain limit (2); will delete this file entity
+0060.158 (0) others: over retain limit (2); will delete this file entity
+0063.336 (0) Google Drive: backup_2024-07-30-0041_Naradha_4ac4d2533ea6-others.zip: Deletion successful
+0065.781 (0) Google Drive: backup_2024-07-30-0041_Naradha_4ac4d2533ea6-uploads.zip: Deletion successful
+0069.544 (0) Google Drive: backup_2024-07-30-0041_Naradha_4ac4d2533ea6-themes.zip: Deletion successful
+0071.170 (0) Google Drive: backup_2024-07-30-0041_Naradha_4ac4d2533ea6-plugins.zip: Deletion successful
+0071.176 (0) This backup set is now empty; will remove from history
+0071.177 (0) Deleting log file (log.4ac4d2533ea6.txt)
+0071.178 (0) Examining (for files) backup set with nonce=d9c0fef9bf7c, datestamp=1718691125 (Jun 18 2024 06:12:05)
+0071.179 (0) This backup set (1718691125) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0071.179 (0) This backup set (1718691125) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0071.179 (0) This backup set (1718691125) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0071.179 (0) This backup set (1718691125) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0071.179 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0071.181 (0) Examining (for files) backup set with nonce=2b5d216c06dd, datestamp=1717946526 (Jun 09 2024 15:22:06)
+0071.181 (0) This backup set (1717946526) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0071.181 (0) This backup set (1717946526) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0071.181 (0) This backup set (1717946526) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0071.181 (0) This backup set (1717946526) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0071.181 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0071.181 (0) Examining (for files) backup set with nonce=f651a4a3392b, datestamp=1717944629 (Jun 09 2024 14:50:29)
+0071.181 (0) This backup set (1717944629) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0071.181 (0) This backup set (1717944629) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0071.181 (0) This backup set (1717944629) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0071.181 (0) This backup set (1717944629) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0071.181 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0071.181 (0) Examining (for files) backup set with nonce=74bd0e86917b, datestamp=1717943624 (Jun 09 2024 14:33:44)
+0071.181 (0) This backup set (1717943624) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0071.181 (0) This backup set (1717943624) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0071.181 (0) This backup set (1717943624) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0071.181 (0) This backup set (1717943624) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0071.181 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0071.181 (0) Examining (for files) backup set with nonce=e90c2ee8ff21, datestamp=1717936639 (Jun 09 2024 12:37:19)
+0071.181 (0) This backup set (1717936639) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0071.181 (0) This backup set (1717936639) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0071.181 (0) This backup set (1717936639) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0071.181 (0) This backup set (1717936639) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0071.181 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0071.181 (0) Retain: saving new backup history (sets now: 7) and finishing retain operation
+0071.185 (0) Resume backup (b1d6cd88ce9a, 0): finish run
+0071.188 (0) Decremented the semaphore (fd) by 1
+0071.189 (0) Semaphore (fd) unlocked
+0071.190 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0071.194 (0) Deleting zip manifest (backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-plugins.zip.list.tmp)
+0071.195 (0) Deleting zip manifest (backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-themes.zip.list.tmp)
+0071.196 (0) Deleting zip manifest (backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-uploads.zip.list.tmp)
+0071.197 (0) Deleting zip manifest (backup_2024-07-31-1115_Naradha_b1d6cd88ce9a-others.zip.list.tmp)
+0071.198 (0) No email will/can be sent - the user has not configured an email address.
+0071.199 (0) The backup succeeded and is now complete

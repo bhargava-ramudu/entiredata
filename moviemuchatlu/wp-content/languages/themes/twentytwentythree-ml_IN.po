@@ -1,0 +1,432 @@
+# Translation of Themes - Twenty Twenty-Three in Malayalam
+# This file is distributed under the same license as the Themes - Twenty Twenty-Three package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-02 16:31:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0\n"
+"Language: ml_IN\n"
+"Project-Id-Version: Themes - Twenty Twenty-Three\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Twenty Twenty-Three is designed to take advantage of the new design tools introduced in WordPress 6.1. With a clean, blank base as a starting point, this default theme includes ten diverse style variations created by members of the WordPress community. Whether you want to build a complex or incredibly simple website, you can do it quickly and intuitively through the bundled styles or dive into creation and full customization yourself."
+msgstr "വേർഡ്പ്രസ്സ് 6.1 ൽ അവതരിപ്പിച്ച പുതിയ ഡിസൈൻ ടൂളുകൾ പ്രയോജനപ്പെടുത്തുന്നതിനാണ് ട്വന്റി ട്വന്റി-ത്രീ രൂപകൽപ്പന ചെയ്തിരിക്കുന്നത്. വൃത്തിയുള്ളതും ശൂന്യവുമായ അടിത്തറയുള്ള ഒരു ആരംഭ പോയിന്റായി, ഈ ഡിഫോൾട്ട് തീമിൽ വേർഡ്പ്രസ്സ് കമ്മ്യൂണിറ്റിയിലെ അംഗങ്ങൾ സൃഷ്ടിച്ച പത്ത് വൈവിധ്യമാർന്ന ശൈലി വ്യതിയാനങ്ങൾ ഉൾപ്പെടുന്നു. സങ്കീർണ്ണമായതോ അവിശ്വസനീയമാംവിധം ലളിതമായതോ ആയ ഒരു വെബ്‌സൈറ്റ് സൃഷ്‌ടിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുവെങ്കിലും, ഉൾപ്പെടുത്തിയിരിക്കുന്ന ശൈലികളിലൂടെ വേഗത്തിലും അവബോധജന്യമായും നിങ്ങൾക്കത് ചെയ്യാൻ കഴിയും അല്ലെങ്കിൽ പൂർണ്ണമായ സൃഷ്‌ടിയിലും ഇഷ്‌ടാനുസൃതമാക്കലിലും മുഴുകുക."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Twenty Twenty-Three"
+msgstr "ട്വന്റി ട്വന്റി ത്രീ"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Meta"
+msgstr "പോസ്റ്റ് മെറ്റ"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "അടിക്കുറിപ്പ്‌"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "തലക്കെട്ട്"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Serif Pro"
+msgstr "സോർസ് സെരിഫ് പ്രോ"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "സിസ്റ്റം ഫോണ്ട്"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "ഇന്റർ"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "IBM Plex Mono"
+msgstr "ഐബിഎം പ്ലെക്സ് മോണോ"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "DM Sans"
+msgstr "ഡിഎം സാൻസ്"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "404"
+msgstr "404"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog (Alternative)"
+msgstr "ബ്ലോഗ് (പകരം)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "ശൂന്യമായ"
+
+#: styles/whisper.json
+msgctxt "Style variation name"
+msgid "Whisper"
+msgstr "വിസ്പർ"
+
+#: styles/sherbet.json
+msgctxt "Gradient name"
+msgid "Tertiary to Secondary to Primary Fixed"
+msgstr "റ്റർഷറി മുതൽ സെക്കൻഡറി മുതൽ പ്രൈമറി വരെ സ്ഥിരമായത്"
+
+#: styles/sherbet.json
+msgctxt "Gradient name"
+msgid "Primary to Secondary to Tertiary Fixed"
+msgstr "പ്രൈമറി മുതൽ സെക്കൻഡറി മുതൽ റ്റർഷറി വരെ സ്ഥിരതയുള്ളത്"
+
+#: styles/sherbet.json
+msgctxt "Gradient name"
+msgid "Primary to Secondary to Tertiary"
+msgstr "പ്രൈമറി മുതൽ സെക്കൻഡറി മുതൽ റ്റർഷറി വരെ"
+
+#: styles/sherbet.json
+msgctxt "Style variation name"
+msgid "Sherbet"
+msgstr "സർബത്ത്"
+
+#: styles/pitch.json
+msgctxt "Font size name"
+msgid "2X Large"
+msgstr "2X വലുത്"
+
+#: styles/pitch.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "വളരെ വലുത്"
+
+#: styles/pitch.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "വലിയ"
+
+#: styles/pitch.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "ഇടത്തരം"
+
+#: styles/pitch.json
+msgctxt "Font size name"
+msgid "small"
+msgstr "ചെറിയ"
+
+#: styles/pitch.json
+msgctxt "Space size name"
+msgid "7"
+msgstr "7"
+
+#: styles/pitch.json
+msgctxt "Style variation name"
+msgid "Pitch"
+msgstr "പിച്ച്"
+
+#: styles/pilgrimage.json
+msgctxt "Gradient name"
+msgid "Dots"
+msgstr "കുത്തുകൾ"
+
+#: styles/pilgrimage.json
+msgctxt "Gradient name"
+msgid "Base to Primary"
+msgstr "അടിസ്ഥാനം മുതൽ പ്രൈമെറി വരെ"
+
+#: styles/pilgrimage.json
+msgctxt "Gradient name"
+msgid "Tertiary to Secondary"
+msgstr "റ്റർഷറി മുതൽ സെക്കൻഡറി വരെ"
+
+#: styles/pilgrimage.json
+msgctxt "Gradient name"
+msgid "Secondary to Primary"
+msgstr "സെക്കൻഡറി മുതൽ പ്രൈമറി വരെ"
+
+#: styles/pilgrimage.json
+msgctxt "Gradient name"
+msgid "Primary to Secondary"
+msgstr "പ്രൈമറി മുതൽ സെക്കൻഡറി വരെ"
+
+#: styles/pilgrimage.json
+msgctxt "Style variation name"
+msgid "Pilgrimage"
+msgstr "പിൽഗ്രമജ്"
+
+#: styles/marigold.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr "ഗംഭീരമായ"
+
+#: styles/marigold.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "ഭീമമായ"
+
+#: styles/marigold.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "സ്വാഭാവികമായ"
+
+#: styles/marigold.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "തീരെ ചെറിയ"
+
+#: styles/marigold.json styles/pitch.json theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: styles/marigold.json styles/pitch.json theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: styles/marigold.json styles/pitch.json theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: styles/marigold.json styles/pitch.json theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: styles/marigold.json styles/pitch.json theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: styles/marigold.json styles/pitch.json theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: styles/marigold.json
+msgctxt "Style variation name"
+msgid "Marigold"
+msgstr "മെറിഗോൽഡ്"
+
+#: styles/grapes.json
+msgctxt "Style variation name"
+msgid "Grapes"
+msgstr "ഗ്രേപ്സ്"
+
+#: styles/electric.json
+msgctxt "Style variation name"
+msgid "Electric"
+msgstr "ഇലക്ട്രിക്"
+
+#: styles/canary.json
+msgctxt "Style variation name"
+msgid "Canary"
+msgstr "കാനറി"
+
+#: styles/block-out.json styles/canary.json styles/pilgrimage.json
+#: styles/sherbet.json
+msgctxt "Duotone name"
+msgid "Default filter"
+msgstr "ഡിഫോൾട്ട് ഫിൽട്ടർ"
+
+#: styles/block-out.json
+msgctxt "Style variation name"
+msgid "Block out"
+msgstr "തടയുക"
+
+#: styles/aubergine.json styles/block-out.json styles/canary.json
+#: styles/electric.json styles/grapes.json styles/marigold.json
+#: styles/pilgrimage.json styles/pitch.json styles/sherbet.json
+#: styles/whisper.json theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "റ്റർഷറി"
+
+#: styles/aubergine.json styles/block-out.json styles/canary.json
+#: styles/electric.json styles/grapes.json styles/marigold.json
+#: styles/pilgrimage.json styles/pitch.json styles/sherbet.json
+#: styles/whisper.json theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "സെക്കൻഡറി"
+
+#: styles/aubergine.json styles/block-out.json styles/canary.json
+#: styles/electric.json styles/grapes.json styles/marigold.json
+#: styles/pilgrimage.json styles/pitch.json styles/sherbet.json
+#: styles/whisper.json theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "പ്രാഥമികം"
+
+#: styles/aubergine.json styles/block-out.json styles/canary.json
+#: styles/electric.json styles/grapes.json styles/marigold.json
+#: styles/pilgrimage.json styles/pitch.json styles/sherbet.json
+#: styles/whisper.json theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "കോൺട്രാസ്റ്റ്"
+
+#: styles/aubergine.json styles/block-out.json styles/canary.json
+#: styles/electric.json styles/grapes.json styles/marigold.json
+#: styles/pilgrimage.json styles/pitch.json styles/sherbet.json
+#: styles/whisper.json theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "ബേസ്"
+
+#: styles/aubergine.json
+msgctxt "Gradient name"
+msgid "Primary to Tertiary"
+msgstr "പ്രൈമറി മുതൽ റ്റർഷറി വരെ"
+
+#: styles/aubergine.json styles/pilgrimage.json
+msgctxt "Gradient name"
+msgid "Tertiary to Primary"
+msgstr "റ്റർഷറി മുതൽ പ്രൈമറി വരെ"
+
+#: styles/aubergine.json
+msgctxt "Gradient name"
+msgid "Base to Secondary to Base"
+msgstr "ബേസ് മുതൽ സെക്കൻഡറി മുതൽ ബേസ് വരെ"
+
+#: styles/aubergine.json
+msgctxt "Gradient name"
+msgid "Secondary to Base"
+msgstr "സെക്കൻഡറി മുതൽ ബേസ്"
+
+#: styles/aubergine.json
+msgctxt "Style variation name"
+msgid "Aubergine"
+msgstr "വഴുതനങ്ങ"
+
+#: patterns/post-meta.php:64
+msgctxt "Label for a list of post tags"
+msgid "Tags:"
+msgstr "ടാഗുകൾ‌:"
+
+#: patterns/post-meta.php:48
+msgctxt "Preposition to show the relationship between the post and its author"
+msgid "by"
+msgstr "ബൈ"
+
+#: patterns/post-meta.php:36
+msgctxt "Preposition to show the relationship between the post and its categories"
+msgid "in"
+msgstr "ഇൻ"
+
+#: patterns/post-meta.php:28
+msgctxt "Verb to explain the publication status of a post"
+msgid "Posted"
+msgstr "പോസ്റ്റുചെയ്തു"
+
+#: patterns/post-meta.php
+msgctxt "Pattern title"
+msgid "Post Meta"
+msgstr "പോസ്റ്റ് മെറ്റ"
+
+#: patterns/hidden-no-results.php:10
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ക്ഷമിക്കണം, നിങ്ങളുടെ തിരയലുമായി ഒന്നും പൊരുത്തപ്പെടുന്നില്ല. മറ്റൊരു കീവേഡ് ഉപയോഗിച്ച് വീണ്ടും ശ്രമിക്കുക."
+
+#: patterns/hidden-no-results.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr "ഫലങ്ങളൊന്നുമില്ലാത്ത ഉള്ളടക്കം മറച്ചിരിക്കുന്നു"
+
+#: patterns/hidden-comments.php:13
+msgctxt "Title of comments section"
+msgid "Comments"
+msgstr "അഭിപ്രായങ്ങള്‍"
+
+#: patterns/hidden-comments.php
+msgctxt "Pattern title"
+msgid "Hidden Comments"
+msgstr "മറഞ്ഞിരിക്കുന്ന അഭിപ്രായങ്ങൾ"
+
+#: patterns/hidden-404.php:22 patterns/hidden-no-results.php:14
+msgid "Search"
+msgstr "തിരയുക"
+
+#: patterns/hidden-404.php:22 patterns/hidden-no-results.php:14
+msgctxt "placeholder for search field"
+msgid "Search..."
+msgstr "തിരയുക..."
+
+#: patterns/hidden-404.php:22 patterns/hidden-no-results.php:14
+msgctxt "label"
+msgid "Search"
+msgstr "തിരയുക"
+
+#: patterns/hidden-404.php:19
+msgctxt "Message to convey that a webpage could not be found"
+msgid "This page could not be found."
+msgstr "ഈ പേജ് കണ്ടെത്താൻ കഴിഞ്ഞില്ല."
+
+#: patterns/hidden-404.php:13
+msgctxt "Error code for a webpage that is not found."
+msgid "404"
+msgstr "404"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "Hidden 404"
+msgstr "ഹിഡൻ 404"
+
+#. Translators: WordPress link.
+#: patterns/footer-default.php:19
+msgid "Proudly powered by %s"
+msgstr "അഭിമാനത്തൊടെ %s"
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Default Footer"
+msgstr "സ്ഥിരമായ അടിക്കുറിപ്പ്"
+
+#: patterns/call-to-action.php:24
+msgctxt "sample content for call to action button"
+msgid "Get In Touch"
+msgstr "ഞങ്ങളെ സമീപിക്കുക"
+
+#: patterns/call-to-action.php:15
+msgctxt "sample content for call to action"
+msgid "Got any book recommendations?"
+msgstr "നിങ്ങൾക്ക് എന്തെങ്കിലും പുസ്തക ശുപാർശകൾ കിട്ടിയോ?"
+
+#: patterns/call-to-action.php
+msgctxt "Pattern title"
+msgid "Call to action"
+msgstr "കാൽ റ്റു ആക്ഷൻ"
+
+#. Author URI of the theme
+#: style.css patterns/footer-default.php:20
+#, gp-priority: low
+msgid "https://wordpress.org"
+msgstr "https://ml.wordpress.org"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "the WordPress team"
+msgstr "വേഡ്പ്രസ്സ് കൂട്ടായ്മ"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://wordpress.org/themes/twentytwentythree"
+msgstr "https://ml.wordpress.org/themes/twentytwentythree"

@@ -1,0 +1,211 @@
+[2024-06-18 03:44:30 : INFO] - Re_Smush_It_Task with attachment ID : 292, autocreated on : June 18, 2024 03:44:30 
+[2024-06-18 03:50:13 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-06-18 03:50:13 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-18 03:50:13 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-18 03:50:13 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2024-06-18 03:50:13 : INFO] - Task with ID 6 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-18 03:50:13 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-18 03:50:13 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-06-18 03:50:13 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-19 04:35:45 : INFO] - Re_Smush_It_Task with attachment ID : 334, autocreated on : June 19, 2024 04:35:45 
+[2024-06-19 04:35:46 : INFO] - Re_Smush_It_Task with attachment ID : 335, autocreated on : June 19, 2024 04:35:46 
+[2024-06-19 04:35:46 : INFO] - Re_Smush_It_Task with attachment ID : 336, autocreated on : June 19, 2024 04:35:46 
+[2024-06-19 04:36:00 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-06-19 04:36:00 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2024-06-19 04:36:00 : INFO] - Task with ID 10 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-19 04:40:45 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2024-06-19 04:40:45 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-19 04:40:45 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-19 04:40:45 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2024-06-19 04:40:45 : INFO] - Task with ID 7 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-19 04:40:45 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2024-06-19 04:40:45 : INFO] - Task with ID 8 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-19 04:40:45 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2024-06-19 04:40:45 : INFO] - Task with ID 9 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-19 04:40:45 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-19 04:40:46 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2024-06-19 04:40:46 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-19 06:36:50 : INFO] - Pruning the smush log file 
+[2024-06-22 04:52:41 : INFO] - Re_Smush_It_Task with attachment ID : 348, autocreated on : June 22, 2024 04:52:41 
+[2024-06-22 04:57:42 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-06-22 04:57:42 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-22 04:57:42 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-22 04:57:42 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2024-06-22 04:57:42 : INFO] - Task with ID 11 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-22 04:57:42 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-22 04:57:42 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-06-22 04:57:42 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-22 05:25:29 : INFO] - Re_Smush_It_Task with attachment ID : 351, autocreated on : June 22, 2024 05:25:29 
+[2024-06-22 05:30:33 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-06-22 05:30:33 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-22 05:30:33 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-22 05:30:33 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2024-06-22 05:30:33 : INFO] - Task with ID 12 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-22 05:30:33 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-22 05:30:33 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-06-22 05:30:33 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-22 09:26:16 : INFO] - Re_Smush_It_Task with attachment ID : 364, autocreated on : June 22, 2024 09:26:16 
+[2024-06-22 09:49:30 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-06-22 09:49:30 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-22 09:49:30 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-22 09:49:30 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2024-06-22 09:49:30 : INFO] - Task with ID 13 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-22 09:49:30 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-22 09:49:30 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-06-22 09:49:30 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-22 16:22:25 : INFO] - Re_Smush_It_Task with attachment ID : 372, autocreated on : June 22, 2024 04:22:25 
+[2024-06-22 16:27:31 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-06-22 16:27:31 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-22 16:27:31 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-22 16:27:31 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2024-06-22 16:27:31 : INFO] - Task with ID 14 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-22 16:27:31 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-22 16:27:31 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-06-22 16:27:31 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-23 04:41:17 : INFO] - Re_Smush_It_Task with attachment ID : 378, autocreated on : June 23, 2024 04:41:17 
+[2024-06-23 04:53:02 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-06-23 04:53:02 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-23 04:53:02 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-23 04:53:02 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2024-06-23 04:53:02 : INFO] - Task with ID 15 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-23 04:53:02 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-23 04:53:02 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-06-23 04:53:02 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-24 06:58:02 : INFO] - Re_Smush_It_Task with attachment ID : 392, autocreated on : June 24, 2024 06:58:02 
+[2024-06-24 06:58:41 : INFO] - Re_Smush_It_Task with attachment ID : 393, autocreated on : June 24, 2024 06:58:41 
+[2024-06-24 07:03:42 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2024-06-24 07:03:42 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-24 07:03:42 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-24 07:03:42 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2024-06-24 07:03:42 : INFO] - Task with ID 16 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-24 07:03:42 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2024-06-24 07:03:42 : INFO] - Task with ID 17 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-24 07:03:42 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-24 07:03:42 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2024-06-24 07:03:42 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-24 07:05:34 : INFO] - Re_Smush_It_Task with attachment ID : 394, autocreated on : June 24, 2024 07:05:34 
+[2024-06-24 07:32:26 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-06-24 07:32:26 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-24 07:32:26 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-24 07:32:26 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2024-06-24 07:32:26 : INFO] - Task with ID 18 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-24 07:32:26 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-24 07:32:26 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-06-24 07:32:26 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-24 13:58:15 : INFO] - Re_Smush_It_Task with attachment ID : 395, autocreated on : June 24, 2024 01:58:15 
+[2024-06-24 13:59:03 : INFO] - Re_Smush_It_Task with attachment ID : 397, autocreated on : June 24, 2024 01:59:03 
+[2024-06-24 13:59:39 : INFO] - Re_Smush_It_Task with attachment ID : 398, autocreated on : June 24, 2024 01:59:39 
+[2024-06-24 14:04:08 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2024-06-24 14:04:08 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-24 14:04:08 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-24 14:04:08 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2024-06-24 14:04:08 : INFO] - Task with ID 19 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-24 14:04:08 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2024-06-24 14:04:08 : INFO] - Task with ID 20 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-24 14:04:08 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2024-06-24 14:04:08 : INFO] - Task with ID 21 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-24 14:04:08 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-24 14:04:08 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2024-06-24 14:04:08 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-24 14:12:16 : INFO] - Re_Smush_It_Task with attachment ID : 400, autocreated on : June 24, 2024 02:12:16 
+[2024-06-24 14:14:20 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-06-24 14:14:20 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-24 14:14:20 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-24 14:14:20 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2024-06-24 14:14:20 : INFO] - Task with ID 22 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-24 14:14:20 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-24 14:14:20 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-06-24 14:14:20 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-24 14:28:57 : INFO] - Re_Smush_It_Task with attachment ID : 404, autocreated on : June 24, 2024 02:28:57 
+[2024-06-24 14:34:09 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-06-24 14:34:09 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-24 14:34:09 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-24 14:34:09 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2024-06-24 14:34:09 : INFO] - Task with ID 23 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-24 14:34:09 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-24 14:34:09 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-06-24 14:34:09 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-25 04:53:38 : INFO] - Re_Smush_It_Task with attachment ID : 406, autocreated on : June 25, 2024 04:53:38 
+[2024-06-25 05:00:26 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-06-25 05:00:26 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-25 05:00:26 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-25 05:00:26 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2024-06-25 05:00:26 : INFO] - Task with ID 24 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-25 05:00:26 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-25 05:00:26 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-06-25 05:00:26 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-25 05:09:02 : INFO] - Re_Smush_It_Task with attachment ID : 409, autocreated on : June 25, 2024 05:09:02 
+[2024-06-25 05:10:41 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-06-25 05:10:41 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-25 05:10:41 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-25 05:10:41 : INFO] - Processing task with ID : 25, and type 'smush' 
+[2024-06-25 05:10:41 : INFO] - Task with ID 25 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-25 05:10:41 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-25 05:10:41 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-06-25 05:10:41 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-25 05:18:27 : INFO] - Re_Smush_It_Task with attachment ID : 412, autocreated on : June 25, 2024 05:18:27 
+[2024-06-25 05:19:02 : INFO] - Re_Smush_It_Task with attachment ID : 413, autocreated on : June 25, 2024 05:19:02 
+[2024-06-25 05:20:42 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2024-06-25 05:20:42 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-25 05:20:42 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-25 05:20:42 : INFO] - Processing task with ID : 26, and type 'smush' 
+[2024-06-25 05:20:42 : INFO] - Task with ID 26 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-25 05:20:42 : INFO] - Processing task with ID : 27, and type 'smush' 
+[2024-06-25 05:20:42 : INFO] - Task with ID 27 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-25 05:20:42 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-25 05:20:42 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2024-06-25 05:20:42 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-25 05:28:24 : INFO] - Re_Smush_It_Task with attachment ID : 416, autocreated on : June 25, 2024 05:28:24 
+[2024-06-25 05:30:53 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-06-25 05:30:53 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-25 05:30:53 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-25 05:30:53 : INFO] - Processing task with ID : 28, and type 'smush' 
+[2024-06-25 05:30:53 : INFO] - Task with ID 28 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-25 05:30:53 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-25 05:30:53 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-06-25 05:30:53 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-25 05:36:35 : INFO] - Re_Smush_It_Task with attachment ID : 419, autocreated on : June 25, 2024 05:36:35 
+[2024-06-25 05:41:25 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-06-25 05:41:25 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-25 05:41:25 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-25 05:41:25 : INFO] - Processing task with ID : 29, and type 'smush' 
+[2024-06-25 05:41:25 : INFO] - Task with ID 29 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-25 05:41:25 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-25 05:41:25 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-06-25 05:41:25 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-25 05:44:19 : INFO] - Re_Smush_It_Task with attachment ID : 422, autocreated on : June 25, 2024 05:44:19 
+[2024-06-25 05:53:19 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-06-25 05:53:19 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-25 05:53:19 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-25 05:53:19 : INFO] - Processing task with ID : 30, and type 'smush' 
+[2024-06-25 05:53:19 : INFO] - Task with ID 30 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-25 05:53:19 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-25 05:53:19 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-06-25 05:53:19 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-25 05:56:57 : INFO] - Re_Smush_It_Task with attachment ID : 425, autocreated on : June 25, 2024 05:56:57 
+[2024-06-25 06:04:28 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-06-25 06:04:28 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-25 06:04:28 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-25 06:04:28 : INFO] - Processing task with ID : 31, and type 'smush' 
+[2024-06-25 06:04:28 : INFO] - Task with ID 31 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-25 06:04:28 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-25 06:04:28 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-06-25 06:04:28 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-25 06:07:48 : INFO] - Re_Smush_It_Task with attachment ID : 428, autocreated on : June 25, 2024 06:07:48 
+[2024-06-25 06:14:28 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-06-25 06:14:28 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-25 06:14:28 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-25 06:14:28 : INFO] - Processing task with ID : 32, and type 'smush' 
+[2024-06-25 06:14:28 : INFO] - Task with ID 32 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-25 06:14:28 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-25 06:14:28 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-06-25 06:14:28 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-25 06:17:56 : INFO] - Re_Smush_It_Task with attachment ID : 431, autocreated on : June 25, 2024 06:17:56 
+[2024-06-25 06:24:29 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-06-25 06:24:29 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-25 06:24:29 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-25 06:24:29 : INFO] - Processing task with ID : 33, and type 'smush' 
+[2024-06-25 06:24:29 : INFO] - Task with ID 33 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-06-25 06:24:29 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-25 06:24:29 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-06-25 06:24:29 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 

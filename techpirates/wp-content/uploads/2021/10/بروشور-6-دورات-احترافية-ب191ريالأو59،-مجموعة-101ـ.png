@@ -1,0 +1,1133 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://preview.tutorlms.com/marketplace/xmlrpc.php">
+	<title>Marketplace &#8211; Just another Preview Sites site</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//instant.page' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Marketplace &raquo; Feed" href="https://preview.tutorlms.com/marketplace/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Marketplace &raquo; Comments Feed" href="https://preview.tutorlms.com/marketplace/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/preview.tutorlms.com\/marketplace\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.7"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://preview.tutorlms.com/marketplace/wp-includes/css/dist/block-library/style.min.css?ver=5.9.7' type='text/css' media="print" onload="this.media='all'" />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code>code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group:where(.has-background){padding:1.25em 2.375em}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}
+</style>
+<link rel='stylesheet' id='wc-blocks-vendors-style-css'  href='https://preview.tutorlms.com/marketplace/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=6.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css'  href='https://preview.tutorlms.com/marketplace/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=6.9.0' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--medium-blue: #175CFF;--wp--preset--color--deep-navyblue: #0A083B;--wp--preset--color--off-white: #F7F9FA;--wp--preset--color--bluish-dark-grey: #57586E;--wp--preset--color--light-grey: #EAF1F8;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 16px;--wp--preset--font-size--normal-plus: 18px;--wp--preset--font-size--medium-plus: 26px;--wp--preset--font-size--big: 32px;--wp--preset--font-size--huge: 48px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='qubely-bundle-css'  href='https://preview.tutorlms.com/marketplace/wp-content/plugins/qubely/assets/css/qubely.bundle.min.css?ver=1.7.9' type='text/css' media='all' />
+<link rel='stylesheet' id='qubely-font-awesome-css'  href='https://preview.tutorlms.com/marketplace/wp-content/plugins/qubely/assets/css/font-awesome.min.css?ver=1.7.9' type='text/css' media="print" onload="this.media='all'" />
+<link rel='stylesheet' id='qubely-google-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CSora%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CInter%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7C&#038;ver=1.7.9' type='text/css' media='all' />
+<link rel='stylesheet' id='tutor-inter-fonts-css'  href='https://fonts.googleapis.com/css2?family=Inter%3Awght%40300%3B400%3B500%3B600%3B700&#038;display=swap&#038;ver=2.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='tutor-icon-css'  href='https://preview.tutorlms.com/marketplace/wp-content/plugins/tutor/assets/css/tutor-icon.css?ver=2.0.0' type='text/css' media="print" onload="this.media='all'" />
+<link rel='stylesheet' id='tutor-css'  href='https://preview.tutorlms.com/marketplace/wp-content/plugins/tutor/assets/css/tutor.min.css?ver=2.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='tutor-frontend-css'  href='https://preview.tutorlms.com/marketplace/wp-content/plugins/tutor/assets/css/tutor-front.min.css?ver=2.0.0' type='text/css' media='all' />
+<style id='tutor-frontend-inline-css' type='text/css'>
+:root{}
+</style>
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://preview.tutorlms.com/marketplace/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=6.3.1' type='text/css' media="print" onload="this.media='all'" />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://preview.tutorlms.com/marketplace/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=6.3.1' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://preview.tutorlms.com/marketplace/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=6.3.1' type='text/css' media="print" onload="this.media='all'" />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='gfonts-css'  href='https://fonts.googleapis.com/css2?family=Inter%3Awght%40100%3B300%3B400%3B500%3B700%3B900&#038;display=swap&#038;ver=1.0.9' type='text/css' media="print" onload="this.media='all'" />
+<link rel='stylesheet' id='gfonts-heading-css'  href='https://fonts.googleapis.com/css2?family=Sora%3Awght%40100%3B300%3B400%3B500%3B700%3B900&#038;display=swap&#038;ver=1.0.9' type='text/css' media="print" onload="this.media='all'" />
+<link rel='stylesheet' id='main-css'  href='https://preview.tutorlms.com/marketplace/wp-content/themes/tutorstarter/assets/dist/css/style.min.css?ver=1.0.9' type='text/css' media='all' />
+<style id='main-inline-css' type='text/css'>
+
+			:root {
+				--default-color: #ffffff;
+				--body-font: Inter;
+				--heading-font: Sora;
+				--link-color: #1950D1;
+				--body-bg-color: #ffffff;
+				--cart-color: #1950D1;
+				--cart-color-trans: #ffffff;
+				--cta-text-color: #1539e9;
+				--cta-text-color-trans: #ffffff;
+				--body-text-color: #57586E;
+				--cta-font-weight: 400;
+				--cta-font-transform: none;
+				--cta-font-lineheight: 1.2em;
+				--cta-font-lineheight-tablet: 1.2em;
+				--cta-font-lineheight-mobile: 1.2em;
+				--menu-link-color: #57586E;
+				--menu-link-color-trans: #ffffff;
+				--body-font-weight: 400;
+				--h1-font-weight: 700;
+				--h2-font-weight: 700;
+				--h3-font-weight: 700;
+				--h4-font-weight: 700;
+				--h5-font-weight: 700;
+				--h6-font-weight: 700;
+				--h1-text-transform: none;
+				--h2-text-transform: none;
+				--h3-text-transform: none;
+				--h4-text-transform: none;
+				--h5-text-transform: none;
+				--h6-text-transform: none;
+				--primary-menu-bg-color: #ffffff;
+				--sticky-menu-bg-color: rgba(4, 42, 132, 0.7);
+				--cta-background-color: #ffffff;
+				--cta-background-color-trans: rgba(25, 80, 209, 1);
+				--cta-border-color: #1539e9;
+				--cta-border-color-trans: #1950D1;
+				--cta-border-width: 1px;
+				--cta-border-radius: 50px;
+				--cta-font-size: 16px;
+				--header-font-weight: 400;
+				--header-font-transform: none;
+				--header-font-lineheight: 1.2em;
+				--header-font-lineheight-tablet: 1.2em;
+				--header-font-lineheight-mobile: 1.2em;
+				--body-text-transform: none;
+				--body-font-size: 16px;
+				--h1-font-size: 68px;
+				--h1-font-size-tablet: 48px;
+				--h1-font-size-mobile: 48px;
+				--h2-font-size: 48px;
+				--h2-font-size-tablet: 32px;
+				--h2-font-size-mobile: 32px;
+				--h3-font-size: 36px;
+				--h3-font-size-tablet: 28px;
+				--h3-font-size-mobile: 28px;
+				--h4-font-size: 26px;
+				--h4-font-size-tablet: 24px;
+				--h4-font-size-mobile: 24px;
+				--h5-font-size: 20px;
+				--h5-font-size-tablet: 18px;
+				--h5-font-size-mobile: 18px;
+				--h6-font-size: 18px;
+				--h6-font-size-tablet: 17px;
+				--h6-font-size-mobile: 17px;
+				--active-menu-color: #175cff;
+				--active-menu-color-trans: #ffffff;
+				--cta-font-size-tablet: 13px;
+				--cta-font-size-mobile: 13px;
+				--header-font-size: 16px;
+				--body-font-size-mobile: 13px;
+				--body-font-size-tablet: 13px;
+				--footer-bottom-bg-color: #1E1E2C;
+				--footer-widget-bg-color: #1E1E2C;
+				--header-font-size-tablet: 13px;
+				--header-font-size-mobile: 13px;
+				--footer-bottom-text-color: #ffffff;
+				--widget-title-font-weight: 700;
+				--widget-title-text-transform: none;
+				--footer-widget-text-color: #ffffff;
+				--body-font-lineheight: 1.7em;
+				--h1-font-lineheight: 2.5em;
+				--h1-font-lineheight-tablet: 2.5em;
+				--h1-font-lineheight-mobile: 2.5em;
+				--h2-font-lineheight: 2em;
+				--h2-font-lineheight-tablet: 2em;
+				--h2-font-lineheight-mobile: 2em;
+				--h3-font-lineheight: 1.8em;
+				--h3-font-lineheight-tablet: 1.8em;
+				--h3-font-lineheight-mobile: 1.8em;
+				--h4-font-lineheight: 1.7em;
+				--h4-font-lineheight-tablet: 1.7em;
+				--h4-font-lineheight-mobile: 1.7em;
+				--h5-font-lineheight: 1.6em;
+				--h5-font-lineheight-tablet: 1.6em;
+				--h5-font-lineheight-mobile: 1.6em;
+				--h6-font-lineheight: 1.5em;
+				--h6-font-lineheight-tablet: 1.5em;
+				--h6-font-lineheight-mobile: 1.5em;
+				--body-font-lineheight-tablet: 1.5em;
+				--body-font-lineheight-mobile: 1.5em;
+				--widget-title-font-size: 18px;
+				--widget-title-font-size-tablet: 16px;
+				--widget-title-font-size-mobile: 16px;
+				--widget-title-line-height: 1.78em;
+				--widget-title-line-height-tablet: 1.78em;
+				--widget-title-line-height-mobile: 1.78em;
+				--widget-text-font-weight: 400;
+				--widget-text-transform: none;
+				--widget-text-font-size: 16px;
+				--widget-text-font-size-tablet: 16px;
+				--widget-text-font-size-mobile: 16px;
+				--widget-text-line-height: 1.78em;
+				--widget-text-line-height-tablet: 1.78em;
+				--widget-text-line-height-mobile: 1.78em;
+			}
+        
+</style>
+<script type='text/javascript' id='qubely_local_script-js-extra'>
+/* <![CDATA[ */
+var qubely_urls = {"plugin":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/qubely\/","ajax":"https:\/\/preview.tutorlms.com\/marketplace\/wp-admin\/admin-ajax.php","nonce":"85a3a1b909","actual_url":"preview.tutorlms.com\/marketplace"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://preview.tutorlms.com/marketplace/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://preview.tutorlms.com/marketplace/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='qubely_container_width-js-extra'>
+/* <![CDATA[ */
+var qubely_container_width = {"sm":"540","md":"720","lg":"960","xl":"1140"};
+/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="https://preview.tutorlms.com/marketplace/wp-json/" /><link rel="alternate" type="application/json" href="https://preview.tutorlms.com/marketplace/wp-json/wp/v2/pages/15" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://preview.tutorlms.com/marketplace/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://preview.tutorlms.com/marketplace/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9.7" />
+<meta name="generator" content="TutorLMS 2.0.0" />
+<meta name="generator" content="WooCommerce 6.3.1" />
+<link rel="canonical" href="https://preview.tutorlms.com/marketplace/" />
+<link rel='shortlink' href='https://preview.tutorlms.com/marketplace/' />
+<link rel="alternate" type="application/json+oembed" href="https://preview.tutorlms.com/marketplace/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpreview.tutorlms.com%2Fmarketplace%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://preview.tutorlms.com/marketplace/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpreview.tutorlms.com%2Fmarketplace%2F&#038;format=xml" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css">:root {--qubely-color-1:#696CFF;--qubely-color-2:#04C3EC;--qubely-color-3:#363636;--qubely-color-4:#BBC0D4;--qubely-color-5:#FFFFFF;}:root{--qubely-typo1-font-size:60px;--qubely-typo1-line-height:80px;--qubely-typo1-letter-spacing:0px;}@media (max-width: 991px) {:root{--qubely-typo1-letter-spacing:0px;}} :root{--qubely-typo1-font-family:'Roboto',sans-serif;--qubely-typo1-font-weight:700;--qubely-typo1-font-style:normal;}:root{--qubely-typo2-font-size:48px;--qubely-typo2-line-height:64px;--qubely-typo2-letter-spacing:0px;}@media (max-width: 991px) {:root{--qubely-typo2-letter-spacing:0px;}} :root{--qubely-typo2-font-family:'Roboto',sans-serif;--qubely-typo2-font-weight:700;--qubely-typo2-font-style:normal;}:root{--qubely-typo3-font-size:36px;--qubely-typo3-line-height:48px;--qubely-typo3-letter-spacing:0px;}@media (max-width: 991px) {:root{--qubely-typo3-letter-spacing:0px;}} :root{--qubely-typo3-font-family:'Roboto',sans-serif;--qubely-typo3-font-weight:700;--qubely-typo3-font-style:normal;}:root{--qubely-typo4-font-size:30px;--qubely-typo4-line-height:36px;--qubely-typo4-letter-spacing:0px;}@media (max-width: 991px) {:root{--qubely-typo4-letter-spacing:0px;}} :root{--qubely-typo4-font-family:'Roboto',sans-serif;--qubely-typo4-font-weight:700;--qubely-typo4-font-style:normal;}:root{--qubely-typo5-font-size:18px;--qubely-typo5-line-height:28px;--qubely-typo5-letter-spacing:0px;}@media (max-width: 991px) {:root{--qubely-typo5-letter-spacing:0px;}} :root{--qubely-typo5-font-family:'Roboto',sans-serif;--qubely-typo5-font-weight:700;--qubely-typo5-font-style:normal;}:root{--qubely-typo6-font-size:16px;--qubely-typo6-line-height:24px;--qubely-typo6-letter-spacing:0px;}@media (max-width: 991px) {:root{--qubely-typo6-letter-spacing:0px;}} :root{--qubely-typo6-font-family:'Roboto',sans-serif;--qubely-typo6-font-weight:700;--qubely-typo6-font-style:normal;}:root{--qubely-typo7-font-size:18px;--qubely-typo7-line-height:24px;--qubely-typo7-letter-spacing:0px;}@media (max-width: 991px) {:root{--qubely-typo7-letter-spacing:0px;}} :root{--qubely-typo7-font-family:'Roboto',sans-serif;}:root{--qubely-typo8-font-size:14px;--qubely-typo8-line-height:22px;--qubely-typo8-letter-spacing:0px;}@media (max-width: 991px) {:root{--qubely-typo8-letter-spacing:0px;}} :root{--qubely-typo8-font-family:'Roboto',sans-serif;}:root{--qubely-typo9-font-size:16px;--qubely-typo9-line-height:19px;--qubely-typo9-letter-spacing:3px;}@media (max-width: 991px) {:root{--qubely-typo9-letter-spacing:0px;}} :root{--qubely-typo9-font-family:'Roboto',sans-serif;--qubely-typo9-font-weight:700;--qubely-typo9-font-style:normal;--qubely-typo9-text-transform:uppercase;}:root{--qubely-typo10-font-size:14px;--qubely-typo10-line-height:19px;--qubely-typo10-letter-spacing:3px;}@media (max-width: 991px) {:root{--qubely-typo10-letter-spacing:0px;}} :root{--qubely-typo10-font-family:'Roboto',sans-serif;--qubely-typo10-font-weight:700;--qubely-typo10-font-style:normal;--qubely-typo10-text-transform:uppercase;}@media (min-width: 576px){.qubely-section .qubely-container{max-width: 540px;}}@media (min-width: 768px){.qubely-section .qubely-container{max-width: 720px;}}@media (min-width: 992px){.qubely-section .qubely-container{max-width: 960px;}}@media (min-width: 1200px){.qubely-section .qubely-container{max-width: 1140px;}}.qubely-block-2082f7.qubely-section {padding: 106px 0px 124px 0px;}.qubely-block-2082f7 .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-2082f7 .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-2082f7 .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-2082f7 .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}@media (max-width: 1199px) {.qubely-block-2082f7 .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-2082f7 .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-2082f7 .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-2082f7 .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}}@media (max-width: 991px) {.qubely-block-2082f7 .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-2082f7 .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-2082f7 .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-2082f7 .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}}.qubely-block-2082f7 {position:relative;}.qubely-block-2082f7 {z-index:0;}@media (min-width: 992px){
+.qubely-block-2082f7 >.qubely-row-overlay{
+display: none
+}
+}
+
+@media (min-width: 1400px){
+.qubely-block-2082f7.qubely-section {
+    padding: 196px 0px 204px 0px;
+}
+}.qubely-block-2082f7.qubely-section{background-color:#f5f5f5;background-image:url(https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2021/04/marketplace-hero2.jpg);background-position:center center;background-repeat:no-repeat;background-size:cover;}.qubely-block-2082f7 >.qubely-row-overlay{background-color:rgba(0,0,0,0.4);}.qubely-block-2082f7 >.qubely-row-overlay {opacity: .8; }.qubely-block-c1779c.qubely-column-front {flex:50%;} .qubely-block-c1779c.qubely-column-front {max-width:50%;}.qubely-block-c1779c > .qubely-column-inner {padding: 0px 50px 0px 0px;}.qubely-block-c1779c > .qubely-column-inner {margin: 0px 0px 0px 0px;}@media (max-width: 1199px) {.qubely-block-c1779c.qubely-column-front {flex:50%;} .qubely-block-c1779c.qubely-column-front {max-width:50%;}.qubely-block-c1779c > .qubely-column-inner {padding: 0px 0px 0px 0px;}}@media (max-width: 991px) {.qubely-block-c1779c.qubely-column-front {flex:100%;} .qubely-block-c1779c.qubely-column-front {max-width:100%;}.qubely-block-c1779c > .qubely-column-inner {padding: 0px 0px 0px 0px;}}.qubely-block-c1779c {position:relative;}.qubely-block-c1779c {z-index:0;}.qubely-block-8a64df{padding-top:15px;padding-bottom:70px;}.qubely-block-8a64df .qubely-block-heading .qubely-heading-selector{font-size:48px;line-height:1.35em !important;}.qubely-block-8a64df .qubely-block-heading .qubely-sub-heading-selector{font-size:16px;line-height:1.50em !important;}.qubely-block-8a64df .qubely-block-heading .qubely-sub-heading-selector {margin-top: 25px;}@media (max-width: 1199px) {.qubely-block-8a64df .qubely-block-heading .qubely-heading-selector{font-size:44px;}}@media (max-width: 991px) {.qubely-block-8a64df{padding-bottom:25px;}.qubely-block-8a64df .qubely-block-heading .qubely-heading-selector{font-size:40px;}}.qubely-block-8a64df {position:relative;}.qubely-block-8a64df {z-index:0;}.qubely-block-8a64df .qubely-block-heading .qubely-heading-selector{font-family:'Sora',sans-serif;font-weight:700;font-style:normal;}.qubely-block-8a64df .qubely-block-heading .qubely-sub-heading-selector{font-family:'Inter',sans-serif;font-weight:400;font-style:normal;}.qubely-block-8a64df .qubely-block-heading .qubely-sub-heading-selector {color: #ffffff;}.qubely-block-8a64df .qubely-block-heading .qubely-heading-selector { color:#ffffff; }.qubely-block-ac52ed .qubely-block-button-group {justify-content: flex-start; }.qubely-block-ac52ed .qubely-block-button-group {margin-right: -10px;} .qubely-block-ac52ed .qubely-block-button-group.qubely-backend .block-editor-block-list__layout > div[data-type="qubely/button"]:not(:nth-last-child(2)), .qubely-block-ac52ed .qubely-block-button-group .wp-block-qubely-button:not(:last-child){margin-right: 10px;}.qubely-block-ac52ed {position:relative;}.qubely-block-ac52ed {z-index:0;}.qubely-block-d84522{padding-top:10px;padding-bottom:10px;}.qubely-block-d84522 .qubely-block-btn-anchor{padding:15px 34px 15px 34px;}.qubely-block-d84522 .qubely-block-btn-wrapper .qubely-block-btn .qubely-block-btn-anchor {font-size:16px;}.qubely-block-d84522 .qubely-block-btn-anchor{border-width:1px;border-color:  #ffffff; border-style: solid;}.qubely-block-d84522 .qubely-block-btn-anchor{border-radius:53px;}@media (max-width: 1199px) {.qubely-block-d84522 .qubely-block-btn-anchor{border-color:  #ffffff; border-style: solid;}}@media (max-width: 991px) {.qubely-block-d84522 .qubely-block-btn-anchor{padding:12px 20px 12px 20px;}.qubely-block-d84522 .qubely-block-btn-wrapper .qubely-block-btn .qubely-block-btn-anchor {font-size:14px;}.qubely-block-d84522 .qubely-block-btn-anchor{border-color:  #ffffff; border-style: solid;}}.qubely-block-d84522 {position:relative;}.qubely-block-d84522 {z-index:0;}.qubely-block-d84522 .qubely-block-btn-wrapper .qubely-block-btn .qubely-block-btn-anchor {font-family:'Inter',sans-serif;font-weight:600;font-style:normal;}.qubely-block-d84522 .qubely-block-btn-anchor { color:#ffffff; }.qubely-block-d84522 .qubely-block-btn-anchor:hover { color:#ffffff; }.qubely-block-d84522 .qubely-block-btn-anchor:before{background-image: none; background-color: #1950d1;}.qubely-block-d84522 .qubely-block-btn-anchor:hover {border-color: #1950d1;}.qubely-block-0bf4a5{padding-top:10px;padding-bottom:10px;}.qubely-block-0bf4a5 .qubely-block-btn-anchor{padding:15px;}.qubely-block-0bf4a5 .qubely-block-btn-wrapper .qubely-block-btn .qubely-block-btn-anchor {font-size:16px;}.qubely-block-0bf4a5 .qubely-block-btn-anchor{border-radius:53px;}.qubely-block-0bf4a5 .qubely-btn-icon {font-size: 10px}.qubely-block-0bf4a5 .qubely-btn-icon { margin-left: 6px; }@media (max-width: 991px) {.qubely-block-0bf4a5 .qubely-block-btn-wrapper .qubely-block-btn .qubely-block-btn-anchor {font-size:14px;}}.qubely-block-0bf4a5 {position:relative;}.qubely-block-0bf4a5 {z-index:0;}.qubely-block-0bf4a5 .qubely-block-btn-wrapper .qubely-block-btn .qubely-block-btn-anchor {font-family:'Inter',sans-serif;font-weight:600;font-style:normal;}.qubely-block-0bf4a5 .qubely-block-btn-anchor { color:#ffffff; }.qubely-block-1ead26.qubely-column-front {flex:50%;} .qubely-block-1ead26.qubely-column-front {max-width:50%;}.qubely-block-1ead26 > .qubely-column-inner {padding: 0px 0px 0px 0px;}.qubely-block-1ead26 > .qubely-column-inner {margin: 0px 0px 0px 0px;}@media (max-width: 1199px) {.qubely-block-1ead26.qubely-column-front {flex:100%;} .qubely-block-1ead26.qubely-column-front {max-width:100%;}}@media (max-width: 991px) {.qubely-block-1ead26.qubely-column-front {flex:100%;} .qubely-block-1ead26.qubely-column-front {max-width:100%;}}.qubely-block-1ead26 {position:relative;}.qubely-block-1ead26 {z-index:0;}.qubely-block-7f1587.qubely-section {padding: 63px 0px 43px 0px;}.qubely-block-7f1587 .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-7f1587 .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-7f1587 .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-7f1587 .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}@media (max-width: 1199px) {.qubely-block-7f1587 .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-7f1587 .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-7f1587 .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-7f1587 .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}}@media (max-width: 991px) {.qubely-block-7f1587 .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-7f1587 .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-7f1587 .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-7f1587 .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}}.qubely-block-7f1587 {position:relative;}.qubely-block-7f1587 {z-index:1;}.qubely-block-7f1587 .qubely-image-media:hover {
+   transition: .3s linear;
+}
+
+.qubely-block-7f1587 .qubely-image-media:hover {
+    filter: drop-shadow(0px 20px 30px rgba(0, 0, 0, 0.15));
+}
+
+@media (max-width: 1199px){
+.qubely-block-7f1587 .qubely-row > .qubely-column-front {
+    --width: 20%;
+    max-width: var(--width);
+    flex: var(--width);
+}
+}
+
+@media (max-width: 991px){
+.qubely-block-7f1587 .qubely-row > .qubely-column-front {
+    --width: 25%;
+    max-width: var(--width);
+    flex: var(--width);
+}
+}
+
+@media (max-width: 767px){
+.qubely-block-7f1587 .qubely-row > .qubely-column-front {
+    --width: 33.33%;
+    max-width: var(--width);
+    flex: var(--width);
+}
+}
+
+@media (max-width: 575px){
+.qubely-block-7f1587 .qubely-row > .qubely-column-front {
+    --width: 50%;
+    max-width: var(--width);
+    flex: var(--width);
+}
+}.qubely-block-7f1587.qubely-section{background-color:#ffffff;}.qubely-block-7f1587 >.qubely-row-overlay {opacity: .8; }.qubely-block-e14d01.qubely-column-front {flex:16.66%;} .qubely-block-e14d01.qubely-column-front {max-width:16.66%;}.qubely-block-e14d01 > .qubely-column-inner {padding: 0px 0px 0px 0px;}.qubely-block-e14d01 > .qubely-column-inner {margin: 0px 0px 0px 0px;}@media (max-width: 1199px) {.qubely-block-e14d01.qubely-column-front {flex:33.33%;} .qubely-block-e14d01.qubely-column-front {max-width:33.33%;}}@media (max-width: 991px) {.qubely-block-e14d01.qubely-column-front {flex:50%;} .qubely-block-e14d01.qubely-column-front {max-width:50%;}}.qubely-block-e14d01 {position:relative;}.qubely-block-e14d01 {z-index:0;}.qubely-block-6dcd6a{padding-top:10px;padding-bottom:10px;}.qubely-block-6dcd6a .qubely-block-image {text-align: left;}.qubely-block-6dcd6a .qubely-block-image .qubely-image-container, .qubely-block-6dcd6a .qubely-block-image .qubely-image-container img{border-radius:12px;}.qubely-block-6dcd6a .qubely-image-caption {margin-top: 20px;}.qubely-block-6dcd6a .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-size:18px;line-height:1.33em !important;}.qubely-block-6dcd6a .qubely-image-content{padding:10px;}@media (max-width: 1199px) {.qubely-block-6dcd6a .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-size:16px;}}@media (max-width: 991px) {.qubely-block-6dcd6a .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-size:14px;}}.qubely-block-6dcd6a {position:relative;}.qubely-block-6dcd6a {z-index:0;}.qubely-block-6dcd6a .qubely-image-media:hover .qubely-image-container:before {
+    backdrop-filter: blur(4px);
+}
+
+.qubely-block-6dcd6a .qubely-image-container:before {
+    background-image: none;
+    background-color: rgba(0,0,0,0.6);
+    transition: .3s linear;
+}
+
+.qubely-block-6dcd6a .qubely-block-image figure .qubely-image-container {
+    transition: .3s linear;
+}.qubely-block-6dcd6a .qubely-image-image {height: auto;}.qubely-block-6dcd6a .qubely-image-image {opacity: 1;}.qubely-block-6dcd6a .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-family:'Inter',sans-serif;font-weight:600;font-style:normal;}.qubely-block-6dcd6a .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title {color: #FFF;}.qubely-block-6dcd6a .qubely-image-container:before{background-image: none; background-color: rgba(0,0,0,0.22);}.qubely-block-6dcd6a .qubely-image-container:after{background-image: none; background-color: rgba(0,0,0,0);}.qubely-block-6dcd6a .qubely-image-content {-webkit-box-align: center; -ms-flex-align: center; -ms-grid-row-align: center; align-items: center;}.qubely-block-6dcd6a .qubely-image-content {-webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; text-align: center;}.qubely-block-c5b79e.qubely-column-front {flex:16.67%;} .qubely-block-c5b79e.qubely-column-front {max-width:16.67%;}.qubely-block-c5b79e > .qubely-column-inner {padding: 0px 0px 0px 0px;}.qubely-block-c5b79e > .qubely-column-inner {margin: 0px 0px 0px 0px;}@media (max-width: 1199px) {.qubely-block-c5b79e.qubely-column-front {flex:33.33%;} .qubely-block-c5b79e.qubely-column-front {max-width:33.33%;}}@media (max-width: 991px) {.qubely-block-c5b79e.qubely-column-front {flex:50%;} .qubely-block-c5b79e.qubely-column-front {max-width:50%;}}.qubely-block-c5b79e {position:relative;}.qubely-block-c5b79e {z-index:0;}.qubely-block-49a633{padding-top:10px;padding-bottom:10px;}.qubely-block-49a633 .qubely-block-image {text-align: left;}.qubely-block-49a633 .qubely-block-image .qubely-image-container, .qubely-block-49a633 .qubely-block-image .qubely-image-container img{border-radius:12px;}.qubely-block-49a633 .qubely-image-caption {margin-top: 20px;}.qubely-block-49a633 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-size:18px;line-height:1.33em !important;}.qubely-block-49a633 .qubely-image-content{padding:10px;}@media (max-width: 1199px) {.qubely-block-49a633 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-size:16px;}}@media (max-width: 991px) {.qubely-block-49a633 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-size:14px;}}.qubely-block-49a633 {position:relative;}.qubely-block-49a633 {z-index:0;}.qubely-block-49a633 .qubely-image-media:hover .qubely-image-container:before {
+    backdrop-filter: blur(4px);
+}
+
+.qubely-block-49a633 .qubely-image-container:before {
+    background-image: none;
+    background-color: rgba(0,0,0,0.6);
+    transition: .3s linear;
+}
+
+.qubely-block-49a633 .qubely-block-image figure .qubely-image-container {
+    transition: .3s linear;
+}.qubely-block-49a633 .qubely-image-image {height: auto;}.qubely-block-49a633 .qubely-image-image {opacity: 1;}.qubely-block-49a633 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-family:'Inter',sans-serif;font-weight:600;font-style:normal;}.qubely-block-49a633 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title {color: #FFF;}.qubely-block-49a633 .qubely-image-container:before{background-image: none; background-color: rgba(0,0,0,0.22);}.qubely-block-49a633 .qubely-image-container:after{background-image: none; background-color: rgba(0,0,0,0);}.qubely-block-49a633 .qubely-image-content {-webkit-box-align: center; -ms-flex-align: center; -ms-grid-row-align: center; align-items: center;}.qubely-block-49a633 .qubely-image-content {-webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; text-align: center;}.qubely-block-9629ee.qubely-column-front {flex:16.66%;} .qubely-block-9629ee.qubely-column-front {max-width:16.66%;}.qubely-block-9629ee > .qubely-column-inner {padding: 0px 0px 0px 0px;}.qubely-block-9629ee > .qubely-column-inner {margin: 0px 0px 0px 0px;}@media (max-width: 1199px) {.qubely-block-9629ee.qubely-column-front {flex:33.34%;} .qubely-block-9629ee.qubely-column-front {max-width:33.34%;}}@media (max-width: 991px) {.qubely-block-9629ee.qubely-column-front {flex:50%;} .qubely-block-9629ee.qubely-column-front {max-width:50%;}}.qubely-block-9629ee {position:relative;}.qubely-block-9629ee {z-index:0;}.qubely-block-7491b0{padding-top:10px;padding-bottom:10px;}.qubely-block-7491b0 .qubely-block-image {text-align: left;}.qubely-block-7491b0 .qubely-block-image .qubely-image-container, .qubely-block-7491b0 .qubely-block-image .qubely-image-container img{border-radius:12px;}.qubely-block-7491b0 .qubely-image-caption {margin-top: 20px;}.qubely-block-7491b0 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-size:18px;line-height:1.33em !important;}.qubely-block-7491b0 .qubely-image-content{padding:10px;}@media (max-width: 1199px) {.qubely-block-7491b0 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-size:16px;}}@media (max-width: 991px) {.qubely-block-7491b0 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-size:14px;}}.qubely-block-7491b0 {position:relative;}.qubely-block-7491b0 {z-index:0;}.qubely-block-7491b0 .qubely-image-media:hover .qubely-image-container:before {
+    backdrop-filter: blur(4px);
+}
+
+.qubely-block-7491b0 .qubely-image-container:before {
+    background-image: none;
+    background-color: rgba(0,0,0,0.6);
+    transition: .3s linear;
+}
+
+.qubely-block-7491b0 .qubely-block-image figure .qubely-image-container {
+    transition: .3s linear;
+}.qubely-block-7491b0 .qubely-image-image {height: auto;}.qubely-block-7491b0 .qubely-image-image {opacity: 1;}.qubely-block-7491b0 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-family:'Inter',sans-serif;font-weight:600;font-style:normal;}.qubely-block-7491b0 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title {color: #FFF;}.qubely-block-7491b0 .qubely-image-container:before{background-image: none; background-color: rgba(0,0,0,0.22);}.qubely-block-7491b0 .qubely-image-container:after{background-image: none; background-color: rgba(0,0,0,0);}.qubely-block-7491b0 .qubely-image-content {-webkit-box-align: center; -ms-flex-align: center; -ms-grid-row-align: center; align-items: center;}.qubely-block-7491b0 .qubely-image-content {-webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; text-align: center;}.qubely-block-a8c4d5.qubely-column-front {flex:16.67%;} .qubely-block-a8c4d5.qubely-column-front {max-width:16.67%;}.qubely-block-a8c4d5 > .qubely-column-inner {padding: 0px 0px 0px 0px;}.qubely-block-a8c4d5 > .qubely-column-inner {margin: 0px 0px 0px 0px;}@media (max-width: 1199px) {.qubely-block-a8c4d5.qubely-column-front {flex:33.33%;} .qubely-block-a8c4d5.qubely-column-front {max-width:33.33%;}}@media (max-width: 991px) {.qubely-block-a8c4d5.qubely-column-front {flex:50%;} .qubely-block-a8c4d5.qubely-column-front {max-width:50%;}}.qubely-block-a8c4d5 {position:relative;}.qubely-block-a8c4d5 {z-index:0;}.qubely-block-870868{padding-top:10px;padding-bottom:10px;}.qubely-block-870868 .qubely-block-image {text-align: left;}.qubely-block-870868 .qubely-block-image .qubely-image-container, .qubely-block-870868 .qubely-block-image .qubely-image-container img{border-radius:12px;}.qubely-block-870868 .qubely-image-caption {margin-top: 20px;}.qubely-block-870868 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-size:18px;line-height:1.33em !important;}.qubely-block-870868 .qubely-image-content{padding:10px;}@media (max-width: 1199px) {.qubely-block-870868 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-size:16px;}}@media (max-width: 991px) {.qubely-block-870868 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-size:14px;}}.qubely-block-870868 {position:relative;}.qubely-block-870868 {z-index:0;}.qubely-block-870868 .qubely-image-media:hover .qubely-image-container:before {
+    backdrop-filter: blur(4px);
+}
+
+.qubely-block-870868 .qubely-image-container:before {
+    background-image: none;
+    background-color: rgba(0,0,0,0.6);
+    transition: .3s linear;
+}
+
+.qubely-block-870868 .qubely-block-image figure .qubely-image-container {
+    transition: .3s linear;
+}.qubely-block-870868 .qubely-image-image {height: auto;}.qubely-block-870868 .qubely-image-image {opacity: 1;}.qubely-block-870868 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-family:'Inter',sans-serif;font-weight:600;font-style:normal;}.qubely-block-870868 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title {color: #FFF;}.qubely-block-870868 .qubely-image-container:before{background-image: none; background-color: rgba(0,0,0,0.22);}.qubely-block-870868 .qubely-image-container:after{background-image: none; background-color: rgba(0,0,0,0);}.qubely-block-870868 .qubely-image-content {-webkit-box-align: center; -ms-flex-align: center; -ms-grid-row-align: center; align-items: center;}.qubely-block-870868 .qubely-image-content {-webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; text-align: center;}.qubely-block-ba1fcd.qubely-column-front {flex:16.67%;} .qubely-block-ba1fcd.qubely-column-front {max-width:16.67%;}.qubely-block-ba1fcd > .qubely-column-inner {padding: 0px 0px 0px 0px;}.qubely-block-ba1fcd > .qubely-column-inner {margin: 0px 0px 0px 0px;}@media (max-width: 1199px) {.qubely-block-ba1fcd.qubely-column-front {flex:33.33%;} .qubely-block-ba1fcd.qubely-column-front {max-width:33.33%;}}@media (max-width: 991px) {.qubely-block-ba1fcd.qubely-column-front {flex:50%;} .qubely-block-ba1fcd.qubely-column-front {max-width:50%;}}.qubely-block-ba1fcd {position:relative;}.qubely-block-ba1fcd {z-index:0;}.qubely-block-ff7b70{padding-top:10px;padding-bottom:10px;}.qubely-block-ff7b70 .qubely-block-image {text-align: left;}.qubely-block-ff7b70 .qubely-block-image .qubely-image-container, .qubely-block-ff7b70 .qubely-block-image .qubely-image-container img{border-radius:12px;}.qubely-block-ff7b70 .qubely-image-caption {margin-top: 20px;}.qubely-block-ff7b70 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-size:18px;line-height:1.33em !important;}.qubely-block-ff7b70 .qubely-image-content{padding:10px;}@media (max-width: 1199px) {.qubely-block-ff7b70 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-size:16px;}}@media (max-width: 991px) {.qubely-block-ff7b70 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-size:14px;}}.qubely-block-ff7b70 {position:relative;}.qubely-block-ff7b70 {z-index:0;}.qubely-block-ff7b70 .qubely-image-media:hover .qubely-image-container:before {
+    backdrop-filter: blur(4px);
+}
+
+.qubely-block-ff7b70 .qubely-image-container:before {
+    background-image: none;
+    background-color: rgba(0,0,0,0.6);
+    transition: .3s linear;
+}
+
+.qubely-block-ff7b70 .qubely-block-image figure .qubely-image-container {
+    transition: .3s linear;
+}.qubely-block-ff7b70 .qubely-image-image {height: auto;}.qubely-block-ff7b70 .qubely-image-image {opacity: 1;}.qubely-block-ff7b70 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-family:'Inter',sans-serif;font-weight:600;font-style:normal;}.qubely-block-ff7b70 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title {color: #FFF;}.qubely-block-ff7b70 .qubely-image-container:before{background-image: none; background-color: rgba(0,0,0,0.22);}.qubely-block-ff7b70 .qubely-image-container:after{background-image: none; background-color: rgba(0,0,0,0);}.qubely-block-ff7b70 .qubely-image-content {-webkit-box-align: center; -ms-flex-align: center; -ms-grid-row-align: center; align-items: center;}.qubely-block-ff7b70 .qubely-image-content {-webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; text-align: center;}.qubely-block-936569.qubely-column-front {flex:16.67%;} .qubely-block-936569.qubely-column-front {max-width:16.67%;}.qubely-block-936569 > .qubely-column-inner {padding: 0px 0px 0px 0px;}.qubely-block-936569 > .qubely-column-inner {margin: 0px 0px 0px 0px;}@media (max-width: 1199px) {.qubely-block-936569.qubely-column-front {flex:33.34%;} .qubely-block-936569.qubely-column-front {max-width:33.34%;}}@media (max-width: 991px) {.qubely-block-936569.qubely-column-front {flex:50%;} .qubely-block-936569.qubely-column-front {max-width:50%;}}.qubely-block-936569 {position:relative;}.qubely-block-936569 {z-index:0;}.qubely-block-4efbd8{padding-top:10px;padding-bottom:10px;}.qubely-block-4efbd8 .qubely-block-image {text-align: left;}.qubely-block-4efbd8 .qubely-block-image .qubely-image-container, .qubely-block-4efbd8 .qubely-block-image .qubely-image-container img{border-radius:12px;}.qubely-block-4efbd8 .qubely-image-caption {margin-top: 20px;}.qubely-block-4efbd8 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-size:18px;line-height:1.33em !important;}.qubely-block-4efbd8 .qubely-image-content{padding:10px;}@media (max-width: 1199px) {.qubely-block-4efbd8 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-size:16px;}}@media (max-width: 991px) {.qubely-block-4efbd8 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-size:14px;}}.qubely-block-4efbd8 {position:relative;}.qubely-block-4efbd8 {z-index:0;}.qubely-block-4efbd8 .qubely-image-media:hover .qubely-image-container:before {
+    backdrop-filter: blur(4px);
+}
+
+.qubely-block-4efbd8 .qubely-image-container:before {
+    background-image: none;
+    background-color: rgba(0,0,0,0.6);
+    transition: .3s linear;
+}
+
+.qubely-block-4efbd8 .qubely-block-image figure .qubely-image-container {
+    transition: .3s linear;
+}.qubely-block-4efbd8 .qubely-image-image {height: auto;}.qubely-block-4efbd8 .qubely-image-image {opacity: 1;}.qubely-block-4efbd8 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title{font-family:'Inter',sans-serif;font-weight:600;font-style:normal;}.qubely-block-4efbd8 .qubely-image-container .qubely-image-content .qubely-image-content-inner .qubely-image-title {color: #FFF;}.qubely-block-4efbd8 .qubely-image-container:before{background-image: none; background-color: rgba(0,0,0,0.22);}.qubely-block-4efbd8 .qubely-image-container:after{background-image: none; background-color: rgba(0,0,0,0);}.qubely-block-4efbd8 .qubely-image-content {-webkit-box-align: center; -ms-flex-align: center; -ms-grid-row-align: center; align-items: center;}.qubely-block-4efbd8 .qubely-image-content {-webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; text-align: center;}.qubely-block-672de9.qubely-section {padding: 0px 0px 105px 0px;}.qubely-block-672de9 .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-672de9 .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-672de9 .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-672de9 .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}@media (max-width: 1199px) {.qubely-block-672de9.qubely-section {padding: 0px 0px 70px 0px;}.qubely-block-672de9 .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-672de9 .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-672de9 .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-672de9 .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}}@media (max-width: 991px) {.qubely-block-672de9 .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-672de9 .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-672de9 .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-672de9 .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}}.qubely-block-672de9 {position:relative;}.qubely-block-672de9 {z-index:0;}.qubely-block-672de9 .tutor-course-loop-meta {
+	display: none;
+}
+
+.qubely-block-672de9 .tutor-course-loop .tutor-course-loop-title h2 {
+	margin-bottom: 8px;
+}
+
+.qubely-block-672de9 .tutor-course.tutor-course-loop {
+	background: #ffffff;
+	box-shadow: 0px 4px 10px rgb(39 57 101 / 10%);
+	border-radius: 10px;
+}
+.qubely-block-672de9.qubely-section{background-color:#ffffff;}.qubely-block-672de9 >.qubely-row-overlay {opacity: .8; }.qubely-block-6e8b81.qubely-column-front {flex:100%;} .qubely-block-6e8b81.qubely-column-front {max-width:100%;}.qubely-block-6e8b81 > .qubely-column-inner {padding: 0px 0px 0px 0px;}.qubely-block-6e8b81 > .qubely-column-inner {margin: 0px 0px 0px 0px;}@media (max-width: 1199px) {.qubely-block-6e8b81.qubely-column-front {flex:100%;} .qubely-block-6e8b81.qubely-column-front {max-width:100%;}}@media (max-width: 991px) {.qubely-block-6e8b81.qubely-column-front {flex:100%;} .qubely-block-6e8b81.qubely-column-front {max-width:100%;}}.qubely-block-6e8b81 {position:relative;}.qubely-block-6e8b81 {z-index:0;}.qubely-block-3b06c9.qubely-section {padding: 0px 0px 5px 0px;}.qubely-block-3b06c9 .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-3b06c9 .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-3b06c9 .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-3b06c9 .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}@media (max-width: 1199px) {.qubely-block-3b06c9 .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-3b06c9 .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-3b06c9 .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-3b06c9 .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}}@media (max-width: 991px) {.qubely-block-3b06c9 .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-3b06c9 .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-3b06c9 .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-3b06c9 .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}}.qubely-block-3b06c9 {position:relative;}.qubely-block-3b06c9 {z-index:0;}.qubely-block-3b06c9 .qubely-row, .qubely-block-3b06c9 .qubely-row .block-editor-block-list__layout {-webkit-box-align: center; -ms-flex-align: center; align-items: center; }.qubely-block-3b06c9 >.qubely-row-overlay {opacity: .8; }.qubely-block-2f11d8.qubely-column-front {flex:50%;} .qubely-block-2f11d8.qubely-column-front {max-width:50%;}.qubely-block-2f11d8 > .qubely-column-inner {padding: 0px 0px 0px 0px;}.qubely-block-2f11d8 > .qubely-column-inner {margin: 0px 0px 0px 0px;}@media (max-width: 1199px) {.qubely-block-2f11d8.qubely-column-front {flex:50%;} .qubely-block-2f11d8.qubely-column-front {max-width:50%;}}@media (max-width: 991px) {.qubely-block-2f11d8.qubely-column-front {flex:100%;} .qubely-block-2f11d8.qubely-column-front {max-width:100%;}}.qubely-block-2f11d8 {position:relative;}.qubely-block-2f11d8 {z-index:0;}.qubely-block-06c7d7{padding-top:52px;padding-bottom:53px;}.qubely-block-06c7d7 .qubely-block-text {text-align: left; }.qubely-block-06c7d7 .qubely-block-text, .qubely-block-06c7d7 .qubely-block-text p.rich-text{font-size:16px;line-height:1.50em !important;}.qubely-block-06c7d7 .qubely-block-text-title-container .qubely-block-text-title-inner .qubely-block-text-title{font-size:32px;line-height:1.50em !important;}.qubely-block-06c7d7 .qubely-block-text-title-inner {margin-bottom: 16px;}.qubely-block-06c7d7 .qubely-block-text .qubely-block-text-title-container .qubely-block-text-sub-title-container .qubely-block-text-sub-title{font-size:16px;}@media (max-width: 991px) {.qubely-block-06c7d7{padding-top:20px;padding-bottom:20px;}.qubely-block-06c7d7 .qubely-block-text-title-container .qubely-block-text-title-inner .qubely-block-text-title{font-size:26px;}}.qubely-block-06c7d7 {position:relative;}.qubely-block-06c7d7 {z-index:0;}.qubely-block-06c7d7 .qubely-block-text, .qubely-block-06c7d7 .qubely-block-text p.rich-text{font-family:'Inter',sans-serif;font-weight:400;font-style:normal;}.qubely-block-06c7d7 .qubely-block-text > * { color:#57586e; }.qubely-block-06c7d7 .qubely-block-text-title-container .qubely-block-text-title-inner .qubely-block-text-title{font-family:'Sora',sans-serif;font-weight:700;font-style:normal;}.qubely-block-06c7d7 .qubely-block-text .qubely-block-text-title-container .qubely-block-text-title-inner .qubely-block-text-title,.qubely-block-06c7d7 .qubely-block-text .qubely-block-text-title-container .qubely-block-text-title-inner .qubely-block-text-title >* {color: #0a083b;}.qubely-block-06c7d7 .qubely-block-text .qubely-block-text-title-container .qubely-block-text-sub-title-container .qubely-block-text-sub-title{}.qubely-block-297368.qubely-column-front {flex:50%;} .qubely-block-297368.qubely-column-front {max-width:50%;}.qubely-block-297368 > .qubely-column-inner {padding: 0px 0px 0px 0px;}.qubely-block-297368 > .qubely-column-inner {margin: 0px 0px 0px 0px;}@media (max-width: 1199px) {.qubely-block-297368.qubely-column-front {flex:50%;} .qubely-block-297368.qubely-column-front {max-width:50%;}}@media (max-width: 991px) {.qubely-block-297368.qubely-column-front {flex:100%;} .qubely-block-297368.qubely-column-front {max-width:100%;}}.qubely-block-297368 {position:relative;}.qubely-block-297368 {z-index:0;}.qubely-block-8535c3{padding-top:50px;padding-bottom:10px;}.qubely-block-8535c3 .qubely-block-btn-wrapper {text-align: right;}.qubely-block-8535c3 .qubely-block-btn-anchor{padding:15px 56.35px 15px 56.35px;}.qubely-block-8535c3 .qubely-block-btn-wrapper .qubely-block-btn .qubely-block-btn-anchor {font-size:16px;}.qubely-block-8535c3 .qubely-block-btn-anchor{border-width:1px;border-color:  #787a9c; border-style: solid;}.qubely-block-8535c3 .qubely-block-btn-anchor{border-radius:33px;}@media (max-width: 1199px) {.qubely-block-8535c3 .qubely-block-btn-anchor{padding:12px 40px 12px 40px;}.qubely-block-8535c3 .qubely-block-btn-anchor{border-color:  #787a9c; border-style: solid;}}@media (max-width: 991px) {.qubely-block-8535c3{padding-top:10px;padding-bottom:50px;}.qubely-block-8535c3 .qubely-block-btn-wrapper {text-align: left;}.qubely-block-8535c3 .qubely-block-btn-anchor{padding:10px 30px 10px 30px;}.qubely-block-8535c3 .qubely-block-btn-wrapper .qubely-block-btn .qubely-block-btn-anchor {font-size:15px;}.qubely-block-8535c3 .qubely-block-btn-anchor{border-color:  #787a9c; border-style: solid;}}.qubely-block-8535c3 {position:relative;}.qubely-block-8535c3 {z-index:0;}.qubely-block-8535c3 {
+    width: unset !important;
+}.qubely-block-8535c3  {width:fit-content;}.qubely-block-8535c3 .qubely-block-btn-wrapper .qubely-block-btn .qubely-block-btn-anchor {font-family:'Inter',sans-serif;font-weight:600;font-style:normal;}.qubely-block-8535c3 .qubely-block-btn-anchor { color:#787a9c; }.qubely-block-8535c3 .qubely-block-btn-anchor:hover { color:#fff; }.qubely-block-8535c3 .qubely-block-btn-anchor:before{background-image: none; background-color: #1950d1;}.qubely-block-8535c3 .qubely-block-btn-anchor:hover {border-color: #1950d1;}.qubely-block-a48ba7.qubely-section {padding: 70px 0px 70px 0px;}.qubely-block-a48ba7 .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-a48ba7 .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-a48ba7 .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-a48ba7 .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}@media (max-width: 1199px) {.qubely-block-a48ba7.qubely-section {padding: 40px 0px 40px 0px;}.qubely-block-a48ba7 .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-a48ba7 .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-a48ba7 .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-a48ba7 .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}}@media (max-width: 991px) {.qubely-block-a48ba7 .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-a48ba7 .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-a48ba7 .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-a48ba7 .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}}.qubely-block-a48ba7 {position:relative;}.qubely-block-a48ba7 {z-index:0;}.qubely-block-a48ba7 {
+background: linear-gradient(180deg, rgba(234, 241, 248, 0.5) 0%, rgba(234, 241, 248, 0) 100%);
+border-radius: 20px;
+}
+
+@media (max-width: 1199px){
+.qubely-block-a48ba7 .qubely-column-inner {
+    padding: 15px 0 !important;
+}
+}.qubely-block-a48ba7 >.qubely-row-overlay {opacity: .8; }.qubely-block-eeeafa.qubely-column-front {flex:25%;} .qubely-block-eeeafa.qubely-column-front {max-width:25%;}.qubely-block-eeeafa > .qubely-column-inner {padding: 0px 0px 0px 0px;}.qubely-block-eeeafa > .qubely-column-inner {margin: 0px 0px 0px 0px;}@media (max-width: 1199px) {.qubely-block-eeeafa.qubely-column-front {flex:50%;} .qubely-block-eeeafa.qubely-column-front {max-width:50%;}}@media (max-width: 991px) {.qubely-block-eeeafa.qubely-column-front {flex:100%;} .qubely-block-eeeafa.qubely-column-front {max-width:100%;}}.qubely-block-eeeafa {position:relative;}.qubely-block-eeeafa {z-index:0;}.qubely-block-3d1d0b{padding-top:10px;padding-bottom:10px;}.qubely-block-3d1d0b .qubely-block-counter {text-align: center;}.qubely-block-3d1d0b .qubely-block-counter-content{font-size:32px;line-height:1.50em !important;}.qubely-block-3d1d0b {position:relative;}.qubely-block-3d1d0b {z-index:0;}.qubely-block-3d1d0b .qubely-block-counter-content{font-family:'Sora',sans-serif;font-weight:600;font-style:normal;}.qubely-block-3d1d0b .qubely-block-counter-content {color: #0a083b;}.qubely-block-01252e{padding-bottom:10px;}.qubely-block-01252e{text-align: center; }.qubely-block-01252e .qubely-block-heading .qubely-heading-selector{font-size:18px;line-height:1.33em !important;}.qubely-block-01252e .qubely-block-heading .qubely-sub-heading-selector{font-size:16px;}.qubely-block-01252e {position:relative;}.qubely-block-01252e {z-index:0;}.qubely-block-01252e .qubely-block-heading .qubely-heading-selector{font-family:'Inter',sans-serif;font-weight:500;font-style:normal;}.qubely-block-01252e .qubely-block-heading .qubely-sub-heading-selector{}.qubely-block-01252e .qubely-block-heading .qubely-heading-selector { color:#57586e; }.qubely-block-856390.qubely-column-front {flex:25%;} .qubely-block-856390.qubely-column-front {max-width:25%;}.qubely-block-856390 > .qubely-column-inner {padding: 0px 0px 0px 0px;}.qubely-block-856390 > .qubely-column-inner {margin: 0px 0px 0px 0px;}@media (max-width: 1199px) {.qubely-block-856390.qubely-column-front {flex:50%;} .qubely-block-856390.qubely-column-front {max-width:50%;}}@media (max-width: 991px) {.qubely-block-856390.qubely-column-front {flex:100%;} .qubely-block-856390.qubely-column-front {max-width:100%;}}.qubely-block-856390 {position:relative;}.qubely-block-856390 {z-index:0;}.qubely-block-41895a{padding-top:10px;padding-bottom:10px;}.qubely-block-41895a .qubely-block-counter {text-align: center;}.qubely-block-41895a .qubely-block-counter-content{font-size:32px;line-height:1.50em !important;}.qubely-block-41895a {position:relative;}.qubely-block-41895a {z-index:0;}.qubely-block-41895a .qubely-block-counter-content{font-family:'Sora',sans-serif;font-weight:600;font-style:normal;}.qubely-block-41895a .qubely-block-counter-content {color: #0a083b;}.qubely-block-928266{padding-bottom:10px;}.qubely-block-928266{text-align: center; }.qubely-block-928266 .qubely-block-heading .qubely-heading-selector{font-size:18px;line-height:1.33em !important;}.qubely-block-928266 .qubely-block-heading .qubely-sub-heading-selector{font-size:16px;}.qubely-block-928266 {position:relative;}.qubely-block-928266 {z-index:0;}.qubely-block-928266 .qubely-block-heading .qubely-heading-selector{font-family:'Inter',sans-serif;font-weight:500;font-style:normal;}.qubely-block-928266 .qubely-block-heading .qubely-sub-heading-selector{}.qubely-block-928266 .qubely-block-heading .qubely-heading-selector { color:#57586e; }.qubely-block-f77884.qubely-column-front {flex:25%;} .qubely-block-f77884.qubely-column-front {max-width:25%;}.qubely-block-f77884 > .qubely-column-inner {padding: 0px 0px 0px 0px;}.qubely-block-f77884 > .qubely-column-inner {margin: 0px 0px 0px 0px;}@media (max-width: 1199px) {.qubely-block-f77884.qubely-column-front {flex:50%;} .qubely-block-f77884.qubely-column-front {max-width:50%;}}@media (max-width: 991px) {.qubely-block-f77884.qubely-column-front {flex:100%;} .qubely-block-f77884.qubely-column-front {max-width:100%;}}.qubely-block-f77884 {position:relative;}.qubely-block-f77884 {z-index:0;}.qubely-block-22ab72{padding-top:10px;padding-bottom:10px;}.qubely-block-22ab72 .qubely-block-counter {text-align: center;}.qubely-block-22ab72 .qubely-block-counter-content{font-size:32px;line-height:1.50em !important;}.qubely-block-22ab72 {position:relative;}.qubely-block-22ab72 {z-index:0;}.qubely-block-22ab72 .qubely-block-counter-content{font-family:'Sora',sans-serif;font-weight:600;font-style:normal;}.qubely-block-22ab72 .qubely-block-counter-content {color: #0a083b;}.qubely-block-aec66e{padding-bottom:10px;}.qubely-block-aec66e{text-align: center; }.qubely-block-aec66e .qubely-block-heading .qubely-heading-selector{font-size:18px;line-height:1.33em !important;}.qubely-block-aec66e .qubely-block-heading .qubely-sub-heading-selector{font-size:16px;}.qubely-block-aec66e {position:relative;}.qubely-block-aec66e {z-index:0;}.qubely-block-aec66e .qubely-block-heading .qubely-heading-selector{font-family:'Inter',sans-serif;font-weight:500;font-style:normal;}.qubely-block-aec66e .qubely-block-heading .qubely-sub-heading-selector{}.qubely-block-aec66e .qubely-block-heading .qubely-heading-selector { color:#57586e; }.qubely-block-864f04.qubely-column-front {flex:25%;} .qubely-block-864f04.qubely-column-front {max-width:25%;}.qubely-block-864f04 > .qubely-column-inner {padding: 0px 0px 0px 0px;}.qubely-block-864f04 > .qubely-column-inner {margin: 0px 0px 0px 0px;}@media (max-width: 1199px) {.qubely-block-864f04.qubely-column-front {flex:50%;} .qubely-block-864f04.qubely-column-front {max-width:50%;}}@media (max-width: 991px) {.qubely-block-864f04.qubely-column-front {flex:100%;} .qubely-block-864f04.qubely-column-front {max-width:100%;}}.qubely-block-864f04 {position:relative;}.qubely-block-864f04 {z-index:0;}.qubely-block-248d18{padding-top:10px;padding-bottom:10px;}.qubely-block-248d18 .qubely-block-counter {text-align: center;}.qubely-block-248d18 .qubely-block-counter-content{font-size:32px;line-height:1.50em !important;}.qubely-block-248d18 {position:relative;}.qubely-block-248d18 {z-index:0;}.qubely-block-248d18 .qubely-block-counter-content{font-family:'Sora',sans-serif;font-weight:600;font-style:normal;}.qubely-block-248d18 .qubely-block-counter-content {color: #0a083b;}.qubely-block-c1930b{padding-bottom:10px;}.qubely-block-c1930b{text-align: center; }.qubely-block-c1930b .qubely-block-heading .qubely-heading-selector{font-size:18px;line-height:1.33em !important;}.qubely-block-c1930b .qubely-block-heading .qubely-sub-heading-selector{font-size:16px;}.qubely-block-c1930b {position:relative;}.qubely-block-c1930b {z-index:0;}.qubely-block-c1930b .qubely-block-heading .qubely-heading-selector{font-family:'Inter',sans-serif;font-weight:500;font-style:normal;}.qubely-block-c1930b .qubely-block-heading .qubely-sub-heading-selector{}.qubely-block-c1930b .qubely-block-heading .qubely-heading-selector { color:#57586e; }.qubely-block-414002.qubely-section {padding: 53px 0px 182px 0px;}.qubely-block-414002 .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-414002 .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-414002 .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-414002 .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}@media (max-width: 1199px) {.qubely-block-414002.qubely-section {padding: 20px 0px 70px 0px;}.qubely-block-414002 .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-414002 .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-414002 .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-414002 .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}}@media (max-width: 991px) {.qubely-block-414002 .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-414002 .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-414002 .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-414002 .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}}.qubely-block-414002 {position:relative;}.qubely-block-414002 {z-index:0;}.qubely-block-414002.qubely-section{background-color:#ffffff;}.qubely-block-414002 >.qubely-row-overlay {opacity: .8; }.qubely-block-75580a.qubely-column-front {flex:100%;} .qubely-block-75580a.qubely-column-front {max-width:100%;}.qubely-block-75580a > .qubely-column-inner {padding: 0px 0px 0px 0px;}.qubely-block-75580a > .qubely-column-inner {margin: 0px 0px 0px 0px;}@media (max-width: 1199px) {.qubely-block-75580a.qubely-column-front {flex:100%;} .qubely-block-75580a.qubely-column-front {max-width:100%;}}@media (max-width: 991px) {.qubely-block-75580a.qubely-column-front {flex:100%;} .qubely-block-75580a.qubely-column-front {max-width:100%;}}.qubely-block-75580a {position:relative;}.qubely-block-75580a {z-index:0;}.qubely-block-a6bca0{padding-top:10px;padding-bottom:10px;}.qubely-block-a6bca0 .qubely-block-testimonial {text-align: center;}.qubely-block-a6bca0 .qubely-testimonial-author-name{font-size:14px;line-height:1.71em !important;}.qubely-block-a6bca0 .qubely-testimonial-author-designation{font-size:14px;}.qubely-block-a6bca0 .qubely-testimonial-content{font-size:32px;line-height:1.71em !important;}.qubely-block-a6bca0 .qubely-testimonial-content {margin-bottom: 10px;}.qubely-block-a6bca0 .qubely-testimonial-avatar {margin-right: 20px;}.qubely-block-a6bca0 .qubely-testimonial-avatar{border-radius:100%;}.qubely-block-a6bca0 .qubely-testimonial-ratings {font-size:20px;}.qubely-block-a6bca0 .qubely-testimonial-ratings {margin-bottom: 30px;}@media (max-width: 1199px) {.qubely-block-a6bca0 .qubely-testimonial-content{font-size:30px;}}@media (max-width: 991px) {.qubely-block-a6bca0 .qubely-testimonial-content{font-size:28px;}}.qubely-block-a6bca0 {position:relative;}.qubely-block-a6bca0 {z-index:0;}.qubely-block-a6bca0 {
+    max-width: 740px;
+    margin: 0 auto;
+}
+
+.qubely-block-a6bca0 .qubely-testimonial-content > div:before,
+.qubely-block-a6bca0 .qubely-testimonial-content > div:after {
+    content: '"';
+}.qubely-block-a6bca0 .qubely-testimonial-author-name { color:#0a083b; }.qubely-block-a6bca0 .qubely-testimonial-author-name{font-family:'Inter',sans-serif;font-weight:400;font-style:normal;}.qubely-block-a6bca0 .qubely-testimonial-author-designation{}.qubely-block-a6bca0 .qubely-testimonial-content{font-family:'Sora',sans-serif;font-weight:400;font-style:normal;}.qubely-block-a6bca0 .qubely-testimonial-avatar { width: 64px; height: 64px; font-size: 64px; }.qubely-block-a6bca0 .qubely-testimonial-ratings:before {color: #FFB800;} .qubely-block-a6bca0 .qubely-testimonial-ratings {color: #FFB800;}.qubely-block-a6bca0 .qubely-block-testimonial { color:#0a083b; }.qubely-block-a6bca0 .qubely-block-testimonial{border-radius:0px }.qubely-block-188391.qubely-section {padding: 0px 0px 70px 0px;}.qubely-block-188391 .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-188391 .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-188391 .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-188391 .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}@media (max-width: 1199px) {.qubely-block-188391.qubely-section {padding: 0px 0px 30px 0px;}.qubely-block-188391 .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-188391 .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-188391 .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-188391 .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}}@media (max-width: 991px) {.qubely-block-188391 .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-188391 .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-188391 .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-188391 .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}}.qubely-block-188391 {position:relative;}.qubely-block-188391 {z-index:0;}.qubely-block-188391:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    clip-path: ellipse(80% 100% at 50% -33%);
+    background: linear-gradient( 
+96.29deg
+ , #0634A2 5.54%, rgba(67, 7, 197, 0.48) 96.02%);
+}
+
+@media (max-width: 991px) {
+.qubely-block-188391:before {
+    clip-path: ellipse(100% 85% at 50% -33%);
+}
+}
+
+@media (max-width: 767px) {
+.qubely-block-188391:before {
+    clip-path: ellipse(120% 75% at 50% -33%);
+}
+}.qubely-block-188391.qubely-section{background-color:#ffffff;}.qubely-block-188391 >.qubely-row-overlay {opacity: .8; }.qubely-block-d84b55.qubely-column-front {flex:100%;} .qubely-block-d84b55.qubely-column-front {max-width:100%;}.qubely-block-d84b55 > .qubely-column-inner {padding: 0px 0px 0px 0px;}.qubely-block-d84b55 > .qubely-column-inner {margin: 0px 0px 0px 0px;}@media (max-width: 1199px) {.qubely-block-d84b55.qubely-column-front {flex:100%;} .qubely-block-d84b55.qubely-column-front {max-width:100%;}}@media (max-width: 991px) {.qubely-block-d84b55.qubely-column-front {flex:100%;} .qubely-block-d84b55.qubely-column-front {max-width:100%;}}.qubely-block-d84b55 {position:relative;}.qubely-block-d84b55 {z-index:0;}.qubely-block-833aa7{padding-top:98px;padding-bottom:66px;}.qubely-block-833aa7 .qubely-block-text {text-align: left; }.qubely-block-833aa7 .qubely-block-text, .qubely-block-833aa7 .qubely-block-text p.rich-text{font-size:16px;line-height:1.50em !important;}.qubely-block-833aa7 .qubely-block-text-title-container .qubely-block-text-title-inner .qubely-block-text-title{font-size:32px;line-height:1.50em !important;}.qubely-block-833aa7 .qubely-block-text-title-inner {margin-bottom: 16px;}.qubely-block-833aa7 .qubely-block-text .qubely-block-text-title-container .qubely-block-text-sub-title-container .qubely-block-text-sub-title{font-size:16px;}@media (max-width: 1199px) {.qubely-block-833aa7{padding-top:70px;padding-bottom:50px;}}@media (max-width: 991px) {.qubely-block-833aa7 .qubely-block-text-title-container .qubely-block-text-title-inner .qubely-block-text-title{font-size:26px;}}.qubely-block-833aa7 {position:relative;}.qubely-block-833aa7 {z-index:0;}.qubely-block-833aa7 {
+max-width: 600px;
+}.qubely-block-833aa7 .qubely-block-text, .qubely-block-833aa7 .qubely-block-text p.rich-text{font-family:'Inter',sans-serif;font-weight:400;font-style:normal;}.qubely-block-833aa7 .qubely-block-text > * { color:#ffffff; }.qubely-block-833aa7 .qubely-block-text-title-container .qubely-block-text-title-inner .qubely-block-text-title{font-family:'Sora',sans-serif;font-weight:700;font-style:normal;}.qubely-block-833aa7 .qubely-block-text .qubely-block-text-title-container .qubely-block-text-title-inner .qubely-block-text-title,.qubely-block-833aa7 .qubely-block-text .qubely-block-text-title-container .qubely-block-text-title-inner .qubely-block-text-title >* {color: #ffffff;}.qubely-block-833aa7 .qubely-block-text .qubely-block-text-title-container .qubely-block-text-sub-title-container .qubely-block-text-sub-title{}.qubely-block-a4795b .qubely-post-list-view.qubely-postgrid-style-1:not(:last-child){border-bottom-style: solid;border-bottom-width: 1px;}.qubely-block-a4795b .qubely-post-list-view.qubely-postgrid-style-1:not(:last-child){padding-bottom: 20px;margin-bottom: 20px;}.qubely-block-a4795b .qubely-postgrid-title{font-size:20px;line-height:1.45em !important;}.qubely-block-a4795b .qubely-postgrid-meta{font-size:16px;line-height:1.18em !important;}.qubely-block-a4795b .qubely-post-img{border-radius:10px;}.qubely-block-a4795b .qubely-postgrid-wrapper .qubely-postgrid .qubely-postgrid-btn-wrapper .qubely-postgrid-btn.qubely-button-fill.is-custom{padding:0px;}.qubely-block-a4795b .qubely-postgrid-wrapper .qubely-postgrid .qubely-postgrid-btn{font-size:16px;line-height:1.18em !important;}.qubely-block-a4795b .qubely-postgrid-wrapper .qubely-postgrid .qubely-postgrid-btn{border-radius:0px;}.qubely-block-a4795b .qubely-postgrid-category a{border-radius:2px;}.qubely-block-a4795b{padding-top:10px;padding-bottom:10px;}.qubely-block-a4795b .qubely-postgrid-column {grid-column-gap: 30px;}, .qubely-block-a4795b .qubely-postgrid-column {grid-row-gap: 30px;}.qubely-block-a4795b .qubely-postgrid-title {padding-bottom: 44px;}.qubely-block-a4795b .qubely-postgrid-meta {padding-bottom: 26px;}.qubely-block-a4795b .qubely-postgrid-intro {padding-bottom: 10px;}@media (max-width: 1199px) {.qubely-block-a4795b .qubely-postgrid-title{font-size:18px;}.qubely-block-a4795b .qubely-postgrid-meta{font-size:14px;}.qubely-block-a4795b .qubely-postgrid-wrapper .qubely-postgrid .qubely-postgrid-btn{font-size:14px;}.qubely-block-a4795b .qubely-postgrid-title {padding-bottom: 25px;}.qubely-block-a4795b .qubely-postgrid-meta {padding-bottom: 15px;}}@media (max-width: 991px) {.qubely-block-a4795b .qubely-postgrid-title{font-size:18px;}.qubely-block-a4795b .qubely-postgrid-meta{font-size:14px;}.qubely-block-a4795b .qubely-postgrid-title {padding-bottom: 25px;}.qubely-block-a4795b .qubely-postgrid-meta {padding-bottom: 15px;}}.qubely-block-a4795b .qubely-post-list-view.qubely-postgrid-style-1:not(:last-child) {border-bottom-color: #e5e5e5;}.qubely-block-a4795b .qubely-postgrid-title{font-family:'Sora',sans-serif;font-weight:600;font-style:normal;}.qubely-block-a4795b .qubely-postgrid-meta{font-family:'Inter',sans-serif;font-weight:400;font-style:normal;}.qubely-block-a4795b .qubely-postgrid-wrapper .qubely-postgrid .qubely-postgrid-btn{font-family:'Inter',sans-serif;font-weight:600;font-style:normal;}.qubely-block-a4795b .qubely-postgrid-wrapper .qubely-postgrid a.qubely-postgrid-btn {color: #57586e;}.qubely-block-a4795b .qubely-postgrid-wrapper .qubely-postgrid a.qubely-postgrid-btn:hover {color: #175cff;}.qubely-block-a4795b .qubely-postgrid-title a {color: #0a083b;}.qubely-block-a4795b .qubely-postgrid-meta a {color: rgba(10,8,58,0.7);} .qubely-block-a4795b .qubely-postgrid-meta {color: rgba(10,8,58,0.7);} .qubely-block-a4795b .qubely-postgrid-meta span:before {background: rgba(10,8,58,0.7);}.qubely-block-a4795b {z-index:0;}.qubely-block-a4795b .qubely-postgrid-pagination {
+    display: none;
+}
+.qubely-block-a4795b .qubely-postgrid-meta i {
+    display: none;
+}
+
+.qubely-block-a4795b .qubely-postgrid {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgb(39 57 101 / 10%);
+    border-radius: 10px;
+    padding: 25px;
+    transition: .3s linear;
+}
+
+.qubely-block-a4795b .qubely-postgrid:hover {
+    	box-shadow: 0px 4px 15px 5px rgb(39 57 101 / 10%);
+}
+
+@media (min-width: 1200px) {
+.qubely-block-a4795b .qubely-postgrid {
+    padding: 50px 40px 46px 40px;
+}
+}.qubely-block-86396a.qubely-section {padding: 32px 0px 127px 0px;}.qubely-block-86396a .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-86396a .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-86396a .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-86396a .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}@media (max-width: 1199px) {.qubely-block-86396a .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-86396a .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-86396a .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-86396a .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}}@media (max-width: 991px) {.qubely-block-86396a .qubely-container {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-86396a .qubely-row {margin-left: calc(-30px/2); margin-right: calc(-30px/2);}.qubely-block-86396a .qubely-row > .qubely-column {padding-left: calc(30px/2); padding-right: calc(30px/2);}.qubely-block-86396a .qubely-row * > [data-type="qubely/column"] {padding-left: calc(30px/2); padding-right: calc(30px/2);}.components-resizable-box__container.qubely-column-resizer.is-selected-column > span > .components-resizable-box__handle, div[data-type="qubely/row"].is-selected .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle,div[data-type="qubely/row"].is-resizing .components-resizable-box__container.qubely-column-resizer > span > .components-resizable-box__handle {right: calc(-30px/2);}}.qubely-block-86396a {position:relative;}.qubely-block-86396a {z-index:0;}.qubely-block-86396a.qubely-section{background-color:#ffffff;}.qubely-block-86396a >.qubely-row-overlay {opacity: .8; }.qubely-block-c01ab2.qubely-column-front {flex:100%;} .qubely-block-c01ab2.qubely-column-front {max-width:100%;}.qubely-block-c01ab2 > .qubely-column-inner {padding: 0% 28% 0% 28%;}.qubely-block-c01ab2 > .qubely-column-inner {margin: 0px 0px 0px 0px;}@media (max-width: 1199px) {.qubely-block-c01ab2.qubely-column-front {flex:100%;} .qubely-block-c01ab2.qubely-column-front {max-width:100%;}.qubely-block-c01ab2 > .qubely-column-inner {padding: 0% 10% 0% 10%;}}@media (max-width: 991px) {.qubely-block-c01ab2.qubely-column-front {flex:100%;} .qubely-block-c01ab2.qubely-column-front {max-width:100%;}.qubely-block-c01ab2 > .qubely-column-inner {padding: 0% 5% 0% 5%;}}.qubely-block-c01ab2 {position:relative;}.qubely-block-c01ab2 {z-index:0;}.qubely-block-2f0704{padding-top:10px;padding-bottom:77px;}.qubely-block-2f0704{text-align: center; }.qubely-block-2f0704 .qubely-block-heading .qubely-heading-selector{font-size:32px;line-height:1.5em !important;}.qubely-block-2f0704 .qubely-block-heading .qubely-sub-heading-selector{font-size:16px;}@media (max-width: 1199px) {.qubely-block-2f0704{padding-bottom:40px;}.qubely-block-2f0704 .qubely-block-heading .qubely-heading-selector{font-size:30px;}}@media (max-width: 991px) {.qubely-block-2f0704{padding-bottom:20px;}.qubely-block-2f0704 .qubely-block-heading .qubely-heading-selector{font-size:28px;}}.qubely-block-2f0704 {position:relative;}.qubely-block-2f0704 {z-index:0;}.qubely-block-2f0704 .qubely-block-heading .qubely-heading-selector{font-family:'Sora',sans-serif;font-weight:700;font-style:normal;}.qubely-block-2f0704 .qubely-block-heading .qubely-sub-heading-selector{}.qubely-block-2f0704 .qubely-block-heading .qubely-heading-selector { color:#0a083b; }</style></head>
+
+<body class="home page-template page-template-page-templates page-template-tpl-fluid page-template-page-templatestpl-fluid-php page page-id-15 wp-custom-logo theme-tutorstarter qubely qubely-frontend woocommerce-no-js">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">
+		Skip to content	</a>
+
+
+<header class="header-default">
+    <!-- .navbar .navbar-center .navbar-right .has-search-field .full-width -->
+    <nav class="navbar navbar-right has-search-field">
+        <div class="navbar-brand">
+                        <a href="https://preview.tutorlms.com/marketplace/" rel="home">
+                <img src="https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2021/04/tutor-starter-logo-default.png" srcset="https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2021/06/logo@2x.png 1x, https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2021/06/logo@2x.png 2x" alt="Marketplace" />
+            </a>
+                </div>
+        <!-- .has-search-field must use with .navbar-right -->
+        <div class="search-field">
+            <form method="get" action="https://preview.tutorlms.com/marketplace/">
+                <input type="search" name="s" value="" placeholder="Search..." />
+            </form>
+        </div>
+                    <button class="navbar-toggler">
+                <div class="toggle-icon"><span></span></div>
+            </button>
+                <div class="menu-primary-container"><ul id="menu-primary" class="navbar-nav"><li class="nav-close"><button class="btn-nav-close"><span class="close-btn">+</span></button></li><li id="menu-item-3306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15 current_page_item menu-item-3306"><a href="https://preview.tutorlms.com/marketplace/" aria-current="page" onClick="return true">Marketplace</a></li>
+<li id="menu-item-3304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3304"><a href="https://preview.tutorlms.com/marketplace/course-list/" onClick="return true">Courses</a></li>
+<li id="menu-item-3305" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3305"><a href="#" onClick="return true">Pages</a>
+<ul class="sub-menu">
+	<li id="menu-item-3303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3303"><a href="https://preview.tutorlms.com/marketplace/instructors/" onClick="return true">Instructors</a></li>
+	<li id="menu-item-3300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3300"><a href="https://preview.tutorlms.com/marketplace/blogs/" onClick="return true">Blogs</a></li>
+	<li id="menu-item-3302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3302"><a href="https://preview.tutorlms.com/marketplace/about-us/" onClick="return true">About Us</a></li>
+	<li id="menu-item-3301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3301"><a href="https://preview.tutorlms.com/marketplace/subscription/" onClick="return true">Subscription</a></li>
+	<li id="menu-item-3299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3299"><a href="https://preview.tutorlms.com/marketplace/contact/" onClick="return true">Contact</a></li>
+</ul>
+</li>
+</ul></div>        <div class="navbar-utils">
+                        <div class="utils-cart">
+                		<span class="btn-cart">
+			<svg
+				xmlns="http://www.w3.org/2000/svg"
+				fill="none"
+				height="19"
+				viewBox="0 0 21 19"
+				width="21"
+			>
+				<path
+					d="m18.9375 10.832 1.6523-7.31247c.0704-.25781.0235-.49219-.1406-.70312-.164-.21094-.3867-.31641-.668-.31641h-13.81636l-.3164-1.582031c-.04688-.1875-.15235-.339844-.31641-.457031-.14062-.140626-.30469-.210938-.49219-.210938h-3.62109c-.234375 0-.433594.082031-.597656.246094-.164063.164062-.246094.363281-.246094.597656v.5625c0 .23438.082031.43359.246094.59766.164062.16406.363281.24609.597656.24609h2.46094l2.46093 12.0586c-.30468.1875-.55078.4336-.73828.7383-.16406.3047-.24609.6328-.24609.9843 0 .5391.1875.9961.5625 1.3711.39844.3985.86719.5977 1.40625.5977s.99609-.1992 1.37109-.5977c.39844-.375.59766-.8437.59766-1.4062 0-.5391-.19922-.9961-.59766-1.3711h7.38281c-.3984.375-.5977.832-.5977 1.3711 0 .5625.1876 1.0312.5626 1.4062.3984.3985.8671.5977 1.4062.5977s.9961-.1992 1.3711-.5977c.3984-.375.5977-.832.5977-1.3711 0-.375-.1055-.7148-.3165-1.0195-.1875-.3281-.457-.5742-.8085-.7383l.2109-.8789c.0469-.2578-.0117-.4922-.1758-.7031s-.375-.3164-.6328-.3164h-9.45704l-.21094-1.125h10.30078c.1875 0 .3516-.0586.4922-.1758.1641-.1172.2695-.2812.3164-.4922z"
+					
+				/>
+			</svg>
+			<a class="cart-contents" href="https://preview.tutorlms.com/marketplace/cart/" title="View your shopping cart">
+				<span>(0)</span>
+			</a>
+		</span>
+                    </div>
+                                                                                    <div class="utils-btn"><a class="btn-getstarted" href="https://preview.tutorlms.com/marketplace#">Getting Started</a></div>
+                                    </div>
+    </nav>
+</header><div id="content" class="site-content">
+
+<div class="wp-block-qubely-row qubely-section qubely-block-2082f7"><div class="qubely-row-overlay"></div><div class="qubely-container"><div class="qubely-row ">
+<div class="wp-block-qubely-column qubely-column qubely-column-front qubely-block-c1779c"><div class="qubely-column-inner">
+<div class="wp-block-qubely-heading qubely-block-8a64df"><div class="qubely-block-heading  "><div class="qubely-heading-container"><h2 class="qubely-heading-selector">Tutor Starter is a community for creative people</h2></div><h3 class="qubely-sub-heading-selector">Make learning and teaching more effective with active participation and student collaboration</h3></div></div>
+
+
+
+<div class="wp-block-qubely-buttongroup qubely-block-ac52ed"><div class="qubely-block-button-group ">
+<div class="wp-block-qubely-button qubely-block-d84522 qubely-group-button"><div class="qubely-block-btn-wrapper "><div class="qubely-block-btn"><a class="qubely-block-btn-anchor is-custom" href="#">Explore Courses</a></div></div></div>
+
+
+
+<div class="wp-block-qubely-button qubely-block-0bf4a5 qubely-group-button"><div class="qubely-block-btn-wrapper "><div class="qubely-block-btn"><a class="qubely-block-btn-anchor is-custom" href="#">Start learning<i class="qubely-btn-icon fas fa-arrow-right"></i></a></div></div></div>
+</div></div>
+</div></div>
+
+
+
+<div class="wp-block-qubely-column qubely-column qubely-column-front qubely-block-1ead26"><div class="qubely-column-inner"></div></div>
+</div></div></div>
+
+
+
+<div class="wp-block-qubely-row qubely-section qubely-block-7f1587"><div class="qubely-row-overlay"></div><div class="qubely-container"><div class="qubely-row ">
+<div class="wp-block-qubely-column qubely-column qubely-column-front qubely-block-e14d01"><div class="qubely-column-inner">
+<div class="wp-block-qubely-image qubely-block-6dcd6a"><div class="qubely-block-image  qubely-image-layout-blurb"><div class="qubely-image-media qubely-hover-animation-on qubely-hover-animation-type-zoom-in qubely-vertical-alignment-center qubely-horizontal-alignment-center"><figure><a class="qubely-image-container" href="https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2021/04/marketplace-categories-1.png"><img class="qubely-image-image" src="https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2021/04/marketplace-categories-1.png" alt=""/><div class="qubely-image-content"><div class="qubely-image-content-inner"><h3 class="qubely-image-title">Web Design</h3></div></div></a></figure></div></div></div>
+</div></div>
+
+
+
+<div class="wp-block-qubely-column qubely-column qubely-column-front qubely-block-c5b79e"><div class="qubely-column-inner">
+<div class="wp-block-qubely-image qubely-block-49a633"><div class="qubely-block-image  qubely-image-layout-blurb"><div class="qubely-image-media qubely-hover-animation-on qubely-hover-animation-type-zoom-in qubely-vertical-alignment-center qubely-horizontal-alignment-center"><figure><a class="qubely-image-container" href="https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2021/04/marketplace-categories-2.png"><img class="qubely-image-image" src="https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2021/04/marketplace-categories-2.png" alt=""/><div class="qubely-image-content"><div class="qubely-image-content-inner"><h3 class="qubely-image-title">Web Development</h3></div></div></a></figure></div></div></div>
+</div></div>
+
+
+
+<div class="wp-block-qubely-column qubely-column qubely-column-front qubely-block-9629ee"><div class="qubely-column-inner">
+<div class="wp-block-qubely-image qubely-block-7491b0"><div class="qubely-block-image  qubely-image-layout-blurb"><div class="qubely-image-media qubely-hover-animation-on qubely-hover-animation-type-zoom-in qubely-vertical-alignment-center qubely-horizontal-alignment-center"><figure><a class="qubely-image-container" href="https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2021/04/marketplace-categories-3.png"><img class="qubely-image-image" src="https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2021/04/marketplace-categories-3.png" alt=""/><div class="qubely-image-content"><div class="qubely-image-content-inner"><h3 class="qubely-image-title">CSS</h3></div></div></a></figure></div></div></div>
+</div></div>
+
+
+
+<div class="wp-block-qubely-column qubely-column qubely-column-front qubely-block-a8c4d5"><div class="qubely-column-inner">
+<div class="wp-block-qubely-image qubely-block-870868"><div class="qubely-block-image  qubely-image-layout-blurb"><div class="qubely-image-media qubely-hover-animation-on qubely-hover-animation-type-zoom-in qubely-vertical-alignment-center qubely-horizontal-alignment-center"><figure><a class="qubely-image-container" href="https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2021/04/marketplace-categories-4.png"><img class="qubely-image-image" src="https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2021/04/marketplace-categories-4.png" alt=""/><div class="qubely-image-content"><div class="qubely-image-content-inner"><h3 class="qubely-image-title">JavaScript</h3></div></div></a></figure></div></div></div>
+</div></div>
+
+
+
+<div class="wp-block-qubely-column qubely-column qubely-column-front qubely-block-ba1fcd"><div class="qubely-column-inner">
+<div class="wp-block-qubely-image qubely-block-ff7b70"><div class="qubely-block-image  qubely-image-layout-blurb"><div class="qubely-image-media qubely-hover-animation-on qubely-hover-animation-type-zoom-in qubely-vertical-alignment-center qubely-horizontal-alignment-center"><figure><a class="qubely-image-container" href="https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2021/04/marketplace-categories-5.png"><img class="qubely-image-image" src="https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2021/04/marketplace-categories-5.png" alt=""/><div class="qubely-image-content"><div class="qubely-image-content-inner"><h3 class="qubely-image-title">UI/UX</h3></div></div></a></figure></div></div></div>
+</div></div>
+
+
+
+<div class="wp-block-qubely-column qubely-column qubely-column-front qubely-block-936569"><div class="qubely-column-inner">
+<div class="wp-block-qubely-image qubely-block-4efbd8"><div class="qubely-block-image  qubely-image-layout-blurb"><div class="qubely-image-media qubely-hover-animation-on qubely-hover-animation-type-zoom-in qubely-vertical-alignment-center qubely-horizontal-alignment-center"><figure><a class="qubely-image-container" href="https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2021/04/marketplace-categories-6.png"><img class="qubely-image-image" src="https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2021/04/marketplace-categories-6.png" alt=""/><div class="qubely-image-content"><div class="qubely-image-content-inner"><h3 class="qubely-image-title">Photography</h3></div></div></a></figure></div></div></div>
+</div></div>
+</div></div></div>
+
+
+
+<div class="wp-block-qubely-row qubely-section qubely-block-672de9"><div class="qubely-row-overlay"></div><div class="qubely-container"><div class="qubely-row ">
+<div class="wp-block-qubely-column qubely-column qubely-column-front qubely-block-6e8b81"><div class="qubely-column-inner">
+<div class="wp-block-qubely-row qubely-section qubely-block-3b06c9"><div class="qubely-row-overlay"></div><div class="qubely-container-fluid"><div class="qubely-row ">
+<div class="wp-block-qubely-column qubely-column qubely-column-front qubely-block-2f11d8"><div class="qubely-column-inner">
+<div class="wp-block-qubely-text qubely-block-06c7d7"><div class="qubely-block-text  "><div class="qubely-block-text-title-container  qubely-separator-position-top"><div class="qubely-block-text-title-inner"><h2 class="qubely-block-text-title">Featured Courses</h2></div></div><p>Learning often happens in classrooms but it doesn&#8217;t have to. Use Eduflow to facilitate learning experiences no matter the context.</p></div></div>
+</div></div>
+
+
+
+<div class="wp-block-qubely-column qubely-column qubely-column-front qubely-block-297368"><div class="qubely-column-inner">
+<div class="wp-block-qubely-button alignfull qubely-block-8535c3"><div class="qubely-block-btn-wrapper "><div class="qubely-block-btn"><a class="qubely-block-btn-anchor is-custom" href="#">Browse Courses</a></div></div></div>
+</div></div>
+</div></div></div>
+
+
+<div class="course_template_shortcode" data-page_shortcode="true" data-course_per_page="8" data-column_per_row="4"><div class="tutor-course-listing-grid tutor-course-listing-grid-4 ">
+<div class="tutor-course-listing-item tutor-course-listing-item-sm">
+
+<div class="tutor-course-listing-item-head tutor-d-flex">
+	
+<a href="https://preview.tutorlms.com/marketplace/courses/perfect-diet-meal-plan/" class="tutor-course-listing-thumb-permalink">
+    <div class="tutor-course-listing-thumbnail" style="background-image:url(https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2019/05/course-thumb-25.jpg)"></div>
+</a>
+    <a href="javascript:;" class="cart-required-login save-bookmark-btn tutor-d-flex tutor-align-items-center tutor-justify-content-center" data-course-id="573">
+            <i class="tutor-icon-fav-line-filled"></i>
+        </a></div>
+
+<div class="tutor-course-listing-item-body tutor-px-20 tutor-py-20">
+<div class="list-item-title tutor-fs-5 tutor-fw-medium tutor-color-black tutor-mt-2" title="Secret to Master Perfect Diet &amp; Meal Plan">
+    <a href="https://preview.tutorlms.com/marketplace/courses/perfect-diet-meal-plan/">Secret to Master Perfect Diet &amp; Meal Plan</a>
+</div>
+
+
+
+
+<div class="list-item-meta tutor-fs-7 tutor-fw-medium tutor-color-black tutor-d-flex tutor-mt-12 tutor-mb-32">
+            <div class="tutor-d-flex tutor-align-items-center">
+        <span class="meta-icon tutor-icon-clock-filled tutor-color-muted"></span>
+        <span><span class="tutor-meta-level"> 04</span><span class="tutor-meta-value color-text-subsued tutor-mr-4">h</span></span>
+    </div>
+        </div>
+
+<div class="list-item-author tutor-d-flex tutor-align-items-center tutor-mt-auto">
+	<div class="tutor-avatar">
+		<a href="https://preview.tutorlms.com/marketplace/profile/saief?view=instructor"> <span class="tutor-text-avatar" style="background-color: #c4534c; color: #fff8e5">TL</span></a>
+	</div>
+	<div class="tutor-course-meta text-regular-caption tutor-color-black-60">
+        <span class="tutor-course-meta-name">
+            By            <span class="tutor-fs-7 tutor-fw-medium tutor-color-black">
+                Tutor LMS            </span>
+        </span>
+        <span class="tutor-course-meta-cat">
+                        In            <span class="text-medium-caption course-category tutor-color-black">
+                <a href='https://preview.tutorlms.com/marketplace/course-category/featured/'>Featured </a><a href='https://preview.tutorlms.com/marketplace/course-category/health-fitness/'>Health &amp; Fitness </a>            </span>
+        </span>
+	</div>
+</div>
+
+</div>
+<div class="tutor-course-listing-item-footer has-border tutor-py-16 tutor-px-20">
+    <div class="tutor-d-flex tutor-align-items-center tutor-justify-content-between"><div class="list-item-price tutor-d-flex tutor-align-items-center"> <span class="price tutor-fs-6 tutor-fw-bold tutor-color-black"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>199.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>149.00</bdi></span></ins> </span></div><div class="list-item-button"> 
+	<a href="?add-to-cart=3641" data-quantity="1" class="button product_type_simple tutor-btn tutor-btn-icon tutor-btn-disable-outline tutor-btn-ghost tutor-no-hover tutor-btn-md add_to_cart_button cart-required-login" data-product_id="3641" data-product_sku="" aria-label="Add &ldquo;The Art of Perfect Diet &amp; Meal Plan&rdquo; to your cart" rel="nofollow"><span class="btn-icon tutor-icon-cart-line-filled"></span><span class="cart-text">Add to cart</span></a>
+ </div></div></div>
+</div>
+<div class="tutor-course-listing-item tutor-course-listing-item-sm">
+
+<div class="tutor-course-listing-item-head tutor-d-flex">
+	
+<a href="https://preview.tutorlms.com/marketplace/courses/nutrition-masterclass-build-your-perfect-diet-meal-plan/" class="tutor-course-listing-thumb-permalink">
+    <div class="tutor-course-listing-thumbnail" style="background-image:url(https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2019/05/course-thumb-24.jpg)"></div>
+</a>
+    <a href="javascript:;" class="cart-required-login save-bookmark-btn tutor-d-flex tutor-align-items-center tutor-justify-content-center" data-course-id="572">
+            <i class="tutor-icon-fav-line-filled"></i>
+        </a></div>
+
+<div class="tutor-course-listing-item-body tutor-px-20 tutor-py-20">
+<div class="list-item-title tutor-fs-5 tutor-fw-medium tutor-color-black tutor-mt-2" title="Nutrition: Build Your Perfect Diet &amp; Meal Plan">
+    <a href="https://preview.tutorlms.com/marketplace/courses/nutrition-masterclass-build-your-perfect-diet-meal-plan/">Nutrition: Build Your Perfect Diet &amp; Meal Plan</a>
+</div>
+
+
+
+
+<div class="list-item-meta tutor-fs-7 tutor-fw-medium tutor-color-black tutor-d-flex tutor-mt-12 tutor-mb-32">
+            <div class="tutor-d-flex tutor-align-items-center">
+        <span class="meta-icon tutor-icon-clock-filled tutor-color-muted"></span>
+        <span><span class="tutor-meta-level"> 04</span><span class="tutor-meta-value color-text-subsued tutor-mr-4">h</span></span>
+    </div>
+        </div>
+
+<div class="list-item-author tutor-d-flex tutor-align-items-center tutor-mt-auto">
+	<div class="tutor-avatar">
+		<a href="https://preview.tutorlms.com/marketplace/profile/saief?view=instructor"> <span class="tutor-text-avatar" style="background-color: #c4534c; color: #fff8e5">TL</span></a>
+	</div>
+	<div class="tutor-course-meta text-regular-caption tutor-color-black-60">
+        <span class="tutor-course-meta-name">
+            By            <span class="tutor-fs-7 tutor-fw-medium tutor-color-black">
+                Tutor LMS            </span>
+        </span>
+        <span class="tutor-course-meta-cat">
+                        In            <span class="text-medium-caption course-category tutor-color-black">
+                <a href='https://preview.tutorlms.com/marketplace/course-category/health-fitness/'>Health &amp; Fitness </a>            </span>
+        </span>
+	</div>
+</div>
+
+</div>
+<div class="tutor-course-listing-item-footer has-border tutor-py-16 tutor-px-20">
+    <div class="tutor-d-flex tutor-align-items-center tutor-justify-content-between"><div class="list-item-price tutor-d-flex tutor-align-items-center"> <span class="price tutor-fs-6 tutor-fw-bold tutor-color-black"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>299.00</bdi></span> </span></div><div class="list-item-button"> 
+	<a href="?add-to-cart=3639" data-quantity="1" class="button product_type_simple tutor-btn tutor-btn-icon tutor-btn-disable-outline tutor-btn-ghost tutor-no-hover tutor-btn-md add_to_cart_button cart-required-login" data-product_id="3639" data-product_sku="" aria-label="Add &ldquo;Nutrition: Build Your Perfect Diet &amp; Meal Plan&rdquo; to your cart" rel="nofollow"><span class="btn-icon tutor-icon-cart-line-filled"></span><span class="cart-text">Add to cart</span></a>
+ </div></div></div>
+</div>
+<div class="tutor-course-listing-item tutor-course-listing-item-sm">
+
+<div class="tutor-course-listing-item-head tutor-d-flex">
+	
+<a href="https://preview.tutorlms.com/marketplace/courses/php-for-beginners-become-a-php-master/" class="tutor-course-listing-thumb-permalink">
+    <div class="tutor-course-listing-thumbnail" style="background-image:url(https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2019/05/course-thumb-15.jpg)"></div>
+</a>
+    <a href="javascript:;" class="cart-required-login save-bookmark-btn tutor-d-flex tutor-align-items-center tutor-justify-content-center" data-course-id="571">
+            <i class="tutor-icon-fav-line-filled"></i>
+        </a></div>
+
+<div class="tutor-course-listing-item-body tutor-px-20 tutor-py-20">
+<div class="list-item-title tutor-fs-5 tutor-fw-medium tutor-color-black tutor-mt-2" title="PHP Beginners &#8211; Become a PHP Master">
+    <a href="https://preview.tutorlms.com/marketplace/courses/php-for-beginners-become-a-php-master/">PHP Beginners &#8211; Become a PHP Master</a>
+</div>
+
+
+
+
+<div class="list-item-meta tutor-fs-7 tutor-fw-medium tutor-color-black tutor-d-flex tutor-mt-12 tutor-mb-32">
+            <div class="tutor-d-flex tutor-align-items-center">
+        <span class="meta-icon tutor-icon-clock-filled tutor-color-muted"></span>
+        <span><span class="tutor-meta-level"> 22</span><span class="tutor-meta-value color-text-subsued tutor-mr-4">h</span><span class="tutor-meta-level"> 30</span><span class="tutor-meta-value color-text-subsued tutor-mr-4">m</span></span>
+    </div>
+        </div>
+
+<div class="list-item-author tutor-d-flex tutor-align-items-center tutor-mt-auto">
+	<div class="tutor-avatar">
+		<a href="https://preview.tutorlms.com/marketplace/profile/saief?view=instructor"> <span class="tutor-text-avatar" style="background-color: #c4534c; color: #fff8e5">TL</span></a>
+	</div>
+	<div class="tutor-course-meta text-regular-caption tutor-color-black-60">
+        <span class="tutor-course-meta-name">
+            By            <span class="tutor-fs-7 tutor-fw-medium tutor-color-black">
+                Tutor LMS            </span>
+        </span>
+        <span class="tutor-course-meta-cat">
+                        In            <span class="text-medium-caption course-category tutor-color-black">
+                <a href='https://preview.tutorlms.com/marketplace/course-category/development/'>Development </a><a href='https://preview.tutorlms.com/marketplace/course-category/featured/'>Featured </a>            </span>
+        </span>
+	</div>
+</div>
+
+</div>
+<div class="tutor-course-listing-item-footer has-border tutor-py-16 tutor-px-20">
+    <div class="tutor-d-flex tutor-align-items-center tutor-justify-content-between"><div class="list-item-price tutor-d-flex tutor-align-items-center"> <span class="price tutor-fs-6 tutor-fw-bold tutor-color-black"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>239.00</bdi></span> </span></div><div class="list-item-button"> 
+	<a href="?add-to-cart=3638" data-quantity="1" class="button product_type_simple tutor-btn tutor-btn-icon tutor-btn-disable-outline tutor-btn-ghost tutor-no-hover tutor-btn-md add_to_cart_button cart-required-login" data-product_id="3638" data-product_sku="" aria-label="Add &ldquo;PHP Beginners – Become a PHP Master&rdquo; to your cart" rel="nofollow"><span class="btn-icon tutor-icon-cart-line-filled"></span><span class="cart-text">Add to cart</span></a>
+ </div></div></div>
+</div>
+<div class="tutor-course-listing-item tutor-course-listing-item-sm">
+
+<div class="tutor-course-listing-item-head tutor-d-flex">
+	
+<a href="https://preview.tutorlms.com/marketplace/courses/wordpress-for-beginners-master-wordpress-quickly/" class="tutor-course-listing-thumb-permalink">
+    <div class="tutor-course-listing-thumbnail" style="background-image:url(https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2019/05/course-thumb-23.jpg)"></div>
+</a>
+    <a href="javascript:;" class="cart-required-login save-bookmark-btn tutor-d-flex tutor-align-items-center tutor-justify-content-center" data-course-id="570">
+            <i class="tutor-icon-fav-line-filled"></i>
+        </a></div>
+
+<div class="tutor-course-listing-item-body tutor-px-20 tutor-py-20">
+<div class="list-item-title tutor-fs-5 tutor-fw-medium tutor-color-black tutor-mt-2" title="WordPress for Beginners &#8211; Master WordPress">
+    <a href="https://preview.tutorlms.com/marketplace/courses/wordpress-for-beginners-master-wordpress-quickly/">WordPress for Beginners &#8211; Master WordPress</a>
+</div>
+
+
+
+
+<div class="list-item-meta tutor-fs-7 tutor-fw-medium tutor-color-black tutor-d-flex tutor-mt-12 tutor-mb-32">
+            <div class="tutor-d-flex tutor-align-items-center">
+        <span class="meta-icon tutor-icon-clock-filled tutor-color-muted"></span>
+        <span><span class="tutor-meta-level"> 07</span><span class="tutor-meta-value color-text-subsued tutor-mr-4">h</span><span class="tutor-meta-level"> 30</span><span class="tutor-meta-value color-text-subsued tutor-mr-4">m</span></span>
+    </div>
+        </div>
+
+<div class="list-item-author tutor-d-flex tutor-align-items-center tutor-mt-auto">
+	<div class="tutor-avatar">
+		<a href="https://preview.tutorlms.com/marketplace/profile/saief?view=instructor"> <span class="tutor-text-avatar" style="background-color: #c4534c; color: #fff8e5">TL</span></a>
+	</div>
+	<div class="tutor-course-meta text-regular-caption tutor-color-black-60">
+        <span class="tutor-course-meta-name">
+            By            <span class="tutor-fs-7 tutor-fw-medium tutor-color-black">
+                Tutor LMS            </span>
+        </span>
+        <span class="tutor-course-meta-cat">
+                        In            <span class="text-medium-caption course-category tutor-color-black">
+                <a href='https://preview.tutorlms.com/marketplace/course-category/featured/'>Featured </a>            </span>
+        </span>
+	</div>
+</div>
+
+</div>
+<div class="tutor-course-listing-item-footer has-border tutor-py-16 tutor-px-20">
+    <div class="list-item-button"><a href="https://preview.tutorlms.com/marketplace/courses/wordpress-for-beginners-master-wordpress-quickly/" class="tutor-btn tutor-btn-disable-outline tutor-btn-outline-fd tutor-btn-md tutor-btn-full">Enroll Course</a></div></div>
+</div>
+<div class="tutor-course-listing-item tutor-course-listing-item-sm">
+
+<div class="tutor-course-listing-item-head tutor-d-flex">
+	
+<a href="https://preview.tutorlms.com/marketplace/courses/the-complete-javascript-course-2019-build-real-projects/" class="tutor-course-listing-thumb-permalink">
+    <div class="tutor-course-listing-thumbnail" style="background-image:url(https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2019/05/course-thumb-22.jpg)"></div>
+</a>
+    <a href="javascript:;" class="cart-required-login save-bookmark-btn tutor-d-flex tutor-align-items-center tutor-justify-content-center" data-course-id="569">
+            <i class="tutor-icon-fav-line-filled"></i>
+        </a></div>
+
+<div class="tutor-course-listing-item-body tutor-px-20 tutor-py-20">
+<div class="list-item-title tutor-fs-5 tutor-fw-medium tutor-color-black tutor-mt-2" title="The Complete JavaScript Course 2019">
+    <a href="https://preview.tutorlms.com/marketplace/courses/the-complete-javascript-course-2019-build-real-projects/">The Complete JavaScript Course 2019</a>
+</div>
+
+
+
+
+<div class="list-item-meta tutor-fs-7 tutor-fw-medium tutor-color-black tutor-d-flex tutor-mt-12 tutor-mb-32">
+            <div class="tutor-d-flex tutor-align-items-center">
+        <span class="meta-icon tutor-icon-clock-filled tutor-color-muted"></span>
+        <span><span class="tutor-meta-level"> 18</span><span class="tutor-meta-value color-text-subsued tutor-mr-4">h</span><span class="tutor-meta-level"> 20</span><span class="tutor-meta-value color-text-subsued tutor-mr-4">m</span></span>
+    </div>
+        </div>
+
+<div class="list-item-author tutor-d-flex tutor-align-items-center tutor-mt-auto">
+	<div class="tutor-avatar">
+		<a href="https://preview.tutorlms.com/marketplace/profile/saief?view=instructor"> <span class="tutor-text-avatar" style="background-color: #c4534c; color: #fff8e5">TL</span></a>
+	</div>
+	<div class="tutor-course-meta text-regular-caption tutor-color-black-60">
+        <span class="tutor-course-meta-name">
+            By            <span class="tutor-fs-7 tutor-fw-medium tutor-color-black">
+                Tutor LMS            </span>
+        </span>
+        <span class="tutor-course-meta-cat">
+                        In            <span class="text-medium-caption course-category tutor-color-black">
+                <a href='https://preview.tutorlms.com/marketplace/course-category/featured/'>Featured </a>            </span>
+        </span>
+	</div>
+</div>
+
+</div>
+<div class="tutor-course-listing-item-footer has-border tutor-py-16 tutor-px-20">
+    <div class="list-item-button"><a href="https://preview.tutorlms.com/marketplace/courses/the-complete-javascript-course-2019-build-real-projects/" class="tutor-btn tutor-btn-disable-outline tutor-btn-outline-fd tutor-btn-md tutor-btn-full">Enroll Course</a></div></div>
+</div>
+<div class="tutor-course-listing-item tutor-course-listing-item-sm">
+
+<div class="tutor-course-listing-item-head tutor-d-flex">
+	
+<a href="https://preview.tutorlms.com/marketplace/courses/ultimate-photoshop-training-from-beginner-to-pro/" class="tutor-course-listing-thumb-permalink">
+    <div class="tutor-course-listing-thumbnail" style="background-image:url(https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2019/05/course-thumb-21.jpg)"></div>
+</a>
+    <a href="javascript:;" class="cart-required-login save-bookmark-btn tutor-d-flex tutor-align-items-center tutor-justify-content-center" data-course-id="568">
+            <i class="tutor-icon-fav-line-filled"></i>
+        </a></div>
+
+<div class="tutor-course-listing-item-body tutor-px-20 tutor-py-20">
+<div class="list-item-title tutor-fs-5 tutor-fw-medium tutor-color-black tutor-mt-2" title="Ultimate Photoshop Training: From Beginner">
+    <a href="https://preview.tutorlms.com/marketplace/courses/ultimate-photoshop-training-from-beginner-to-pro/">Ultimate Photoshop Training: From Beginner</a>
+</div>
+
+
+
+
+<div class="list-item-meta tutor-fs-7 tutor-fw-medium tutor-color-black tutor-d-flex tutor-mt-12 tutor-mb-32">
+            <div class="tutor-d-flex tutor-align-items-center">
+        <span class="meta-icon tutor-icon-clock-filled tutor-color-muted"></span>
+        <span><span class="tutor-meta-level"> 13</span><span class="tutor-meta-value color-text-subsued tutor-mr-4">h</span><span class="tutor-meta-level"> 20</span><span class="tutor-meta-value color-text-subsued tutor-mr-4">m</span></span>
+    </div>
+        </div>
+
+<div class="list-item-author tutor-d-flex tutor-align-items-center tutor-mt-auto">
+	<div class="tutor-avatar">
+		<a href="https://preview.tutorlms.com/marketplace/profile/saief?view=instructor"> <span class="tutor-text-avatar" style="background-color: #c4534c; color: #fff8e5">TL</span></a>
+	</div>
+	<div class="tutor-course-meta text-regular-caption tutor-color-black-60">
+        <span class="tutor-course-meta-name">
+            By            <span class="tutor-fs-7 tutor-fw-medium tutor-color-black">
+                Tutor LMS            </span>
+        </span>
+        <span class="tutor-course-meta-cat">
+                        In            <span class="text-medium-caption course-category tutor-color-black">
+                <a href='https://preview.tutorlms.com/marketplace/course-category/featured/'>Featured </a>            </span>
+        </span>
+	</div>
+</div>
+
+</div>
+<div class="tutor-course-listing-item-footer has-border tutor-py-16 tutor-px-20">
+    <div class="tutor-d-flex tutor-align-items-center tutor-justify-content-between"><div class="list-item-price tutor-d-flex tutor-align-items-center"> <span class="price tutor-fs-6 tutor-fw-bold tutor-color-black"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>129.00</bdi></span> </span></div><div class="list-item-button"> 
+	<a href="?add-to-cart=3635" data-quantity="1" class="button product_type_simple tutor-btn tutor-btn-icon tutor-btn-disable-outline tutor-btn-ghost tutor-no-hover tutor-btn-md add_to_cart_button cart-required-login" data-product_id="3635" data-product_sku="" aria-label="Add &ldquo;Ultimate Photoshop Training: From Beginner&rdquo; to your cart" rel="nofollow"><span class="btn-icon tutor-icon-cart-line-filled"></span><span class="cart-text">Add to cart</span></a>
+ </div></div></div>
+</div>
+<div class="tutor-course-listing-item tutor-course-listing-item-sm">
+
+<div class="tutor-course-listing-item-head tutor-d-flex">
+	
+<a href="https://preview.tutorlms.com/marketplace/courses/user-experience-design-essentials-adobe-xd-ui-ux-design/" class="tutor-course-listing-thumb-permalink">
+    <div class="tutor-course-listing-thumbnail" style="background-image:url(https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2019/05/course-thumb-20.jpg)"></div>
+</a>
+    <a href="javascript:;" class="cart-required-login save-bookmark-btn tutor-d-flex tutor-align-items-center tutor-justify-content-center" data-course-id="567">
+            <i class="tutor-icon-fav-line-filled"></i>
+        </a></div>
+
+<div class="tutor-course-listing-item-body tutor-px-20 tutor-py-20">
+<div class="list-item-title tutor-fs-5 tutor-fw-medium tutor-color-black tutor-mt-2" title="User Experience Design Essentials">
+    <a href="https://preview.tutorlms.com/marketplace/courses/user-experience-design-essentials-adobe-xd-ui-ux-design/">User Experience Design Essentials</a>
+</div>
+
+
+
+
+<div class="list-item-meta tutor-fs-7 tutor-fw-medium tutor-color-black tutor-d-flex tutor-mt-12 tutor-mb-32">
+            <div class="tutor-d-flex tutor-align-items-center">
+        <span class="meta-icon tutor-icon-clock-filled tutor-color-muted"></span>
+        <span><span class="tutor-meta-level"> 10</span><span class="tutor-meta-value color-text-subsued tutor-mr-4">h</span><span class="tutor-meta-level"> 40</span><span class="tutor-meta-value color-text-subsued tutor-mr-4">m</span></span>
+    </div>
+        </div>
+
+<div class="list-item-author tutor-d-flex tutor-align-items-center tutor-mt-auto">
+	<div class="tutor-avatar">
+		<a href="https://preview.tutorlms.com/marketplace/profile/saief?view=instructor"> <span class="tutor-text-avatar" style="background-color: #c4534c; color: #fff8e5">TL</span></a>
+	</div>
+	<div class="tutor-course-meta text-regular-caption tutor-color-black-60">
+        <span class="tutor-course-meta-name">
+            By            <span class="tutor-fs-7 tutor-fw-medium tutor-color-black">
+                Tutor LMS            </span>
+        </span>
+        <span class="tutor-course-meta-cat">
+                        In            <span class="text-medium-caption course-category tutor-color-black">
+                <a href='https://preview.tutorlms.com/marketplace/course-category/featured/'>Featured </a>            </span>
+        </span>
+	</div>
+</div>
+
+</div>
+<div class="tutor-course-listing-item-footer has-border tutor-py-16 tutor-px-20">
+    <div class="list-item-button"><a href="https://preview.tutorlms.com/marketplace/courses/user-experience-design-essentials-adobe-xd-ui-ux-design/" class="tutor-btn tutor-btn-disable-outline tutor-btn-outline-fd tutor-btn-md tutor-btn-full">Enroll Course</a></div></div>
+</div>
+<div class="tutor-course-listing-item tutor-course-listing-item-sm">
+
+<div class="tutor-course-listing-item-head tutor-d-flex">
+	
+<a href="https://preview.tutorlms.com/marketplace/courses/complete-blender-creator-learn-3d-modelling-for-beginners/" class="tutor-course-listing-thumb-permalink">
+    <div class="tutor-course-listing-thumbnail" style="background-image:url(https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2019/05/course-thumb-19.jpg)"></div>
+</a>
+    <a href="javascript:;" class="cart-required-login save-bookmark-btn tutor-d-flex tutor-align-items-center tutor-justify-content-center" data-course-id="566">
+            <i class="tutor-icon-fav-line-filled"></i>
+        </a></div>
+
+<div class="tutor-course-listing-item-body tutor-px-20 tutor-py-20">
+<div class="list-item-title tutor-fs-5 tutor-fw-medium tutor-color-black tutor-mt-2" title="Complete Blender Creator, 3D Modelling">
+    <a href="https://preview.tutorlms.com/marketplace/courses/complete-blender-creator-learn-3d-modelling-for-beginners/">Complete Blender Creator, 3D Modelling</a>
+</div>
+
+
+
+
+<div class="list-item-meta tutor-fs-7 tutor-fw-medium tutor-color-black tutor-d-flex tutor-mt-12 tutor-mb-32">
+            <div class="tutor-d-flex tutor-align-items-center">
+        <span class="meta-icon tutor-icon-clock-filled tutor-color-muted"></span>
+        <span><span class="tutor-meta-level"> 15</span><span class="tutor-meta-value color-text-subsued tutor-mr-4">h</span><span class="tutor-meta-level"> 20</span><span class="tutor-meta-value color-text-subsued tutor-mr-4">m</span></span>
+    </div>
+        </div>
+
+<div class="list-item-author tutor-d-flex tutor-align-items-center tutor-mt-auto">
+	<div class="tutor-avatar">
+		<a href="https://preview.tutorlms.com/marketplace/profile/saief?view=instructor"> <span class="tutor-text-avatar" style="background-color: #c4534c; color: #fff8e5">TL</span></a>
+	</div>
+	<div class="tutor-course-meta text-regular-caption tutor-color-black-60">
+        <span class="tutor-course-meta-name">
+            By            <span class="tutor-fs-7 tutor-fw-medium tutor-color-black">
+                Tutor LMS            </span>
+        </span>
+        <span class="tutor-course-meta-cat">
+                        In            <span class="text-medium-caption course-category tutor-color-black">
+                <a href='https://preview.tutorlms.com/marketplace/course-category/design/'>Design </a><a href='https://preview.tutorlms.com/marketplace/course-category/featured/'>Featured </a>            </span>
+        </span>
+	</div>
+</div>
+
+</div>
+<div class="tutor-course-listing-item-footer has-border tutor-py-16 tutor-px-20">
+    <div class="list-item-button"><a href="https://preview.tutorlms.com/marketplace/courses/complete-blender-creator-learn-3d-modelling-for-beginners/" class="tutor-btn tutor-btn-disable-outline tutor-btn-outline-fd tutor-btn-md tutor-btn-full">Enroll Course</a></div></div>
+</div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+
+
+
+<div class="wp-block-qubely-row qubely-section qubely-block-a48ba7"><div class="qubely-row-overlay"></div><div class="qubely-container"><div class="qubely-row ">
+<div class="wp-block-qubely-column qubely-column qubely-column-front qubely-block-eeeafa"><div class="qubely-column-inner">
+<div class="wp-block-qubely-counter qubely-block-3d1d0b"><div class="qubely-block-counter "><div class="qubely-block-counter-content"><span class="qubely-block-counter-number" data-limit="3000" data-start="0" data-counterduration="3000">0</span></div></div></div>
+
+
+
+<div class="wp-block-qubely-heading qubely-block-01252e"><div class="qubely-block-heading  "><div class="qubely-heading-container"><h2 class="qubely-heading-selector">Learners</h2></div></div></div>
+</div></div>
+
+
+
+<div class="wp-block-qubely-column qubely-column qubely-column-front qubely-block-856390"><div class="qubely-column-inner">
+<div class="wp-block-qubely-counter qubely-block-41895a"><div class="qubely-block-counter "><div class="qubely-block-counter-content"><span class="qubely-block-counter-number" data-limit="5000" data-start="0" data-counterduration="3000">0</span></div></div></div>
+
+
+
+<div class="wp-block-qubely-heading qubely-block-928266"><div class="qubely-block-heading  "><div class="qubely-heading-container"><h2 class="qubely-heading-selector">Certifications</h2></div></div></div>
+</div></div>
+
+
+
+<div class="wp-block-qubely-column qubely-column qubely-column-front qubely-block-f77884"><div class="qubely-column-inner">
+<div class="wp-block-qubely-counter qubely-block-22ab72"><div class="qubely-block-counter "><div class="qubely-block-counter-content"><span class="qubely-block-counter-number" data-limit="120" data-start="0" data-counterduration="1000">0</span></div></div></div>
+
+
+
+<div class="wp-block-qubely-heading qubely-block-aec66e"><div class="qubely-block-heading  "><div class="qubely-heading-container"><h2 class="qubely-heading-selector">Instructors</h2></div></div></div>
+</div></div>
+
+
+
+<div class="wp-block-qubely-column qubely-column qubely-column-front qubely-block-864f04"><div class="qubely-column-inner">
+<div class="wp-block-qubely-counter qubely-block-248d18"><div class="qubely-block-counter "><div class="qubely-block-counter-content"><span class="qubely-block-counter-number" data-limit="760" data-start="0" data-counterduration="3000">0</span></div></div></div>
+
+
+
+<div class="wp-block-qubely-heading qubely-block-c1930b"><div class="qubely-block-heading  "><div class="qubely-heading-container"><h2 class="qubely-heading-selector">Courses published</h2></div></div></div>
+</div></div>
+</div></div></div>
+
+
+
+<div class="wp-block-qubely-row qubely-section qubely-block-414002"><div class="qubely-row-overlay"></div><div class="qubely-container"><div class="qubely-row ">
+<div class="wp-block-qubely-column qubely-column qubely-column-front qubely-block-75580a"><div class="qubely-column-inner">
+<div class="wp-block-qubely-testimonial qubely-block-a6bca0"><div class="qubely-block-testimonial "><div class="qubely-testimonial-content"><div>Cras at nulla ut ipsum facilisis malesuada a sit amet sapien.</div></div><div class="qubely-testimonial-author"><div class=""><div class="qubely-testimonial-author-info"><div class="qubely-testimonial-author-name"><span>&#8211; Marie Stanley</span></div><div class="qubely-testimonial-author-designation"><span></span></div></div></div></div></div></div>
+</div></div>
+</div></div></div>
+
+
+
+<div class="wp-block-qubely-row qubely-section qubely-block-188391"><div class="qubely-row-overlay"></div><div class="qubely-container"><div class="qubely-row ">
+<div class="wp-block-qubely-column qubely-column qubely-column-front qubely-block-d84b55"><div class="qubely-column-inner">
+<div class="wp-block-qubely-text qubely-block-833aa7"><div class="qubely-block-text  "><div class="qubely-block-text-title-container  qubely-separator-position-top"><div class="qubely-block-text-title-inner"><h2 class="qubely-block-text-title">Latest News</h2></div></div><p>Learning often happens in classrooms but it doesn&#8217;t have to. Use Eduflow to facilitate learning experiences no matter the context.</p></div></div>
+
+
+<div class="wp-block-qubely-postgrid qubely-block-a4795b"><div class="qubely-postgrid-wrapper  qubely-postgrid-layout-2 qubely-postgrid-column qubely-postgrid-column-md3 qubely-postgrid-column-sm2 qubely-postgrid-column-xs1" ><div class="qubely-postgrid qubely-post-grid-view qubely-postgrid-style-1"><div class="qubely-post-grid-wrapper qubely-post-grid-center"><div class="qubely-post-grid-content"><div class="qubely-postgrid-meta"><span><i class="far fa-calendar-alt"></i> March 31, 2021</span></div><h3 class="qubely-postgrid-title"><a href="https://preview.tutorlms.com/marketplace/doubling-your-salary-or-at-the-very-least-increasing-it-significantly/">Doubling your salary, or at the very least increasing it significantly</a></h3><div class="qubely-postgrid-btn-wrapper"><a class="qubely-postgrid-btn qubely-button-fill is-custom" href="https://preview.tutorlms.com/marketplace/doubling-your-salary-or-at-the-very-least-increasing-it-significantly/">Continue Reading &rarr;</a></div></div></div></div><div class="qubely-postgrid qubely-post-grid-view qubely-postgrid-style-1"><div class="qubely-post-grid-wrapper qubely-post-grid-center"><div class="qubely-post-grid-content"><div class="qubely-postgrid-meta"><span><i class="far fa-calendar-alt"></i> March 31, 2021</span></div><h3 class="qubely-postgrid-title"><a href="https://preview.tutorlms.com/marketplace/my-career-is-something-i-never-thought-would-happen/">My career is something I never thought would happen</a></h3><div class="qubely-postgrid-btn-wrapper"><a class="qubely-postgrid-btn qubely-button-fill is-custom" href="https://preview.tutorlms.com/marketplace/my-career-is-something-i-never-thought-would-happen/">Continue Reading &rarr;</a></div></div></div></div><div class="qubely-postgrid qubely-post-grid-view qubely-postgrid-style-1"><div class="qubely-post-grid-wrapper qubely-post-grid-center"><div class="qubely-post-grid-content"><div class="qubely-postgrid-meta"><span><i class="far fa-calendar-alt"></i> March 31, 2021</span></div><h3 class="qubely-postgrid-title"><a href="https://preview.tutorlms.com/marketplace/how-to-blow-through-capital-at-an-incredible-rate-2/">How To Blow Through Capital At An Incredible Rate</a></h3><div class="qubely-postgrid-btn-wrapper"><a class="qubely-postgrid-btn qubely-button-fill is-custom" href="https://preview.tutorlms.com/marketplace/how-to-blow-through-capital-at-an-incredible-rate-2/">Continue Reading &rarr;</a></div></div></div></div></div></div></div></div>
+</div></div></div>
+
+
+
+<div class="wp-block-qubely-row qubely-section qubely-block-86396a"><div class="qubely-row-overlay"></div><div class="qubely-container"><div class="qubely-row ">
+<div class="wp-block-qubely-column qubely-column qubely-column-front qubely-block-c01ab2"><div class="qubely-column-inner">
+<div class="wp-block-qubely-heading qubely-block-2f0704" id="17-want-to-get-special-offers-and-course-updates"><div class="qubely-block-heading  "><div class="qubely-heading-container"><h2 class="qubely-heading-selector">Want to get special offers and Course updates?</h2></div></div></div>
+
+
+
+<form class="tutor-starter-custom-subscription">
+    <input type="email" placeholder="Your email address here">
+    <button type="button">Subscribe</button>
+</form>
+</div></div>
+</div></div></div>
+
+</div><!-- #content -->
+
+<section class="footer-widgets">
+	<div class="container">
+		<div class="row justify-between align-top">
+			<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12">
+												<img height="24" width="92" class="logo-footer" src="https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2021/04/tutor-starter-logo-white.png" srcset="https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2021/06/tutor-white@2x.png 1x, https://preview.tutorlms.com/marketplace/wp-content/uploads/sites/6/2021/06/tutor-white@2x.png 2x" alt="Marketplace">
+						<section id="text-2" class="widget widget_text p-2">			<div class="textwidget"><p>Learning often happens in classrooms but it<br />
+doesn&#8217;t have to.</p>
+</div>
+		</section><section id="text-3" class="widget widget_text p-2">			<div class="textwidget"><div class="footer-widget-contact-info">
++1 (24551) 21456871<br />
+<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="1875777a71747d58766d757a7d6a367b7775">[email&#160;protected]</a>
+</div>
+</div>
+		</section>			</div><!-- left widget container -->
+			<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 ml-0 pl-0">
+				<div class="row align-top">
+					<div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12">
+						<section id="nav_menu-1" class="widget widget_nav_menu p-2"><h2 class="widget-title">Quick Links</h2><div class="menu-footer-1-quick-links-container"><ul id="menu-footer-1-quick-links" class="menu"><li id="menu-item-3319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3319"><a href="#" onClick="return true">About</a></li>
+<li id="menu-item-3320" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3320"><a href="#" onClick="return true">Careers</a></li>
+<li id="menu-item-3321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3321"><a href="#" onClick="return true">Blog</a></li>
+<li id="menu-item-3322" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3322"><a href="#" onClick="return true">Pricing</a></li>
+</ul></div></section>					</div>
+					<div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12">
+						<section id="nav_menu-2" class="widget widget_nav_menu p-2"><h2 class="widget-title">Resources</h2><div class="menu-footer-2-resources-container"><ul id="menu-footer-2-resources" class="menu"><li id="menu-item-3323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3323"><a href="#" onClick="return true">Courses</a></li>
+<li id="menu-item-3324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3324"><a href="#" onClick="return true">Membership</a></li>
+<li id="menu-item-3325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3325"><a href="#" onClick="return true">Instructor</a></li>
+<li id="menu-item-3326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3326"><a href="#" onClick="return true">Faqs</a></li>
+</ul></div></section>					</div>
+					<div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12">
+						<section id="nav_menu-3" class="widget widget_nav_menu p-2"><h2 class="widget-title">Support</h2><div class="menu-footer-3-support-container"><ul id="menu-footer-3-support" class="menu"><li id="menu-item-3327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3327"><a href="#" onClick="return true">Forums</a></li>
+<li id="menu-item-3328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3328"><a href="#" onClick="return true">Documentation</a></li>
+<li id="menu-item-3329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3329"><a href="#" onClick="return true">Terms</a></li>
+<li id="menu-item-3330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3330"><a href="#" onClick="return true">Comminity</a></li>
+</ul></div></section>					</div>
+				</div>
+			</div><!-- right widget container-->
+		</div><!-- .row -->
+	</div><!-- .container -->
+</section><!-- .footer-widgets --><footer id="colophon" class="site-footer container-fluid pt-2 pb-2" role="contentinfo">
+	<div class="container">
+		<div class="row align-middle justify-between footer-bottom-container">
+			<div class="site-info">
+									<span id="footer-socialmedia">
+						<section id="custom_html-1" class="widget_text widget widget_custom_html p-2"><div class="textwidget custom-html-widget"><a href="https://www.facebook.com" target="_blank" rel="noopener"><i class="tutor-icon-facebook"></i></a>
+<a href="https://www.twitter.com" target="_blank" rel="noopener"><i class="tutor-icon-twitter"></i></a>
+<a href="https://www.instagram.com" target="_blank" rel="noopener"><i class="tutor-icon-instagram"></i></a></div></section>					</span>
+							</div><!-- .site-info -->
+						<div class="copyright-container">
+				<span class="copyright">&copy; All rights reserved.</span>
+			</div><!-- .footer-menu-->
+		</div><!-- .row -->
+	</div><!-- .container -->
+</footer><!-- #colophon -->
+</div><!-- #page -->
+
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type='text/javascript' src='https://preview.tutorlms.com/marketplace/wp-content/plugins/qubely/assets/js/common-script.min.js?ver=1.7.9' id='qubely-block-common-js'></script>
+<script type='text/javascript' src='https://preview.tutorlms.com/marketplace/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://preview.tutorlms.com/marketplace/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://preview.tutorlms.com/marketplace/wp-includes/js/dist/hooks.min.js?ver=1e58c8c5a32b2e97491080c5b10dc71c' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://preview.tutorlms.com/marketplace/wp-includes/js/dist/i18n.min.js?ver=30fcecb428a0e8383d3776bcdd3a7834' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' id='tutor-script-js-extra'>
+/* <![CDATA[ */
+var _tutorobject = {"ajaxurl":"https:\/\/preview.tutorlms.com\/marketplace\/wp-admin\/admin-ajax.php","home_url":"https:\/\/preview.tutorlms.com\/marketplace","site_title":"Marketplace","base_path":"\/marketplace\/","tutor_url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/","tutor_pro_url":null,"nonce_key":"_tutor_nonce","_tutor_nonce":"728392b041","loading_icon_url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-admin\/images\/wpspin_light.gif","placeholder_img_src":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/images\/placeholder.png","enable_lesson_classic_editor":"","tutor_frontend_dashboard_url":"https:\/\/preview.tutorlms.com\/marketplace\/dashboard\/","wp_date_format":"MMMM d, yyyy","is_admin":"","is_admin_bar_showing":"","addons_data":[{"name":"BuddyPress","description":"Discuss about course and share your knowledge with your friends through BuddyPress","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/buddypress\/thumbnail.png"},{"name":"Gradebook","description":"Shows student progress from assignment and quiz","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/gradebook\/thumbnail.png"},{"name":"Content Drip","description":"Unlock lessons by schedule or when the student meets specific condition.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/content-drip\/thumbnail.png"},{"name":"Enrollments","description":"Take advanced control on enrollments. Enroll the student manually.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/enrollments\/thumbnail.png"},{"name":"WooCommerce Subscriptions","description":"Capture Residual Revenue with Recurring Payments.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/wc-subscriptions\/thumbnail.png"},{"name":"Paid Memberships Pro","description":"Maximize revenue by selling membership access to all of your courses.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/pmpro\/thumbnail.png"},{"name":"Restrict Content Pro","description":"Unlock Course depending on Restrict Content Pro Plugin Permission.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/restrict-content-pro\/thumbnail.png"},{"name":"Tutor Assignments","description":"Tutor assignments is a great way to assign tasks to students.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-assignments\/thumbnail.png"},{"name":"Tutor Certificate","description":"Students will be able to download a certificate after course completion.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-certificate\/thumbnail.png"},{"name":"Tutor Course Attachments","description":"Add unlimited attachments\/ private files to any Tutor course","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-course-attachments\/thumbnail.png"},{"name":"Tutor Course Preview","description":"Unlock some lessons for students before enrollment.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-course-preview\/thumbnail.png"},{"name":"Tutor E-Mail","description":"Send email on various tutor events","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-email\/thumbnail.png"},{"name":"Tutor Multi Instructors","description":"Start a course with multiple instructors by Tutor Multi Instructors","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-multi-instructors\/thumbnail.png"},{"name":"Tutor Prerequisites","description":"Specific course you must complete before you can enroll new course by Tutor Prerequisites","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-prerequisites\/thumbnail.png"},{"name":"Tutor Report","description":"Check your course performance through Tutor Report stats.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-report\/thumbnail.png"},{"name":"Quiz Export\/Import","description":"Save time by exporting\/importing quiz data with easy options.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/quiz-import-export\/thumbnail.png"},{"name":"Tutor Zoom Integration","description":"Connect Tutor LMS with Zoom to host live online classes. Students can attend live classes right from the lesson page.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-zoom\/thumbnail.png"},{"name":"Google Classroom Integration","description":"Helps connect Google Classrooms with Tutor LMS courses, allowing you to use features like Classroom streams and files directly from the Tutor LMS course.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/google-classroom\/thumbnail.png"},{"name":"Calendar","description":"Allow students to see everything in a calendar view in the front dashboard.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-calendar\/thumbnail.png"},{"name":"Notifications","description":"Get On Site and Push Notifications on specified tutor events.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-notifications\/thumbnail.png"},{"name":"WPML Multilingual CMS","description":"Create multilingual courses, lessons, dashboard and more for a global audience.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-wpml\/thumbnail.png"}],"current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"content_change_event":"tutor_content_changed_event","is_tutor_course_edit":"","assignment_max_file_allowed":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://preview.tutorlms.com/marketplace/wp-content/plugins/tutor/assets/js/tutor.min.js?ver=2.0.0' id='tutor-script-js'></script>
+<script type='text/javascript' id='quicktags-js-extra'>
+/* <![CDATA[ */
+var quicktagsL10n = {"closeAllOpenTags":"Close all open tags","closeTags":"close tags","enterURL":"Enter the URL","enterImageURL":"Enter the URL of the image","enterImageDescription":"Enter a description of the image","textdirection":"text direction","toggleTextdirection":"Toggle Editor Text Direction","dfw":"Distraction-free writing mode","strong":"Bold","strongClose":"Close bold tag","em":"Italic","emClose":"Close italic tag","link":"Insert link","blockquote":"Blockquote","blockquoteClose":"Close blockquote tag","del":"Deleted text (strikethrough)","delClose":"Close deleted text tag","ins":"Inserted text","insClose":"Close inserted text tag","image":"Insert image","ul":"Bulleted list","ulClose":"Close bulleted list tag","ol":"Numbered list","olClose":"Close numbered list tag","li":"List item","liClose":"Close list item tag","code":"Code","codeClose":"Close code tag","more":"Insert Read More tag"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://preview.tutorlms.com/marketplace/wp-includes/js/quicktags.min.js?ver=5.9.7' id='quicktags-js'></script>
+<script type='text/javascript' src='https://preview.tutorlms.com/marketplace/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://preview.tutorlms.com/marketplace/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.1' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://preview.tutorlms.com/marketplace/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.1' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' src='https://preview.tutorlms.com/marketplace/wp-content/plugins/tutor/assets/packages/SocialShare/SocialShare.min.js?ver=2.0.0' id='tutor-social-share-js'></script>
+<script type='text/javascript' id='tutor-frontend-js-extra'>
+/* <![CDATA[ */
+var _tutorobject = {"ajaxurl":"https:\/\/preview.tutorlms.com\/marketplace\/wp-admin\/admin-ajax.php","home_url":"https:\/\/preview.tutorlms.com\/marketplace","site_title":"Marketplace","base_path":"\/marketplace\/","tutor_url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/","tutor_pro_url":null,"nonce_key":"_tutor_nonce","_tutor_nonce":"728392b041","loading_icon_url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-admin\/images\/wpspin_light.gif","placeholder_img_src":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/images\/placeholder.png","enable_lesson_classic_editor":"","tutor_frontend_dashboard_url":"https:\/\/preview.tutorlms.com\/marketplace\/dashboard\/","wp_date_format":"MMMM d, yyyy","is_admin":"","is_admin_bar_showing":"","addons_data":[{"name":"BuddyPress","description":"Discuss about course and share your knowledge with your friends through BuddyPress","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/buddypress\/thumbnail.png"},{"name":"Gradebook","description":"Shows student progress from assignment and quiz","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/gradebook\/thumbnail.png"},{"name":"Content Drip","description":"Unlock lessons by schedule or when the student meets specific condition.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/content-drip\/thumbnail.png"},{"name":"Enrollments","description":"Take advanced control on enrollments. Enroll the student manually.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/enrollments\/thumbnail.png"},{"name":"WooCommerce Subscriptions","description":"Capture Residual Revenue with Recurring Payments.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/wc-subscriptions\/thumbnail.png"},{"name":"Paid Memberships Pro","description":"Maximize revenue by selling membership access to all of your courses.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/pmpro\/thumbnail.png"},{"name":"Restrict Content Pro","description":"Unlock Course depending on Restrict Content Pro Plugin Permission.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/restrict-content-pro\/thumbnail.png"},{"name":"Tutor Assignments","description":"Tutor assignments is a great way to assign tasks to students.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-assignments\/thumbnail.png"},{"name":"Tutor Certificate","description":"Students will be able to download a certificate after course completion.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-certificate\/thumbnail.png"},{"name":"Tutor Course Attachments","description":"Add unlimited attachments\/ private files to any Tutor course","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-course-attachments\/thumbnail.png"},{"name":"Tutor Course Preview","description":"Unlock some lessons for students before enrollment.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-course-preview\/thumbnail.png"},{"name":"Tutor E-Mail","description":"Send email on various tutor events","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-email\/thumbnail.png"},{"name":"Tutor Multi Instructors","description":"Start a course with multiple instructors by Tutor Multi Instructors","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-multi-instructors\/thumbnail.png"},{"name":"Tutor Prerequisites","description":"Specific course you must complete before you can enroll new course by Tutor Prerequisites","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-prerequisites\/thumbnail.png"},{"name":"Tutor Report","description":"Check your course performance through Tutor Report stats.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-report\/thumbnail.png"},{"name":"Quiz Export\/Import","description":"Save time by exporting\/importing quiz data with easy options.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/quiz-import-export\/thumbnail.png"},{"name":"Tutor Zoom Integration","description":"Connect Tutor LMS with Zoom to host live online classes. Students can attend live classes right from the lesson page.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-zoom\/thumbnail.png"},{"name":"Google Classroom Integration","description":"Helps connect Google Classrooms with Tutor LMS courses, allowing you to use features like Classroom streams and files directly from the Tutor LMS course.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/google-classroom\/thumbnail.png"},{"name":"Calendar","description":"Allow students to see everything in a calendar view in the front dashboard.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-calendar\/thumbnail.png"},{"name":"Notifications","description":"Get On Site and Push Notifications on specified tutor events.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-notifications\/thumbnail.png"},{"name":"WPML Multilingual CMS","description":"Create multilingual courses, lessons, dashboard and more for a global audience.","url":"https:\/\/preview.tutorlms.com\/marketplace\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-wpml\/thumbnail.png"}],"current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"content_change_event":"tutor_content_changed_event","is_tutor_course_edit":"","assignment_max_file_allowed":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' id='tutor-frontend-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "tutor", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://preview.tutorlms.com/marketplace/wp-content/plugins/tutor/assets/js/tutor-front.min.js?ver=2.0.0' id='tutor-frontend-js'></script>
+<script type='text/javascript' src='https://preview.tutorlms.com/marketplace/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.1' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://preview.tutorlms.com/marketplace/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.3.1' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/marketplace\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/marketplace\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/preview.tutorlms.com\/marketplace\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://preview.tutorlms.com/marketplace/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=6.3.1' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://preview.tutorlms.com/marketplace/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.6.3.1' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/marketplace\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/marketplace\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://preview.tutorlms.com/marketplace/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=6.3.1' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/marketplace\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/marketplace\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_9627a0ce4366a09d72f5d1ab1b5fcf22","fragment_name":"wc_fragments_9627a0ce4366a09d72f5d1ab1b5fcf22","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://preview.tutorlms.com/marketplace/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=6.3.1' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' id='main-js-extra'>
+/* <![CDATA[ */
+var tutorstarter_vars = {"site_url":"https:\/\/preview.tutorlms.com\/marketplace","ajaxurl":"https:\/\/preview.tutorlms.com\/marketplace\/wp-admin\/admin-ajax.php","authRedirectUrl":"https:\/\/preview.tutorlms.com\/marketplace"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://preview.tutorlms.com/marketplace/wp-content/themes/tutorstarter/assets/dist/js/app.min.js?ver=1.0.9' id='main-js'></script>
+<script type='text/javascript' src='//instant.page/5.1.0?ver=1.0.9' id='instant-page-js'></script>
+	<script>
+		/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+	
+</body>
+</html>

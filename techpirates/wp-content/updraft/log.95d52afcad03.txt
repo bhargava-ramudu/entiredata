@@ -1,0 +1,598 @@
+0000.000 (0) Opened log file at time: Tue, 30 Jul 2024 02:13:38 +0000 on https://portal.techpirates.in
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.3 WP: 6.6.1 PHP: 8.3.6 (apache2handler, Linux wordpress-host 6.8.0-31-generic #31-Ubuntu SMP PREEMPT_DYNAMIC Sat Apr 20 00:40:06 UTC 2024 x86_64) MySQL: 10.11.8-MariaDB-0ubuntu0.24.04.1 (max packet size=16777216) WPLANG: en_US Server: Apache/2.4.58 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 11.7M | 14M) multisite: N openssl: OpenSSL 3.0.13 30 Jan 2024 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.005 (0) Free space on disk containing Updraft's temporary directory: 19272.1 MB
+0000.008 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.011 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.018 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1722218931, seconds_ago=86687)
+0000.028 (0) Set semaphore last lock (fd) time to 2024-07-30 02:13:38
+0000.029 (0) Semaphore lock (fd) complete
+0000.033 (0) Backup run: resumption=0, nonce=95d52afcad03, file_nonce=95d52afcad03 begun at=1722305618 (0s ago), job type=backup
+0000.035 (0) Scheduling a resumption (1) after 300 seconds (1722305918) in case this run gets aborted
+0000.070 (0) Checking if we have a zip executable available
+0000.073 (0) Creation of backups of directories: beginning
+0000.077 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.444 (0) Total entities for the zip file: 1328 directories, 7676 files (0 skipped as non-modified), 98 MB
+0000.454 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.460 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.467 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.473 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.479 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.484 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.487 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0000.490 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0000.493 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0000.499 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0000.501 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (10.7 MB, 7676 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0001.807 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 1100 files added (on-disk size: 4582.3 KB)
+0001.813 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 1200 files added (on-disk size: 4582.3 KB)
+0001.818 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 1300 files added (on-disk size: 4582.3 KB)
+0001.823 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 1400 files added (on-disk size: 4582.3 KB)
+0001.828 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 1500 files added (on-disk size: 4582.3 KB)
+0001.834 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 1600 files added (on-disk size: 4582.3 KB)
+0001.839 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 1700 files added (on-disk size: 4582.3 KB)
+0001.844 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 1800 files added (on-disk size: 4582.3 KB)
+0001.849 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 1900 files added (on-disk size: 4582.3 KB)
+0001.854 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 2000 files added (on-disk size: 4582.3 KB)
+0001.856 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.4 MB, 7676 files batched, 1001 (2002) added so far); re-opening (prior size: 4582.3 KB)
+0002.674 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 2100 files added (on-disk size: 6994.8 KB)
+0002.680 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 2200 files added (on-disk size: 6994.8 KB)
+0002.684 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 2300 files added (on-disk size: 6994.8 KB)
+0002.688 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 2400 files added (on-disk size: 6994.8 KB)
+0002.692 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 2500 files added (on-disk size: 6994.8 KB)
+0002.696 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 2600 files added (on-disk size: 6994.8 KB)
+0002.701 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 2700 files added (on-disk size: 6994.8 KB)
+0002.707 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 2800 files added (on-disk size: 6994.8 KB)
+0002.712 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 2900 files added (on-disk size: 6994.8 KB)
+0002.717 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 3000 files added (on-disk size: 6994.8 KB)
+0002.718 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.4 MB, 7676 files batched, 1001 (3003) added so far); re-opening (prior size: 6994.8 KB)
+0003.306 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 3100 files added (on-disk size: 9408.7 KB)
+0003.311 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 3200 files added (on-disk size: 9408.7 KB)
+0003.316 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 3300 files added (on-disk size: 9408.7 KB)
+0003.321 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 3400 files added (on-disk size: 9408.7 KB)
+0003.326 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 3500 files added (on-disk size: 9408.7 KB)
+0003.330 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 3600 files added (on-disk size: 9408.7 KB)
+0003.336 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 3700 files added (on-disk size: 9408.7 KB)
+0003.342 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 3800 files added (on-disk size: 9408.7 KB)
+0003.347 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 3900 files added (on-disk size: 9408.7 KB)
+0003.352 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 4000 files added (on-disk size: 9408.7 KB)
+0003.354 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.2 MB, 7676 files batched, 1001 (4004) added so far); re-opening (prior size: 9408.7 KB)
+0004.208 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 4100 files added (on-disk size: 13754.3 KB)
+0004.213 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 4200 files added (on-disk size: 13754.3 KB)
+0004.217 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 4300 files added (on-disk size: 13754.3 KB)
+0004.221 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 4400 files added (on-disk size: 13754.3 KB)
+0004.225 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 4500 files added (on-disk size: 13754.3 KB)
+0004.230 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 4600 files added (on-disk size: 13754.3 KB)
+0004.234 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 4700 files added (on-disk size: 13754.3 KB)
+0004.241 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 4800 files added (on-disk size: 13754.3 KB)
+0004.247 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 4900 files added (on-disk size: 13754.3 KB)
+0004.251 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 5000 files added (on-disk size: 13754.3 KB)
+0004.252 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (20.5 MB, 7676 files batched, 1001 (5005) added so far); re-opening (prior size: 13754.3 KB)
+0005.050 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 5100 files added (on-disk size: 29013.2 KB)
+0005.055 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 5200 files added (on-disk size: 29013.2 KB)
+0005.059 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 5300 files added (on-disk size: 29013.2 KB)
+0005.063 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 5400 files added (on-disk size: 29013.2 KB)
+0005.067 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 5500 files added (on-disk size: 29013.2 KB)
+0005.073 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 5600 files added (on-disk size: 29013.2 KB)
+0005.077 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 5700 files added (on-disk size: 29013.2 KB)
+0005.082 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 5800 files added (on-disk size: 29013.2 KB)
+0005.086 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 5900 files added (on-disk size: 29013.2 KB)
+0005.090 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 6000 files added (on-disk size: 29013.2 KB)
+0005.093 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (15.3 MB, 7676 files batched, 1001 (6006) added so far); re-opening (prior size: 29013.2 KB)
+0006.708 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 6100 files added (on-disk size: 33456.5 KB)
+0006.714 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 6200 files added (on-disk size: 33456.5 KB)
+0006.719 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 6300 files added (on-disk size: 33456.5 KB)
+0006.723 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 6400 files added (on-disk size: 33456.5 KB)
+0006.727 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 6500 files added (on-disk size: 33456.5 KB)
+0006.731 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 6600 files added (on-disk size: 33456.5 KB)
+0006.735 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 6700 files added (on-disk size: 33456.5 KB)
+0006.739 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 6800 files added (on-disk size: 33456.5 KB)
+0006.742 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 6900 files added (on-disk size: 33456.5 KB)
+0006.748 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 7000 files added (on-disk size: 33456.5 KB)
+0006.749 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (18.6 MB, 7676 files batched, 1001 (7007) added so far); re-opening (prior size: 33456.5 KB)
+0008.399 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 7100 files added (on-disk size: 39899.4 KB)
+0008.403 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 7200 files added (on-disk size: 39899.4 KB)
+0008.407 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 7300 files added (on-disk size: 39899.4 KB)
+0008.411 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 7400 files added (on-disk size: 39899.4 KB)
+0008.416 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 7500 files added (on-disk size: 39899.4 KB)
+0008.421 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.tmp: 7600 files added (on-disk size: 39899.4 KB)
+0009.142 (0) Creating zip file manifest (backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.list-temp.tmp)
+0009.155 (0) Successfully created zip file manifest (size: 642751)
+0009.556 (0) Created plugins zip (0) - 41502 KB in 9.5 s (4379.3 KB/s) (sha1: 5f002a2992efd1ceed41ddd255829f7b1ca2f188, sha256: 0a252dd6671dd914a17c17edce4bf1335895de0ea5efe157590dfd5e57cca396)
+0009.567 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0009.568 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-c42308bcf9272e52d9b5c2d7aa00c2a8)
+0012.247 (0) Google Drive: quota usage: used=408.7 MB, total=15360 MB, available=14951.3 MB
+0012.248 (0) Google Drive: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip: Attempting to upload to Google Drive (into folder id: 16FnQRzY9SOGoYKyclj6R3myoAHlBDj3G)
+0013.368 (0) Googledrive chunked upload: 2.5 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 13.6 / 18)
+0013.758 (0) Googledrive chunked upload: 7.4 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 13.6 / 18)
+0014.175 (0) Googledrive chunked upload: 17.3 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 13.6 / 18)
+0014.700 (0) Googledrive chunked upload: 37 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 13.6 / 18)
+0015.534 (0) Googledrive chunked upload: 76.5 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 13.6 / 18)
+0017.248 (0) Googledrive chunked upload: 100 % uploaded (32505856)
+0017.259 (0) Google Drive: OK: Archive backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip uploaded in 5.01 seconds
+0017.260 (0) Recording as successfully uploaded: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip
+0017.270 (0) Deleting local file: backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip: OK
+0017.277 (0) Beginning creation of dump of themes (split every: 400 MB)
+0017.316 (0) Total entities for the zip file: 72 directories, 425 files (0 skipped as non-modified), 13.6 MB
+0017.321 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0017.326 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0017.342 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0017.349 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0018.084 (0) Creating zip file manifest (backup_2024-07-30-0213_Techpirates_95d52afcad03-themes.zip.list-temp.tmp)
+0018.086 (0) Successfully created zip file manifest (size: 29348)
+0018.204 (0) Created themes zip (0) - 11829.1 KB in 0.9 s (12803 KB/s) (sha1: 1c58ed34a4a1d7ce4460d916b63893a8bf7a2993, sha256: 7ba4fab15c29834b35e385a1b9d09f3dca639afe9a09ac02a686a115326cf823)
+0018.209 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0018.210 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-c42308bcf9272e52d9b5c2d7aa00c2a8)
+0019.228 (0) Google Drive: quota usage: used=449.3 MB, total=15360 MB, available=14910.7 MB
+0019.230 (0) Google Drive: backup_2024-07-30-0213_Techpirates_95d52afcad03-themes.zip: Attempting to upload to Google Drive (into folder id: 16FnQRzY9SOGoYKyclj6R3myoAHlBDj3G)
+0020.436 (0) Googledrive chunked upload: 8.7 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 12.5 / 18)
+0020.823 (0) Googledrive chunked upload: 26 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 12.5 / 18)
+0021.261 (0) Googledrive chunked upload: 60.6 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 12.5 / 18)
+0022.630 (0) Googledrive chunked upload: 100 % uploaded (7340032)
+0022.636 (0) Google Drive: OK: Archive backup_2024-07-30-0213_Techpirates_95d52afcad03-themes.zip uploaded in 3.4 seconds
+0022.637 (0) Recording as successfully uploaded: backup_2024-07-30-0213_Techpirates_95d52afcad03-themes.zip
+0022.642 (0) Deleting local file: backup_2024-07-30-0213_Techpirates_95d52afcad03-themes.zip: OK
+0022.648 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0022.649 (0) Looking for candidates to backup in: /var/www/html/techpirates/wp-content/uploads
+0022.650 (0) finding files: wc-logs: adding to list (1)
+0022.651 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (2)
+0022.652 (0) finding files: qubely: adding to list (3)
+0022.653 (0) finding files: .htaccess: adding to list (4)
+0022.654 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (5)
+0022.655 (0) finding files: woocommerce_uploads: adding to list (6)
+0022.656 (0) finding files: 2021: adding to list (7)
+0022.657 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (8)
+0022.657 (0) finding files: 2023: adding to list (9)
+0022.660 (0) finding files: wpo-plugins-tables-list.json: adding to list (10)
+0022.662 (0) finding files: woocommerce-placeholder-160x90.png: adding to list (11)
+0022.663 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (12)
+0022.666 (0) finding files: wpo: adding to list (13)
+0022.668 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (14)
+0022.669 (0) finding files: 2024: adding to list (15)
+0022.670 (0) finding files: woocommerce-placeholder.png: adding to list (16)
+0022.672 (0) finding files: 2019: adding to list (17)
+0022.675 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (18)
+0022.687 (0) finding files: optimole-logs: adding to list (19)
+0022.693 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0022.724 (0) Total entities for the zip file: 21 directories, 630 files (0 skipped as non-modified), 20.8 MB
+0022.728 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0022.731 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0022.735 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0022.739 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0022.742 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0022.746 (0) Zip: backup_2024-07-30-0213_Techpirates_95d52afcad03-uploads.zip.tmp: 600 files added (on-disk size: 0 KB)
+0023.292 (0) Creating zip file manifest (backup_2024-07-30-0213_Techpirates_95d52afcad03-uploads.zip.list-temp.tmp)
+0023.295 (0) Successfully created zip file manifest (size: 37450)
+0023.518 (0) Created uploads zip (0) - 18823.7 KB in 0.8 s (23001.8 KB/s) (sha1: a95dbe76d1c94bdb3e2e92841a10fcdcce0896dc, sha256: e50cc5de116b8317cd3baf1879f8d95fc8e667ed6ada0db144cf2efbfd5c5db5)
+0023.524 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0023.526 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-c42308bcf9272e52d9b5c2d7aa00c2a8)
+0024.377 (0) Google Drive: quota usage: used=460.8 MB, total=15360 MB, available=14899.2 MB
+0024.379 (0) Google Drive: backup_2024-07-30-0213_Techpirates_95d52afcad03-uploads.zip: Attempting to upload to Google Drive (into folder id: 16FnQRzY9SOGoYKyclj6R3myoAHlBDj3G)
+0025.613 (0) Googledrive chunked upload: 5.4 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 12.6 / 18)
+0025.984 (0) Googledrive chunked upload: 16.3 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 12.6 / 18)
+0026.407 (0) Googledrive chunked upload: 38.1 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 12.6 / 18)
+0026.878 (0) Googledrive chunked upload: 81.6 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 12.6 / 18)
+0028.339 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0028.344 (0) Google Drive: OK: Archive backup_2024-07-30-0213_Techpirates_95d52afcad03-uploads.zip uploaded in 3.96 seconds
+0028.346 (0) Recording as successfully uploaded: backup_2024-07-30-0213_Techpirates_95d52afcad03-uploads.zip
+0028.354 (0) Deleting local file: backup_2024-07-30-0213_Techpirates_95d52afcad03-uploads.zip: OK
+0028.360 (0) Beginning creation of dump of mu-plugins (split every: 400 MB)
+0028.361 (0) Does not exist: /var/www/html/techpirates/wp-content/mu-plugins
+0028.362 (0) There are no mu-plugins to backup. Will not raise an error.
+0028.363 (0) mu-plugins: create_zip returned an error
+0028.365 (0) Beginning backup of other directories found in the content directory (index: 0)
+0028.366 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0028.367 (0) Looking for candidates to backup in: /var/www/html/techpirates/wp-content
+0028.367 (0) finding files: updraft: skipping: this is the updraft directory
+0028.368 (0) finding files: upgrade-temp-backup: adding to list (1)
+0028.369 (0) finding files: cache: skipping: excluded by options
+0028.369 (0) finding files: tutor_import.json: adding to list (2)
+0028.371 (0) finding files: upgrade: skipping: excluded by options
+0028.372 (0) finding files: uploads: skipping: this is the uploads directory
+0028.372 (0) finding files: index.php: adding to list (3)
+0028.373 (0) finding files: themes: skipping: this is the themes directory
+0028.374 (0) finding files: plugins: skipping: this is the plugins directory
+0028.378 (0) Total entities for the zip file: 1 directories, 2 files (0 skipped as non-modified), 1.3 MB
+0028.423 (0) Creating zip file manifest (backup_2024-07-30-0213_Techpirates_95d52afcad03-others.zip.list-temp.tmp)
+0028.425 (0) Successfully created zip file manifest (size: 73)
+0028.433 (0) Created others zip (0) - 92.1 KB in 0.1 s (1662.6 KB/s) (sha1: 7dd8f24540e54b23bac4b51e2d88d82e3d4cb231, sha256: 006045370579094513c9225d4b1eb432b54030138a571059b0f46a907f1fe70e)
+0028.438 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0028.439 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-c42308bcf9272e52d9b5c2d7aa00c2a8)
+0028.886 (0) Google Drive: quota usage: used=479.2 MB, total=15360 MB, available=14880.8 MB
+0028.888 (0) Google Drive: backup_2024-07-30-0213_Techpirates_95d52afcad03-others.zip: Attempting to upload to Google Drive (into folder id: 16FnQRzY9SOGoYKyclj6R3myoAHlBDj3G)
+0030.986 (0) Googledrive chunked upload: 100 % uploaded
+0030.990 (0) Google Drive: OK: Archive backup_2024-07-30-0213_Techpirates_95d52afcad03-others.zip uploaded in 2.1 seconds
+0030.991 (0) Recording as successfully uploaded: backup_2024-07-30-0213_Techpirates_95d52afcad03-others.zip
+0030.993 (0) Deleting local file: backup_2024-07-30-0213_Techpirates_95d52afcad03-others.zip: OK
+0031.000 (0) Saving backup status to database (elements: 8)
+0031.006 (0) Beginning creation of database dump (WordPress DB)
+0031.008 (0) SQL compatibility mode is: ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0031.012 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0031.034 (0) Output: /*!999999\- enable the sandbox mode */ \n/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 (truncated - 1494 bytes total)
+0031.036 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0031.054 (0) Table wp_options: Total expected rows (via COUNT): 471
+0031.055 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.074 (0) Table wp_options: Rows added in this batch (next record: 17337): 467 (uncompressed bytes in this segment=635581) in 0.03 seconds
+0031.080 (0) Table wp_options: finishing file(s) (2, 71.6 KB)
+0031.084 (0) Table wp_users: Total expected rows (via COUNT): 14
+0031.085 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.088 (0) Table wp_users: Rows added in this batch (next record: 15): 14 (uncompressed bytes in this segment=3233) in 0.01 seconds
+0031.092 (0) Table wp_users: finishing file(s) (2, 1.5 KB)
+0031.097 (0) Table wp_usermeta: Total expected rows (via COUNT): 367
+0031.098 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.104 (0) Table wp_usermeta: Rows added in this batch (next record: 462): 367 (uncompressed bytes in this segment=23232) in 0.01 seconds
+0031.111 (0) Table wp_usermeta: finishing file(s) (2, 5.7 KB)
+0031.118 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 95
+0031.119 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.125 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 183): 95 (uncompressed bytes in this segment=47560) in 0.01 seconds
+0031.131 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 4 KB)
+0031.135 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0031.138 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=627) in 0.00 seconds
+0031.142 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0031.146 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 4
+0031.147 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.150 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=741) in 0.00 seconds
+0031.155 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0031.160 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 281
+0031.161 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.167 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 503): 281 (uncompressed bytes in this segment=24899) in 0.01 seconds
+0031.172 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 3.1 KB)
+0031.179 (0) Table wp_commentmeta: Total expected rows (via COUNT): 2
+0031.180 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.183 (0) Table wp_commentmeta: Rows added in this batch (next record: 247): 2 (uncompressed bytes in this segment=757) in 0.01 seconds
+0031.188 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0031.198 (0) Table wp_comments: Total expected rows (via COUNT): 3
+0031.200 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.205 (0) Table wp_comments: Rows added in this batch (next record: 246): 3 (uncompressed bytes in this segment=2357) in 0.01 seconds
+0031.214 (0) Table wp_comments: finishing file(s) (2, 0.9 KB)
+0031.218 (0) Table wp_links: Total expected rows (via COUNT): 0
+0031.220 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.00 seconds
+0031.224 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0031.230 (0) Table wp_postmeta: Total expected rows (approximate): 1220
+0031.257 (0) Table wp_postmeta: Rows added in this batch (next record: 1888): 1319 (uncompressed bytes in this segment=1085815) in 0.03 seconds
+0031.264 (0) Table wp_postmeta: finishing file(s) (2, 52.3 KB)
+0031.270 (0) Table wp_posts: Total expected rows (via COUNT): 504
+0031.287 (0) Table wp_posts: Rows added in this batch (next record: 4173): 504 (uncompressed bytes in this segment=386213) in 0.02 seconds
+0031.293 (0) Table wp_posts: finishing file(s) (2, 40.1 KB)
+0031.296 (0) Table wp_term_relationships: Total expected rows (approximate): 54
+0031.299 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 56 (uncompressed bytes in this segment=1558) in 0.00 seconds
+0031.302 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0031.308 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 40
+0031.309 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.311 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 40): 40 (uncompressed bytes in this segment=2302) in 0.01 seconds
+0031.317 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.7 KB)
+0031.323 (0) Table wp_termmeta: Total expected rows (via COUNT): 1
+0031.324 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.328 (0) Table wp_termmeta: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=701) in 0.01 seconds
+0031.333 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0031.336 (0) Table wp_terms: Total expected rows (via COUNT): 40
+0031.337 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.340 (0) Table wp_terms: Rows added in this batch (next record: 40): 40 (uncompressed bytes in this segment=2194) in 0.00 seconds
+0031.345 (0) Table wp_terms: finishing file(s) (2, 0.9 KB)
+0031.348 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 1
+0031.351 (0) Table wp_wc_category_lookup: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=589) in 0.00 seconds
+0031.355 (0) Table wp_wc_category_lookup: finishing file(s) (2, 0.3 KB)
+0031.359 (0) Table wp_wc_product_meta_lookup: Total expected rows (via COUNT): 1
+0031.360 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.362 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (next record: 4150): 1 (uncompressed bytes in this segment=1368) in 0.00 seconds
+0031.367 (0) Table wp_wc_product_meta_lookup: finishing file(s) (2, 0.6 KB)
+0031.371 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0031.373 (0) Table wp_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=663) in 0.00 seconds
+0031.377 (0) Table wp_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0031.384 (0) Table wp_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0031.385 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.388 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=750) in 0.00 seconds
+0031.391 (0) Table wp_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0031.397 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (via COUNT): 0
+0031.399 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=722) in 0.00 seconds
+0031.404 (0) Table wp_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0031.408 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0031.410 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=749) in 0.00 seconds
+0031.414 (0) Table wp_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0031.417 (0) Table wp_post_views: Total expected rows (approximate): 121
+0031.420 (0) Table wp_post_views: Rows added in this batch (next record: 1000): 121 (uncompressed bytes in this segment=3706) in 0.00 seconds
+0031.424 (0) Table wp_post_views: finishing file(s) (2, 0.9 KB)
+0031.429 (0) Table wp_tm_taskmeta: Total expected rows (via COUNT): 0
+0031.431 (0) Table wp_tm_taskmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.00 seconds
+0031.435 (0) Table wp_tm_taskmeta: finishing file(s) (2, 0.4 KB)
+0031.439 (0) Table wp_tm_tasks: Total expected rows (via COUNT): 0
+0031.442 (0) Table wp_tm_tasks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=768) in 0.00 seconds
+0031.445 (0) Table wp_tm_tasks: finishing file(s) (2, 0.4 KB)
+0031.448 (0) Table wp_tutor_earnings: Total expected rows (via COUNT): 0
+0031.449 (0) Table wp_tutor_earnings: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1167) in 0.00 seconds
+0031.453 (0) Table wp_tutor_earnings: finishing file(s) (2, 0.5 KB)
+0031.458 (0) Table wp_tutor_quiz_attempt_answers: Total expected rows (via COUNT): 0
+0031.462 (0) Table wp_tutor_quiz_attempt_answers: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=903) in 0.01 seconds
+0031.477 (0) Table wp_tutor_quiz_attempt_answers: finishing file(s) (2, 0.4 KB)
+0031.488 (0) Table wp_tutor_quiz_attempts: Total expected rows (via COUNT): 0
+0031.495 (0) Table wp_tutor_quiz_attempts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1075) in 0.01 seconds
+0031.502 (0) Table wp_tutor_quiz_attempts: finishing file(s) (2, 0.5 KB)
+0031.507 (0) Table wp_tutor_quiz_question_answers: Total expected rows (via COUNT): 0
+0031.509 (0) Table wp_tutor_quiz_question_answers: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=906) in 0.00 seconds
+0031.513 (0) Table wp_tutor_quiz_question_answers: finishing file(s) (2, 0.4 KB)
+0031.519 (0) Table wp_tutor_quiz_questions: Total expected rows (via COUNT): 0
+0031.521 (0) Table wp_tutor_quiz_questions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=825) in 0.00 seconds
+0031.526 (0) Table wp_tutor_quiz_questions: finishing file(s) (2, 0.4 KB)
+0031.530 (0) Table wp_tutor_withdraws: Total expected rows (via COUNT): 0
+0031.532 (0) Table wp_tutor_withdraws: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=677) in 0.00 seconds
+0031.536 (0) Table wp_tutor_withdraws: finishing file(s) (2, 0.4 KB)
+0031.542 (0) Table wp_wc_admin_note_actions: Total expected rows (via COUNT): 98
+0031.543 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.546 (0) Table wp_wc_admin_note_actions: Rows added in this batch (next record: 5540): 98 (uncompressed bytes in this segment=19047) in 0.01 seconds
+0031.552 (0) Table wp_wc_admin_note_actions: finishing file(s) (2, 3.2 KB)
+0031.557 (0) Table wp_wc_admin_notes: Total expected rows (via COUNT): 69
+0031.557 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.561 (0) Table wp_wc_admin_notes: Rows added in this batch (next record: 69): 69 (uncompressed bytes in this segment=33464) in 0.01 seconds
+0031.567 (0) Table wp_wc_admin_notes: finishing file(s) (2, 7.4 KB)
+0031.571 (0) Table wp_wc_customer_lookup: Total expected rows (via COUNT): 0
+0031.573 (0) Table wp_wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1018) in 0.00 seconds
+0031.581 (0) Table wp_wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0031.586 (0) Table wp_wc_download_log: Total expected rows (via COUNT): 0
+0031.587 (0) Table wp_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=716) in 0.00 seconds
+0031.591 (0) Table wp_wc_download_log: finishing file(s) (2, 0.4 KB)
+0031.594 (0) Table wp_wc_order_addresses: Total expected rows (via COUNT): 0
+0031.596 (0) Table wp_wc_order_addresses: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1058) in 0.00 seconds
+0031.600 (0) Table wp_wc_order_addresses: finishing file(s) (2, 0.5 KB)
+0031.603 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0031.604 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=715) in 0.00 seconds
+0031.608 (0) Table wp_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0031.612 (0) Table wp_wc_order_operational_data: Total expected rows (via COUNT): 0
+0031.614 (0) Table wp_wc_order_operational_data: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1399) in 0.00 seconds
+0031.618 (0) Table wp_wc_order_operational_data: finishing file(s) (2, 0.6 KB)
+0031.622 (0) Table wp_wc_order_product_lookup: Total expected rows (via COUNT): 0
+0031.623 (0) Table wp_wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1215) in 0.00 seconds
+0031.628 (0) Table wp_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0031.632 (0) Table wp_wc_order_stats: Total expected rows (via COUNT): 0
+0031.633 (0) Table wp_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1192) in 0.00 seconds
+0031.636 (0) Table wp_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0031.640 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0031.641 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=793) in 0.00 seconds
+0031.645 (0) Table wp_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0031.649 (0) Table wp_wc_orders: Total expected rows (via COUNT): 0
+0031.650 (0) Table wp_wc_orders: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1417) in 0.00 seconds
+0031.654 (0) Table wp_wc_orders: finishing file(s) (2, 0.5 KB)
+0031.657 (0) Table wp_wc_orders_meta: Total expected rows (via COUNT): 0
+0031.660 (0) Table wp_wc_orders_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=702) in 0.00 seconds
+0031.664 (0) Table wp_wc_orders_meta: finishing file(s) (2, 0.4 KB)
+0031.667 (0) Table wp_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0031.669 (0) Table wp_wc_product_attributes_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=831) in 0.00 seconds
+0031.673 (0) Table wp_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0031.677 (0) Table wp_wc_product_download_directories: Total expected rows (via COUNT): 2
+0031.678 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.680 (0) Table wp_wc_product_download_directories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=878) in 0.00 seconds
+0031.684 (0) Table wp_wc_product_download_directories: finishing file(s) (2, 0.5 KB)
+0031.687 (0) Table wp_wc_rate_limits: Total expected rows (via COUNT): 0
+0031.690 (0) Table wp_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=667) in 0.00 seconds
+0031.693 (0) Table wp_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0031.696 (0) Table wp_wc_webhooks: Total expected rows (via COUNT): 0
+0031.698 (0) Table wp_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1071) in 0.00 seconds
+0031.701 (0) Table wp_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0031.706 (0) Table wp_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0031.707 (0) Table wp_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=873) in 0.00 seconds
+0031.712 (0) Table wp_woocommerce_api_keys: finishing file(s) (2, 0.4 KB)
+0031.715 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0031.717 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=835) in 0.00 seconds
+0031.721 (0) Table wp_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0031.725 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0031.726 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1410) in 0.00 seconds
+0031.730 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0031.736 (0) Table wp_woocommerce_log: Total expected rows (via COUNT): 0
+0031.737 (0) Table wp_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=642) in 0.00 seconds
+0031.742 (0) Table wp_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0031.745 (0) Table wp_woocommerce_order_items: Total expected rows (via COUNT): 0
+0031.747 (0) Table wp_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=677) in 0.00 seconds
+0031.753 (0) Table wp_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0031.758 (0) Table wp_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0031.759 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=744) in 0.00 seconds
+0031.763 (0) Table wp_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0031.768 (0) Table wp_woocommerce_sessions: Total expected rows (via COUNT): 0
+0031.769 (0) Table wp_woocommerce_sessions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=673) in 0.00 seconds
+0031.774 (0) Table wp_woocommerce_sessions: finishing file(s) (2, 0.4 KB)
+0031.778 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 0
+0031.779 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=804) in 0.00 seconds
+0031.783 (0) Table wp_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0031.787 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 0
+0031.789 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=742) in 0.00 seconds
+0031.793 (0) Table wp_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0031.797 (0) Table wp_woocommerce_shipping_zones: Total expected rows (via COUNT): 0
+0031.798 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=602) in 0.00 seconds
+0031.803 (0) Table wp_woocommerce_shipping_zones: finishing file(s) (2, 0.3 KB)
+0031.807 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0031.808 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=786) in 0.00 seconds
+0031.813 (0) Table wp_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0031.817 (0) Table wp_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0031.818 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1142) in 0.00 seconds
+0031.822 (0) Table wp_woocommerce_tax_rates: finishing file(s) (2, 0.4 KB)
+0031.823 (0) PHP event: code E_WARNING: filemtime(): stat failed for /var/www/html/techpirates/wp-content/updraft/backup_2024-07-30-0213_Techpirates_95d52afcad03-db.gz (line 1925, wp-content/plugins/updraftplus/backup.php)
+0031.825 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_options.table.tmpr17338.gz (1/59/fopen): adding to final database dump
+0031.826 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_options.table.gz (2/59/fopen): adding to final database dump
+0031.827 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_users.table.tmpr16.gz (3/59/fopen): adding to final database dump
+0031.828 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_users.table.gz (4/59/fopen): adding to final database dump
+0031.829 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_usermeta.table.tmpr463.gz (5/59/fopen): adding to final database dump
+0031.829 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_usermeta.table.gz (6/59/fopen): adding to final database dump
+0031.830 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_actionscheduler_actions.table.tmpr184.gz (7/59/fopen): adding to final database dump
+0031.831 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_actionscheduler_actions.table.gz (8/59/fopen): adding to final database dump
+0031.832 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/59/fopen): adding to final database dump
+0031.834 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_actionscheduler_claims.table.gz (10/59/fopen): adding to final database dump
+0031.835 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_actionscheduler_groups.table.tmpr5.gz (11/59/fopen): adding to final database dump
+0031.835 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_actionscheduler_groups.table.gz (12/59/fopen): adding to final database dump
+0031.836 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_actionscheduler_logs.table.tmpr504.gz (13/59/fopen): adding to final database dump
+0031.837 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_actionscheduler_logs.table.gz (14/59/fopen): adding to final database dump
+0031.837 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_commentmeta.table.tmpr248.gz (15/59/fopen): adding to final database dump
+0031.838 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_commentmeta.table.gz (16/59/fopen): adding to final database dump
+0031.839 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_comments.table.tmpr247.gz (17/59/fopen): adding to final database dump
+0031.840 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_comments.table.gz (18/59/fopen): adding to final database dump
+0031.840 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_links.table.tmpr0.gz (19/59/fopen): adding to final database dump
+0031.841 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_links.table.gz (20/59/fopen): adding to final database dump
+0031.842 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_postmeta.table.tmpr1889.gz (21/59/fopen): adding to final database dump
+0031.843 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_postmeta.table.gz (22/59/fopen): adding to final database dump
+0031.844 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_posts.table.tmpr4174.gz (23/59/fopen): adding to final database dump
+0031.845 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_posts.table.gz (24/59/fopen): adding to final database dump
+0031.846 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_term_relationships.table.tmpr100001.gz (25/59/fopen): adding to final database dump
+0031.847 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_term_relationships.table.gz (26/59/fopen): adding to final database dump
+0031.847 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_term_taxonomy.table.tmpr41.gz (27/59/fopen): adding to final database dump
+0031.848 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_term_taxonomy.table.gz (28/59/fopen): adding to final database dump
+0031.849 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_termmeta.table.tmpr2.gz (29/59/fopen): adding to final database dump
+0031.850 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_termmeta.table.gz (30/59/fopen): adding to final database dump
+0031.850 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_terms.table.tmpr41.gz (31/59/fopen): adding to final database dump
+0031.851 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_terms.table.gz (32/59/fopen): adding to final database dump
+0031.852 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_category_lookup.table.tmpr1001.gz (33/59/fopen): adding to final database dump
+0031.853 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_category_lookup.table.gz (34/59/fopen): adding to final database dump
+0031.853 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_product_meta_lookup.table.tmpr4151.gz (35/59/fopen): adding to final database dump
+0031.854 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_product_meta_lookup.table.gz (36/59/fopen): adding to final database dump
+0031.855 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_reserved_stock.table.tmpr1.gz (37/59/fopen): adding to final database dump
+0031.856 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_reserved_stock.table.gz (38/59/fopen): adding to final database dump
+0031.856 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_tax_rate_classes.table.tmpr3.gz (39/59/fopen): adding to final database dump
+0031.857 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_tax_rate_classes.table.gz (40/59/fopen): adding to final database dump
+0031.858 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_order_itemmeta.table.tmpr0.gz (41/59/fopen): adding to final database dump
+0031.859 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_order_itemmeta.table.gz (42/59/fopen): adding to final database dump
+0031.859 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_payment_tokenmeta.table.tmpr0.gz (43/59/fopen): adding to final database dump
+0031.860 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_payment_tokenmeta.table.gz (44/59/fopen): adding to final database dump
+0031.861 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_post_views.table.tmpr1001.gz (45/59/fopen): adding to final database dump
+0031.862 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_post_views.table.gz (46/59/fopen): adding to final database dump
+0031.862 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_tm_taskmeta.table.tmpr0.gz (47/59/fopen): adding to final database dump
+0031.863 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_tm_taskmeta.table.gz (48/59/fopen): adding to final database dump
+0031.864 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_tm_tasks.table.tmpr0.gz (49/59/fopen): adding to final database dump
+0031.865 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_tm_tasks.table.gz (50/59/fopen): adding to final database dump
+0031.865 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_tutor_earnings.table.tmpr0.gz (51/59/fopen): adding to final database dump
+0031.866 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_tutor_earnings.table.gz (52/59/fopen): adding to final database dump
+0031.867 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_tutor_quiz_attempt_answers.table.tmpr0.gz (53/59/fopen): adding to final database dump
+0031.868 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_tutor_quiz_attempt_answers.table.gz (54/59/fopen): adding to final database dump
+0031.868 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_tutor_quiz_attempts.table.tmpr0.gz (55/59/fopen): adding to final database dump
+0031.869 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_tutor_quiz_attempts.table.gz (56/59/fopen): adding to final database dump
+0031.870 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_tutor_quiz_question_answers.table.tmpr0.gz (57/59/fopen): adding to final database dump
+0031.871 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_tutor_quiz_question_answers.table.gz (58/59/fopen): adding to final database dump
+0031.871 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_tutor_quiz_questions.table.tmpr0.gz (59/59/fopen): adding to final database dump
+0031.872 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_tutor_quiz_questions.table.gz (60/59/fopen): adding to final database dump
+0031.873 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_tutor_withdraws.table.tmpr0.gz (61/59/fopen): adding to final database dump
+0031.874 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_tutor_withdraws.table.gz (62/59/fopen): adding to final database dump
+0031.875 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_admin_note_actions.table.tmpr5541.gz (63/59/fopen): adding to final database dump
+0031.876 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_admin_note_actions.table.gz (64/59/fopen): adding to final database dump
+0031.876 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_admin_notes.table.tmpr70.gz (65/59/fopen): adding to final database dump
+0031.877 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_admin_notes.table.gz (66/59/fopen): adding to final database dump
+0031.878 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_customer_lookup.table.tmpr0.gz (67/59/fopen): adding to final database dump
+0031.879 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_customer_lookup.table.gz (68/59/fopen): adding to final database dump
+0031.880 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_download_log.table.tmpr0.gz (69/59/fopen): adding to final database dump
+0031.880 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_download_log.table.gz (70/59/fopen): adding to final database dump
+0031.881 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_order_addresses.table.tmpr0.gz (71/59/fopen): adding to final database dump
+0031.882 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_order_addresses.table.gz (72/59/fopen): adding to final database dump
+0031.883 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_order_coupon_lookup.table.tmpr1.gz (73/59/fopen): adding to final database dump
+0031.883 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_order_coupon_lookup.table.gz (74/59/fopen): adding to final database dump
+0031.884 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_order_operational_data.table.tmpr0.gz (75/59/fopen): adding to final database dump
+0031.885 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_order_operational_data.table.gz (76/59/fopen): adding to final database dump
+0031.886 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_order_product_lookup.table.tmpr0.gz (77/59/fopen): adding to final database dump
+0031.886 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_order_product_lookup.table.gz (78/59/fopen): adding to final database dump
+0031.887 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_order_stats.table.tmpr0.gz (79/59/fopen): adding to final database dump
+0031.888 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_order_stats.table.gz (80/59/fopen): adding to final database dump
+0031.889 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_order_tax_lookup.table.tmpr1.gz (81/59/fopen): adding to final database dump
+0031.889 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_order_tax_lookup.table.gz (82/59/fopen): adding to final database dump
+0031.890 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_orders.table.tmpr0.gz (83/59/fopen): adding to final database dump
+0031.891 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_orders.table.gz (84/59/fopen): adding to final database dump
+0031.892 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_orders_meta.table.tmpr0.gz (85/59/fopen): adding to final database dump
+0031.892 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_orders_meta.table.gz (86/59/fopen): adding to final database dump
+0031.893 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_product_attributes_lookup.table.tmpr1.gz (87/59/fopen): adding to final database dump
+0031.894 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_product_attributes_lookup.table.gz (88/59/fopen): adding to final database dump
+0031.895 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_product_download_directories.table.tmpr3.gz (89/59/fopen): adding to final database dump
+0031.895 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_product_download_directories.table.gz (90/59/fopen): adding to final database dump
+0031.896 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_rate_limits.table.tmpr0.gz (91/59/fopen): adding to final database dump
+0031.897 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_rate_limits.table.gz (92/59/fopen): adding to final database dump
+0031.897 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_webhooks.table.tmpr0.gz (93/59/fopen): adding to final database dump
+0031.898 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_wc_webhooks.table.gz (94/59/fopen): adding to final database dump
+0031.899 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_api_keys.table.tmpr0.gz (95/59/fopen): adding to final database dump
+0031.900 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_api_keys.table.gz (96/59/fopen): adding to final database dump
+0031.900 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_attribute_taxonomies.table.tmpr0.gz (97/59/fopen): adding to final database dump
+0031.901 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_attribute_taxonomies.table.gz (98/59/fopen): adding to final database dump
+0031.902 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_downloadable_product_permissions.table.tmpr0.gz (99/59/fopen): adding to final database dump
+0031.904 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (100/59/fopen): adding to final database dump
+0031.904 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_log.table.tmpr0.gz (101/59/fopen): adding to final database dump
+0031.905 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_log.table.gz (102/59/fopen): adding to final database dump
+0031.906 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_order_items.table.tmpr0.gz (103/59/fopen): adding to final database dump
+0031.907 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_order_items.table.gz (104/59/fopen): adding to final database dump
+0031.908 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_payment_tokens.table.tmpr0.gz (105/59/fopen): adding to final database dump
+0031.908 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_payment_tokens.table.gz (106/59/fopen): adding to final database dump
+0031.909 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_sessions.table.tmpr0.gz (107/59/fopen): adding to final database dump
+0031.910 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_sessions.table.gz (108/59/fopen): adding to final database dump
+0031.911 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_shipping_zone_locations.table.tmpr0.gz (109/59/fopen): adding to final database dump
+0031.911 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_shipping_zone_locations.table.gz (110/59/fopen): adding to final database dump
+0031.912 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_shipping_zone_methods.table.tmpr0.gz (111/59/fopen): adding to final database dump
+0031.913 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_shipping_zone_methods.table.gz (112/59/fopen): adding to final database dump
+0031.913 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_shipping_zones.table.tmpr0.gz (113/59/fopen): adding to final database dump
+0031.914 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_shipping_zones.table.gz (114/59/fopen): adding to final database dump
+0031.915 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_tax_rate_locations.table.tmpr0.gz (115/59/fopen): adding to final database dump
+0031.916 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_tax_rate_locations.table.gz (116/59/fopen): adding to final database dump
+0031.916 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_tax_rates.table.tmpr0.gz (117/59/fopen): adding to final database dump
+0031.917 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db-table-wp_woocommerce_tax_rates.table.gz (118/59/fopen): adding to final database dump
+0031.921 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db.gz: finished writing out complete database file (211.5 KB)
+0031.932 (0) Total database tables backed up: 59 (backup_2024-07-30-0213_Techpirates_95d52afcad03-db.gz, size: 216676, sha1: 61c913d90559c3a86fb120db40825614c1c587b2, sha256: f6ee8bde19395cc0b00765459c0c5eb22c491a6428b833857fc6cf81d902311d)
+0031.941 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip: plugins: This file has already been successfully uploaded
+0031.942 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-themes.zip: themes: This file has already been successfully uploaded
+0031.943 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-uploads.zip: uploads: This file has already been successfully uploaded
+0031.944 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-others.zip: others: This file has already been successfully uploaded
+0031.944 (0) backup_2024-07-30-0213_Techpirates_95d52afcad03-db.gz: db: This file has not yet been successfully uploaded: will queue
+0031.945 (0) Saving backup history. Total backup size: 70.8 MB
+0031.948 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0031.952 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0031.953 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-c42308bcf9272e52d9b5c2d7aa00c2a8)
+0035.454 (0) Google Drive: quota usage: used=479.3 MB, total=15360 MB, available=14880.7 MB
+0035.456 (0) Google Drive: backup_2024-07-30-0213_Techpirates_95d52afcad03-db.gz: Attempting to upload to Google Drive (into folder id: 16FnQRzY9SOGoYKyclj6R3myoAHlBDj3G)
+0037.649 (0) Googledrive chunked upload: 100 % uploaded
+0037.653 (0) Google Drive: OK: Archive backup_2024-07-30-0213_Techpirates_95d52afcad03-db.gz uploaded in 2.2 seconds
+0037.654 (0) Recording as successfully uploaded: backup_2024-07-30-0213_Techpirates_95d52afcad03-db.gz
+0037.658 (0) Deleting local file: backup_2024-07-30-0213_Techpirates_95d52afcad03-db.gz: OK
+0037.661 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0037.662 (0) Number of backup sets in history: 5; groups (db): 1
+0037.664 (0) Examining (for databases) backup set with group_id=0, nonce=95d52afcad03, datestamp=1722305618 (Jul 30 2024 02:13:38)
+0037.664 (0) This backup set is the backup set just made, so will not be deleted.
+0037.664 (0) Examining (for databases) backup set with group_id=0, nonce=efd8408b0215, datestamp=1722218931 (Jul 29 2024 02:08:51)
+0037.664 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0037.665 (0) Examining (for databases) backup set with group_id=0, nonce=ac22e09d687b, datestamp=1722132419 (Jul 28 2024 02:06:59)
+0037.665 (0) 1722132419: db: this set includes a database (backup_2024-07-28-0206_Techpirates_ac22e09d687b-db.gz); db count is now 2
+0037.665 (0) 1722132419: db: over retain limit (2); will delete this database
+0040.910 (0) Google Drive: backup_2024-07-28-0206_Techpirates_ac22e09d687b-db.gz: Deletion successful
+0040.916 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0040.919 (0) Examining (for databases) backup set with group_id=0, nonce=43c51e332f86, datestamp=1718685739 (Jun 18 2024 04:42:19)
+0040.920 (0) This backup set (1718685739) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0040.920 (0) Examining (for databases) backup set with group_id=0, nonce=253a0becba98, datestamp=1717808568 (Jun 08 2024 01:02:48)
+0040.920 (0) This backup set (1717808568) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0040.920 (0) Number of backup sets in history: 5; groups (files): 1
+0040.920 (0) Examining (for files) backup set with nonce=95d52afcad03, datestamp=1722305618 (Jul 30 2024 02:13:38)
+0040.920 (0) This backup set is the backup set just made, so will not be deleted.
+0040.921 (0) This backup set is the backup set just made, so will not be deleted.
+0040.921 (0) This backup set is the backup set just made, so will not be deleted.
+0040.921 (0) This backup set is the backup set just made, so will not be deleted.
+0040.921 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0040.922 (0) Examining (for files) backup set with nonce=efd8408b0215, datestamp=1722218931 (Jul 29 2024 02:08:51)
+0040.922 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0040.922 (0) Examining (for files) backup set with nonce=ac22e09d687b, datestamp=1722132419 (Jul 28 2024 02:06:59)
+0040.922 (0) plugins: over retain limit (2); will delete this file entity
+0040.922 (0) themes: over retain limit (2); will delete this file entity
+0040.922 (0) uploads: over retain limit (2); will delete this file entity
+0040.922 (0) others: over retain limit (2); will delete this file entity
+0043.554 (0) Google Drive: backup_2024-07-28-0206_Techpirates_ac22e09d687b-others.zip: Deletion successful
+0044.256 (0) Google Drive: backup_2024-07-28-0206_Techpirates_ac22e09d687b-uploads.zip: Deletion successful
+0045.292 (0) Google Drive: backup_2024-07-28-0206_Techpirates_ac22e09d687b-themes.zip: Deletion successful
+0046.291 (0) Google Drive: backup_2024-07-28-0206_Techpirates_ac22e09d687b-plugins.zip: Deletion successful
+0046.297 (0) This backup set is now empty; will remove from history
+0046.298 (0) Deleting log file (log.ac22e09d687b.txt)
+0046.299 (0) Examining (for files) backup set with nonce=43c51e332f86, datestamp=1718685739 (Jun 18 2024 04:42:19)
+0046.300 (0) This backup set (1718685739) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0046.300 (0) This backup set (1718685739) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0046.300 (0) This backup set (1718685739) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0046.300 (0) This backup set (1718685739) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0046.300 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0046.301 (0) Examining (for files) backup set with nonce=253a0becba98, datestamp=1717808568 (Jun 08 2024 01:02:48)
+0046.301 (0) This backup set (1717808568) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0046.301 (0) This backup set (1717808568) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0046.301 (0) This backup set (1717808568) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0046.301 (0) This backup set (1717808568) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0046.301 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0046.301 (0) Retain: saving new backup history (sets now: 4) and finishing retain operation
+0046.305 (0) Resume backup (95d52afcad03, 0): finish run
+0046.307 (0) Decremented the semaphore (fd) by 1
+0046.309 (0) Semaphore (fd) unlocked
+0046.310 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0046.314 (0) Deleting zip manifest (backup_2024-07-30-0213_Techpirates_95d52afcad03-plugins.zip.list.tmp)
+0046.315 (0) Deleting zip manifest (backup_2024-07-30-0213_Techpirates_95d52afcad03-themes.zip.list.tmp)
+0046.316 (0) Deleting zip manifest (backup_2024-07-30-0213_Techpirates_95d52afcad03-uploads.zip.list.tmp)
+0046.316 (0) Deleting zip manifest (backup_2024-07-30-0213_Techpirates_95d52afcad03-others.zip.list.tmp)
+0046.317 (0) No email will/can be sent - the user has not configured an email address.
+0046.318 (0) The backup succeeded and is now complete

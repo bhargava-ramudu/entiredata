@@ -1,0 +1,60 @@
+= 1.1.5 =
+* Update  - 6.5 Compatibility
+
+= 1.1.4 =
+* Update  - 6.4 Compatibility
+* Update  - Discord Logo Changed
+
+= 1.1.3 =
+* Update  - 6.3 Compatibility
+* Update  - Twitter Logo Changed
+* Update  - PageSpeed Insights DOM Size reduced
+
+= 1.1.2 =
+* Update  - esc_html_e in place of echo esc_html_e
+* Update  - Category CTA Widget
+* Fixed  - widget-style-1 image blurred
+
+= 1.1.1 =
+* Update - 6.2 compatibility
+* Fixed  - Various small fixes.
+
+= 1.1.0 =
+* Update - RTL support
+* Fixed  - Various small fixes.
+
+= 1.0.9 =
+* Update - Site Branding
+* Update - Notification Icon
+* Update - Typo on source code
+
+= 1.0.8 =
+* Update - Design Adjustment
+* Fixed - content-rich-slider RTL issue
+
+= 1.0.7 =
+* New - Home Icon on main navigation
+* New - Revamped about page
+* Update - Design issue related with navigation
+* Fixed - Mega-menu dropdown not selection
+
+= 1.0.6 =
+* New change on admin section
+
+= 1.0.5 =
+* Update fixing CSS in repeater section and other section quick fixing
+
+= 1.0.4 =
+* Update fixing date issue on top header
+
+= 1.0.3 =
+* Update demo import and other quick fixing
+
+= 1.0.2 =
+* Update removing unwanted file style.php
+
+= 1.0.1 =
+* Update fixing clock issue in responsive device
+
+= 1.0.0 =
+* Initial release.

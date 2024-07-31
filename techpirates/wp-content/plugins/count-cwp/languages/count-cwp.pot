@@ -1,0 +1,128 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-09-04 01:43+0300\n"
+"PO-Revision-Date: 2019-04-11 16:38+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html__;esc_att;esc_attr__;"
+"esc_attr_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-admin.php:93
+msgid "Words"
+msgstr ""
+
+#: admin/class-admin.php:94
+msgid "Characters"
+msgstr ""
+
+#: admin/class-admin.php:95
+msgid "Paragraphs"
+msgstr ""
+
+#: admin/settings-view.php:21
+msgid "About Count CWP"
+msgstr ""
+
+#: admin/settings-view.php:32
+msgid "Need support?"
+msgstr ""
+
+#: admin/settings-view.php:35
+#, php-format
+msgid ""
+"<p>If you are having problems with this plugin, please <a href="
+"\"%1$s\">contact us</a> and we will reply as soon as possible.</p>"
+msgstr ""
+
+#: admin/settings-view.php:43
+msgid "Developed by"
+msgstr ""
+
+#: admin/settings-view.php:52
+msgid "How it works?"
+msgstr ""
+
+#: admin/settings-view.php:54
+msgid ""
+"<p>You have to navigate to the <strong>Posts/Page page</strong> and "
+"then you will see a section under the editor with three strings "
+"`Characters`, `Words` and `Paragraphs`. If you start typing on the "
+"textarea field (editor) you will see that the counts will be "
+"increasing while typing.</p>"
+msgstr ""
+
+#: admin/settings-view.php:57 includes/class-w357-settings.php:128
+msgid "Settings"
+msgstr ""
+
+#: admin/settings-view.php:62
+msgid "Save Settings"
+msgstr ""
+
+#: includes/class-w357-settings.php:68
+msgid "Count CWP settings"
+msgstr ""
+
+#: includes/class-w357-settings.php:166
+msgid "Show Characters"
+msgstr ""
+
+#: includes/class-w357-settings.php:174
+#: includes/class-w357-settings.php:191
+#: includes/class-w357-settings.php:208
+#: includes/class-w357-settings.php:225
+msgid "Yes"
+msgstr ""
+
+#: includes/class-w357-settings.php:175
+#: includes/class-w357-settings.php:192
+#: includes/class-w357-settings.php:209
+#: includes/class-w357-settings.php:226
+msgid "No"
+msgstr ""
+
+#: includes/class-w357-settings.php:177
+msgid ""
+"Choose if you want to display the count of characters below each "
+"HTML textarea tag."
+msgstr ""
+
+#: includes/class-w357-settings.php:183
+msgid "Show Words"
+msgstr ""
+
+#: includes/class-w357-settings.php:194
+msgid ""
+"Choose if you want to display the count of words below each HTML "
+"textarea tag."
+msgstr ""
+
+#: includes/class-w357-settings.php:200
+msgid "Show Paragraphs"
+msgstr ""
+
+#: includes/class-w357-settings.php:211
+msgid ""
+"Choose if you want to display the count of paragraphs below each "
+"HTML textarea tag."
+msgstr ""
+
+#: includes/class-w357-settings.php:217
+msgid "Show Copyright link"
+msgstr ""
+
+#: includes/class-w357-settings.php:228
+msgid ""
+"Help the developer of this free WordPress plugin and display the "
+"copyright link below the counter."
+msgstr ""

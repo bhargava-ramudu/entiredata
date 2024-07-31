@@ -1,0 +1,42 @@
+[2024-06-09 14:43:38 : INFO] - Re_Smush_It_Task with attachment ID : 191, autocreated on : June 09, 2024 02:43:38 
+[2024-06-09 14:47:22 : INFO] - Re_Smush_It_Task with attachment ID : 192, autocreated on : June 09, 2024 02:47:22 
+[2024-06-09 14:48:43 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2024-06-09 14:48:43 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-09 14:48:43 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-09 14:48:43 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2024-06-09 14:48:43 : INFO] - Re_Smush_It_Task with attachment ID : 191, autocreated on : June 09, 2024 02:43:38 
+[2024-06-09 14:48:43 : INFO] - File: naradha-high-resolution-logo-transparent.png, Compression quality: 92 
+[2024-06-09 14:48:44 : INFO] - Backing up the original image - 2024/06/naradha-high-resolution-logo-transparent-updraft-pre-smush-original.png 
+[2024-06-09 14:48:50 : INFO] - Successfully optimized the image - /var/www/html/moviemuchatlu/wp-content/uploads/2024/06/naradha-high-resolution-logo-transparent.png.The file was compressed from 31.87 KB to 29.02 KB, saving 8.92 percent, using WP-Optimize 
+[2024-06-09 14:48:50 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2024-06-09 14:48:50 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2024-06-09 14:48:50 : INFO] - Re_Smush_It_Task with attachment ID : 192, autocreated on : June 09, 2024 02:47:22 
+[2024-06-09 14:48:50 : INFO] - File: naradha-high-resolution-logo.png, Compression quality: 92 
+[2024-06-09 14:48:52 : INFO] - Backing up the original image - 2024/06/naradha-high-resolution-logo-updraft-pre-smush-original.png 
+[2024-06-09 14:48:58 : INFO] - Successfully optimized the image - /var/www/html/moviemuchatlu/wp-content/uploads/2024/06/naradha-high-resolution-logo.png.The file was compressed from 28.56 KB to 25.29 KB, saving 11.44 percent, using WP-Optimize 
+[2024-06-09 14:48:58 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2024-06-09 14:48:58 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-09 14:48:58 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2024-06-09 14:48:58 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-09 14:48:58 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2024-06-09 14:55:41 : INFO] - Re_Smush_It_Task with attachment ID : 194, autocreated on : June 09, 2024 02:55:41 
+[2024-06-09 14:56:20 : INFO] - Re_Smush_It_Task with attachment ID : 196, autocreated on : June 09, 2024 02:56:20 
+[2024-06-09 14:58:46 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2024-06-09 14:58:46 : DEBUG] - Lock option (updraft_lock_smush, mm_options) was created in the database 
+[2024-06-09 14:58:46 : INFO] - Lock (updraft_lock_smush, mm_options) acquired after initialising the database 
+[2024-06-09 14:58:46 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2024-06-09 14:58:46 : INFO] - Re_Smush_It_Task with attachment ID : 194, autocreated on : June 09, 2024 02:55:41 
+[2024-06-09 14:58:46 : INFO] - File: cropped-naradha-high-resolution-logo-transparent.png, Compression quality: 92 
+[2024-06-09 14:58:47 : INFO] - Backing up the original image - 2024/06/cropped-naradha-high-resolution-logo-transparent-updraft-pre-smush-original.png 
+[2024-06-09 14:58:52 : INFO] - Successfully optimized the image - /var/www/html/moviemuchatlu/wp-content/uploads/2024/06/cropped-naradha-high-resolution-logo-transparent.png.The file was compressed from 18.65 KB to 8.33 KB, saving 55.33 percent, using WP-Optimize 
+[2024-06-09 14:58:52 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2024-06-09 14:58:52 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2024-06-09 14:58:52 : INFO] - Re_Smush_It_Task with attachment ID : 196, autocreated on : June 09, 2024 02:56:20 
+[2024-06-09 14:58:52 : INFO] - File: cropped-naradha-high-resolution-logo-transparent-1.png, Compression quality: 92 
+[2024-06-09 14:58:54 : INFO] - Backing up the original image - 2024/06/cropped-naradha-high-resolution-logo-transparent-1-updraft-pre-smush-original.png 
+[2024-06-09 14:59:00 : INFO] - Successfully optimized the image - /var/www/html/moviemuchatlu/wp-content/uploads/2024/06/cropped-naradha-high-resolution-logo-transparent-1.png.The file was compressed from 80.77 KB to 28.98 KB, saving 64.12 percent, using WP-Optimize 
+[2024-06-09 14:59:00 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2024-06-09 14:59:00 : INFO] - Lock option (updraft_lock_smush, mm_options) released 
+[2024-06-09 14:59:00 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2024-06-09 14:59:00 : INFO] - Lock option (updraft_lock_smush, mm_options) was deleted from the database 
+[2024-06-09 14:59:00 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
